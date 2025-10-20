@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="FL_2022_06_12_Sticks_West_coastal" id="FL_2022_06_12_Sticks_West_coastal">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>FL_2022_06_12_Sticks_West_coastal</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374894326553,48.9100214559585,16.96044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374605737627,48.910083482042,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374601211399,48.9101196080446,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374864403158,48.9101264812052,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.375192638487,48.9102160837501,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.375121559948,48.9101914409548,6.866455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.375199930742,48.9101766049862,-2.7467041015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.375220214948,48.9102911856025,8.30859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374891811982,48.9101714082062,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374497527257,48.9101566560566,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374411109835,48.9100828953087,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374340450391,48.9101150818169,9.2698974609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374204579741,48.9100343640894,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374049849808,48.9100027643144,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374064182863,48.9099789597094,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.374080276117,48.910006871447,11.1925048828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373856730759,48.9099695719779,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373695211485,48.9099909458309,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373401174322,48.9099096413702,8.30859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373419446871,48.9098851662129,8.7891845703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373341830447,48.9099006727338,10.7117919921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37325935252,48.9098386466503,8.7891845703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37308886461,48.9098311029375,9.2698974609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373148292303,48.9098090585321,7.827880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373080482706,48.9097732678056,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373123900965,48.9098334498703,3.021240234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.373066233471,48.9098398201168,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372807065025,48.9097233954817,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372695669532,48.9097157679498,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372719390318,48.9097778778523,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372605061159,48.909740159288,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372547393665,48.9096490480006,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372579328716,48.909629099071,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372349832207,48.9096169453114,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372421916574,48.9095881115645,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372364668176,48.9097099844366,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372405068949,48.9096153527498,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372228294611,48.90959196724,8.30859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372081862763,48.9096696674824,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371897460893,48.9096213039011,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371860664338,48.9095659833401,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371508289129,48.9095218107104,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370789624751,48.9092815853655,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37111945264,48.9094732794911,-56.58056640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370944270864,48.9093010313809,-8.5146484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370531378314,48.9093306194991,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370937900618,48.9093579445034,49.645263671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370669092983,48.909356687218,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370846537873,48.9093618001789,8.7891845703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371048122644,48.909470429644,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371998546645,48.9096833299845,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371746083722,48.9096689131111,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372185043991,48.9096780493855,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372217230499,48.9096487127244,-2.2659912109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Sticks_West_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.372466005385,48.9097276702523,0.137451171875</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

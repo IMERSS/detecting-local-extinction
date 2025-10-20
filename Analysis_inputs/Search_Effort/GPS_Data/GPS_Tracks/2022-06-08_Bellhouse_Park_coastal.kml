@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Frank_Lomer_2022_06_08_Bellhouse_Park_coastal" id="Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Frank_Lomer_2022_06_08_Bellhouse_Park_coastal</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312666490674,48.8725479785353,35.7060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31255953759,48.8724950049073,34.744873046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31241922453,48.872452089563,35.7060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312277067453,48.8724426180124,26.0928955078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312263321131,48.8724386785179,25.1317138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312224932015,48.872438846156,25.1317138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312183022499,48.8724120240659,24.1702880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312158044428,48.8724186457694,20.8056640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312142118812,48.8723662588745,18.40234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312174808234,48.8724245131016,15.9990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3120755665,48.8724399358034,14.076416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311988813803,48.872430967167,16.479736328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311903402209,48.8724484853446,14.5570068359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311876999214,48.8723671808839,14.5570068359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31187909469,48.8723183982074,15.5184326171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31189208664,48.8723297975957,17.9217529296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311861744151,48.8723111059517,19.36376953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311864174902,48.8722688611597,15.9990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311764094979,48.8722158875316,13.1151123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311730651185,48.8721691165119,10.231201171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311559492722,48.872029138729,10.231201171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311487324536,48.8719611614943,9.7506103515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311427058652,48.8718429766595,10.7117919921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311199322343,48.8717816211283,7.827880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310921797529,48.8716957066208,9.7506103515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310703365132,48.8716825470328,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310674782842,48.871680451557,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310628850013,48.8717317488045,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310648798943,48.8717522844672,3.021240234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310677129775,48.8717783521861,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310710070655,48.8717957865447,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31071484834,48.8717853929847,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310729181394,48.87181783095,11.1925048828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310719206929,48.8718277215958,11.1925048828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310670843348,48.8717748317868,14.076416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310654163361,48.8716894201934,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31061870791,48.8716067746282,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310607140884,48.8716424815357,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310624659061,48.8716706447303,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310722308233,48.8716853130609,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310734294355,48.8716874085367,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310799002647,48.8716983050108,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31077025272,48.8717211037874,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310752566904,48.8717572297901,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310756254941,48.871823111549,-1.3046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310819622129,48.8719010632485,-4.1885986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310879133642,48.8719336688519,-6.1112060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310964042321,48.8720316532999,-5.6304931640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311046520248,48.8720671087503,-7.5531005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311251793057,48.872105833143,-10.437255859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311386154965,48.8721123710275,-15.724365234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311346508563,48.8721918314695,-12.8404541015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311248356476,48.8722579646856,-8.9952392578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31113897264,48.8722748123109,-4.6693115234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311118353158,48.8722983654588,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311135452241,48.8723324798048,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311092117801,48.8724118564278,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311011902988,48.8725074101239,-3.7078857421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311000084504,48.8725131936371,-4.1885986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310769498348,48.8725346513093,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310706298798,48.8725916482508,-5.14990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310748292133,48.8725927378982,-4.6693115234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310689451173,48.8725996110588,-5.14990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310735635459,48.8726175483316,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310840660706,48.8726531714201,-3.7078857421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.310926239938,48.8726432807744,-1.3046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311008717865,48.8726624753326,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311043586582,48.87266096659,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311101337895,48.8726708572358,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311157664284,48.8726789876819,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311189599335,48.8726880401373,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311168476939,48.8727029599249,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311169147491,48.8726884592324,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311204267666,48.8726685103029,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311283392832,48.872660715133,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311345921829,48.8726412691176,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311423035339,48.8726478908211,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311448181048,48.8726680912077,7.827880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311470979825,48.8726744614542,10.231201171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311548596248,48.8726603798568,10.231201171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311601737514,48.8726590387523,8.7891845703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311720509082,48.8726964220405,6.866455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311765268445,48.8727063126862,8.30859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311785804108,48.8727094978094,10.7117919921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311807513237,48.8726902194321,16.479736328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311862749979,48.8726544287056,19.36376953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.311891667545,48.8726256787777,27.0543212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312011947855,48.8725623954087,23.208984375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312186207622,48.8724962621927,20.8056640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312244964764,48.8724703621119,18.40234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312518298626,48.8725028838962,14.5570068359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Bellhouse_Park_coastal">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.312623826787,48.8725224137306,14.5570068359375</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

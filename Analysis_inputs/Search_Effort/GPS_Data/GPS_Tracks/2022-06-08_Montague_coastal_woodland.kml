@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Frank_Lomer_2022_06_08_Montague_coastal_woodland" id="Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Frank_Lomer_2022_06_08_Montague_coastal_woodland</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406992489472,48.9005400985479,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407020485029,48.900659205392,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406917303801,48.9004797488451,-3.7078857421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406986203045,48.9004536811262,-3.7078857421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40696667321,48.9003924932331,-0.3433837890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407037584111,48.9003243483603,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068948403,48.900384446606,6.866455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406851505861,48.9003220852464,5.424560546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406836502254,48.900090996176,15.5184326171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406795347109,48.9000490866601,19.36376953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406891738996,48.9001575484872,9.7506103515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407231373712,48.899935092777,9.7506103515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407440418378,48.8996907602996,7.827880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407772928476,48.8997412193567,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407910810784,48.8996763434261,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407875020057,48.8996671233326,-1.7852783203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407859429717,48.8993938732892,-4.6693115234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407699586824,48.8992331922054,-4.6693115234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40771199204,48.899107798934,-7.072509765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407739233226,48.8990069646388,-9.95654296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407780472189,48.8989126682281,-9.475830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407818442211,48.8988996762782,-10.9178466796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407818693668,48.8988819066435,-9.475830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407783489674,48.8988384883851,-8.033935546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407739317045,48.8987485505641,-8.5146484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407657174394,48.8987788930535,-9.475830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407616354525,48.8987649790943,-8.5146484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407607050613,48.8987019471824,-11.879150390625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407610822469,48.8987308647484,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407657006755,48.8986386638135,-6.1112060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407633705065,48.8986036274582,-5.6304931640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40760814026,48.8985583651811,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407642841339,48.8985576946288,-4.1885986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407665723935,48.8985454570502,-2.2659912109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407657928765,48.8985424395651,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407546868548,48.8985057268292,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407428599894,48.898476138711,-4.6693115234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407435305417,48.8983895536512,-1.7852783203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407647870481,48.8983460515738,-4.1885986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407736299559,48.8983401004225,-6.1112060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407778125256,48.898301711306,-3.227294921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407856160775,48.8983187265694,-2.2659912109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407944086939,48.8983432017267,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408046094701,48.8983516674489,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40806344524,48.898309757933,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408095799387,48.8982792478055,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408144498244,48.8981824368238,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408165117726,48.8981369230896,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408172326162,48.8980984501541,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408215409145,48.8980523496866,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408272238448,48.8979974482208,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408286403865,48.8979695364833,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408300904557,48.8979372661561,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408298138529,48.8978940993547,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408365529031,48.8978085201234,3.021240234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408392099664,48.8977671135217,3.982666015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408421184868,48.897768035531,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408387657255,48.8979061692953,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408255139366,48.8980555348098,3.021240234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408149611205,48.8981823530048,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408111725003,48.8982219155878,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40802279301,48.8983986061066,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407955151051,48.8984853588045,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407739484683,48.8985605444759,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407690199092,48.8985602091998,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407524740323,48.8985723629594,-1.3046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407498002052,48.8985763024539,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407360035926,48.8985381647944,-1.7852783203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407274791971,48.898563394323,-2.2659912109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40716406703,48.8985561020672,-2.2659912109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407190302387,48.8985759671777,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40718829073,48.8985746260732,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407204048708,48.8985891267657,3.501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407195666805,48.898587115109,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407182171941,48.8985847681761,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407166497782,48.898584516719,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407148811966,48.8985737040639,-0.3433837890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407109081745,48.8984665833414,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406967092305,48.8983985222876,-0.3433837890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406832981855,48.8984015397727,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40685158968,48.8983686827123,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406796269119,48.8982623163611,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40673298575,48.898222502321,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406621841714,48.898222418502,-8.5146484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406610442325,48.8981202431023,-8.033935546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406469374895,48.8979805167764,-7.072509765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406231245026,48.8978956080973,-8.9952392578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406190257519,48.8977371901274,-6.5919189453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406080789864,48.8976328354329,-7.072509765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405832434073,48.8976141437888,-9.475830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405694803223,48.8976284768432,-8.5146484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405440999195,48.8977273833007,-5.14990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405110081658,48.8976340927184,-9.95654296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405101113021,48.8974393811077,-11.3984375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405270176008,48.8972027599812,-7.5531005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405320048332,48.8971090503037,-3.7078857421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405441669747,48.8970291707665,-1.7852783203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4054648038,48.8969955593348,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405496235937,48.8969663064927,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405655156821,48.8969069626182,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405805360526,48.8968285080045,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405869482085,48.8967991713434,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405930167064,48.8967696670443,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405976518989,48.8967553339899,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406057991087,48.8967779651284,7.34716796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406058410183,48.8967652246356,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405930837616,48.8967580161989,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405922371894,48.8967540767044,6.3858642578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405851796269,48.8967564236373,4.4632568359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405718272552,48.8968100678176,1.0986328125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405531942844,48.8969028554857,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405434964225,48.8969679828733,-0.8240966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405342176557,48.8970310986042,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40525357984,48.8970446772873,-0.3433837890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405086277053,48.8970957230777,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405000865459,48.897223379463,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404685286805,48.897371487692,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404154377058,48.8975227810442,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.403800912201,48.8976476714015,1.579345703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.403475023806,48.8975841365755,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.403386091813,48.8975568953902,0.6180419921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.402660889551,48.8975335936993,4.94384765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.402429381385,48.8978085201234,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406604407355,48.9001723844558,12.6343994140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406611448154,48.9001744799316,12.6343994140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406801884994,48.9001644216478,11.6732177734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406939348206,48.9002699498087,11.6732177734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406881177798,48.9002503361553,17.441162109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406920656562,48.9002800919116,17.441162109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407025514171,48.9002910722047,19.8443603515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407035404816,48.9003624860197,10.7117919921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407142693177,48.9002750627697,2.06005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_08_Montague_coastal_woodland">
+		<SimpleData name="altitudeMo">clampToGround</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407104974613,48.9002557843924,3.501953125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

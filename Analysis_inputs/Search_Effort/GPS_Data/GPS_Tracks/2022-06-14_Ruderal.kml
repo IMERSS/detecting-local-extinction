@@ -1,0 +1,3052 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Frank_Lomer_2022_06_14_Ruderal" id="Frank_Lomer_2022_06_14_Ruderal">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+</Schema>
+<Folder><name>Frank_Lomer_2022_06_14_Ruderal</name>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.332929742,48.8665151880001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.332446776,48.866789779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.331608418,48.8667008470001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3306129,48.8668292570001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.330147369,48.866607388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.329627858,48.8665228150001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.329431219,48.8667320270001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.329322673,48.867129246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.329058057,48.8671550620001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32631818,48.867082139,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32615993,48.866745355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.325863378,48.8670312610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.325165249,48.8667617830001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324631657,48.8667012660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323729681,48.86673714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323746277,48.8668986600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323584925,48.8667891920001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32280633,48.8667743560001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322831644,48.8668488710001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322608015,48.86695683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322282713,48.8667492100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322368627,48.8665460330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322289083,48.8661757200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322053384,48.865807084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32208138,48.8652812880001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322194284,48.865127144,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322005607,48.8645032790001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322066544,48.863678416,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321767561,48.864023499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322511623,48.8650992330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321999656,48.8654798550001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322040141,48.8666461130001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321461789,48.866838897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320230572,48.8668114880001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319023242,48.8669394790001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318631053,48.866895307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318582606,48.867020197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318312792,48.867153553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318583779,48.866969822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318543881,48.866898324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31785447,48.866841579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317778949,48.866970241,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318030657,48.867646828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318363419,48.8681629020001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318864238,48.8692695650001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31896021,48.869343912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318687715,48.8688980790001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318733983,48.868779391,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318672962,48.8686500580001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318726942,48.8686425980001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318603896,48.8685296100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318540445,48.8684157000001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318595598,48.8684152810001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318512868,48.8683241700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318515467,48.868397595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317949269,48.8674107940001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317838544,48.8670627770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317377204,48.8668021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316673208,48.8667441810001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316497942,48.866912993,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316309266,48.8668032740001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316064682,48.8657974450001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316099383,48.8655550410001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316277079,48.8654064290001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316096114,48.8650726620001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316497523,48.8641623870001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314466672,48.863382619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314426271,48.863341631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314571027,48.8633653520001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314488381,48.8632796050001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314656522,48.863313636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316203821,48.8640510760001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316372801,48.8648357060001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316054624,48.8655926750001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316247324,48.8667819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.315617004,48.8667911200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314487711,48.8671039320001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314582091,48.867173167,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314684769,48.86746427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.314901525,48.867608858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3161081,48.868959267,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.315753629,48.8691943790001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.315127417,48.869359251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.315905342,48.869108129,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.316266434,48.8691105600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317021728,48.869988145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31797475,48.8706478010001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318868177,48.8706551770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319314513,48.870577058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319449378,48.870613603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319451893,48.8705362380001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319668984,48.87060036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320067292,48.870330546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320513964,48.870281177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321027355,48.870448815,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321007323,48.870545877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32109659,48.8704478930001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32135953,48.870437667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321069768,48.87043247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321033055,48.8704986870001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321064822,48.870805046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321111174,48.8707546700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321049232,48.8708073930001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321094997,48.8708693350001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321053423,48.871177705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320698114,48.8712504600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320776066,48.8712862510001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320427043,48.8712922020001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32042126,48.8715303320001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319866378,48.87189771,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320073914,48.8720153090001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320428552,48.8738480960001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320469204,48.8742217610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320066286,48.8742118700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320066119,48.874151856,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320424445,48.8742314840001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320584288,48.874416137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320611613,48.8748977610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320189584,48.8750726920001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318956019,48.875253908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318649409,48.8751919660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318328802,48.874980658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318236433,48.8748515770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318476658,48.874782259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318271469,48.8748295330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.317117952,48.874305328,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319034558,48.875233876,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31919549,48.875314007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319146205,48.8753772060001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319001114,48.875294141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319436386,48.875292465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319928823,48.8751848410001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320404748,48.8749843460001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320618318,48.8750022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32120413,48.875451051,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321718695,48.875715751,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322123876,48.876171056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323125346,48.8769882920001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323286446,48.877323903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323362051,48.877686001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323083268,48.878561324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322938764,48.879347378,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320685877,48.879425665,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320204923,48.8793742840001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320511533,48.8784154780001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32043794,48.8784109520001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320446657,48.8786045740001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320237948,48.8791429440001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320086487,48.8793031220001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318896005,48.8791441170001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.31960042,48.8797937150001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320520502,48.880481785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320580432,48.88042571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320412543,48.8803225290001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320572888,48.8804812820001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320990223,48.8813310400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321706373,48.8822933660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322236026,48.8826010660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322882941,48.8828259520001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324050037,48.882884458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.325419221,48.883197941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3245584,48.882986885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324652947,48.883266002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324853443,48.883242114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324759984,48.8832200690001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324711537,48.8831180610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324895604,48.8831496610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32494095,48.883233648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324691923,48.8831909000001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324658647,48.8829966910001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.324709022,48.8830210830001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322465522,48.8822461760001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322396791,48.8823486860001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322372986,48.8822380450001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322393689,48.8823392990001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322520172,48.8823568170001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322349517,48.882570472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322390756,48.8827474140001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322588066,48.8831753100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322923928,48.883583425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322887551,48.8840207920001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322279109,48.8848289750001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322216077,48.8849559610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322280617,48.885007091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322236612,48.884949088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322401401,48.88463133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322552945,48.884389512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322590915,48.884443827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322493434,48.8843555660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322951756,48.883645115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322565015,48.8830175620001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322393103,48.882603412,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32234717,48.8822341060001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32197669,48.8818147590001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320957618,48.88104815,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320863657,48.8807421270001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319700584,48.8797850810001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318809839,48.879201869,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.318193601,48.879007325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.319144025,48.879277222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.320025466,48.879400855,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.321164316,48.8793945690001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.322773306,48.8792376590001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.323733956,48.8793783080001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32469142,48.879655246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.325433554,48.8800464290001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.326012576,48.88063794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.326362604,48.8814954930001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.326397976,48.881850969,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.32737036,48.8827879820001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.328672154,48.883322245,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.330585491,48.8839644660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.331023362,48.884423543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33138546,48.88495177,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.331852667,48.885353347,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.332864949,48.885940164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.333858205,48.8869799390001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.334743837,48.8876126050001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336393228,48.8882995020001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336917935,48.8886737540001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.337987214,48.8889836330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33879808,48.8891272990001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.338530194,48.8899357340001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33856917,48.889624095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33874871,48.889160659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.340098029,48.8893675250001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.341024145,48.889608756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.341976916,48.889682097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.343227999,48.8894526010001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.343650531,48.8895632420001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.343700236,48.889648821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344175154,48.889823332,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.343942473,48.890066324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344185129,48.890078729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344115224,48.8901855140001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344176831,48.8901812400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34413182,48.8901279310001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34445863,48.890132038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346486799,48.8905514680001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347811978,48.8900722750001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348435257,48.889723588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349125171,48.889485877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35063559,48.8891583120001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351350985,48.8887111380001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351765219,48.8882384820001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351977281,48.8877055610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351905532,48.8869260440001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35107455,48.885711171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351024259,48.8843227080001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351107491,48.8788642450001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351047141,48.8762979580001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349766303,48.8745946720001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349494897,48.8741036600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348620161,48.873659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347907448,48.873002613,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348445818,48.872321835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348954599,48.871065807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349111928,48.869658234,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348584371,48.8691464350001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347250978,48.8685127630001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346330896,48.8679252750001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345509218,48.8680434600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345564958,48.8681912330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346229559,48.8685545880001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346336763,48.868705295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346332069,48.868897744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34597257,48.869228326,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345892355,48.8692131550001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345921272,48.8691385560001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346267948,48.869087258,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346150266,48.869119864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345942562,48.8689954770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346138448,48.8692225420001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345874082,48.869004445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346083881,48.868948705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350290256,48.8926726770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346910086,48.892297419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345209146,48.8913043310001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346725348,48.8900794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347670743,48.889995916,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348953677,48.8894691130001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350807335,48.88915387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.352160593,48.888610639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.352384306,48.888067408,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351914836,48.886707695,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351023337,48.8858053000001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350951923,48.8816022780001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351002969,48.8762987960001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350821417,48.8758868260001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349184431,48.874422424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348816214,48.8739874030001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348263511,48.8737235400001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346822495,48.8684580290001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3463086,48.8677981220001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345058104,48.867844893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346950989,48.869164707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345999643,48.8690243940001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346108021,48.8689428380001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark</name>
+	<ExtendedData><SchemaData schemaUrl="#Frank_Lomer_2022_06_14_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346023029,48.869216088,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

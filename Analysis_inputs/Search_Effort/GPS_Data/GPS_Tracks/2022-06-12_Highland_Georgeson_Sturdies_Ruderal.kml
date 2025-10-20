@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal" id="FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="descript_1" type="string"></SimpleField>
+	<SimpleField name="altitude_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350566020235,48.8791928999126,17.9217529296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350762911141,48.8790048100054,33.3028564453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350587980822,48.8791195582598,34.744873046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350508185104,48.8791210670024,28.4962158203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350888639688,48.8790582027286,34.744873046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351002549753,48.8791549298912,33.783447265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351024761796,48.8794021960348,36.66748046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350975643843,48.8798175193369,33.3028564453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350960891694,48.8810278661549,33.3028564453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351009925827,48.8812947459519,33.783447265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350895345211,48.882111646235,38.109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350932896137,48.883404135704,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35106683895,48.8835835084319,43.8773193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351219305769,48.8840380590409,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351228525862,48.8842647895217,45.3192138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351203883067,48.8843662105501,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351131547242,48.8842525519431,43.8773193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35102870129,48.884543068707,43.3966064453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351008249447,48.8855832628906,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351032724604,48.8858975842595,38.109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351102545857,48.8862185273319,38.109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351299604401,48.8866640254855,40.993408203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351173372939,48.886778941378,46.76123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351205643266,48.886747341603,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351227771491,48.8867850601673,45.3192138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351225843653,48.8868464156985,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351173121482,48.8868560548872,49.645263671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351356517524,48.886882122606,52.5291748046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351339418441,48.8869589008391,53.490478515625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35117504932,48.8868677057326,49.645263671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351156525314,48.8868244551122,47.7225341796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35110749118,48.8868315797299,49.16455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351103048772,48.8868654426187,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351047895849,48.8868626765907,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350810687989,48.886749939993,47.7225341796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350859303027,48.886712891981,50.1259765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350823344663,48.8866632711142,48.6839599609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350955946371,48.8866238761693,48.203369140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351152166724,48.8866341859102,46.76123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351229196414,48.8867011573166,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351284433156,48.8866067770869,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3514312841,48.8865606766194,44.3580322265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351641837507,48.8867236208171,43.3966064453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35185021162,48.8872500881553,43.3966064453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351898072287,48.8876438699663,44.3580322265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351842332631,48.8879110012203,45.3192138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351405216381,48.8879758771509,48.203369140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350819488987,48.8881594408303,42.916015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350776322186,48.8882203772664,43.8773193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350825607777,48.888288019225,40.0321044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350899703801,48.8882975745946,41.9547119140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35084865801,48.8883342873305,37.628662109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350887969136,48.8883460219949,38.590087890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350837342441,48.888343423605,43.3966064453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350843628868,48.8882263284177,38.109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350743632764,48.8882553298026,40.993408203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350657718256,48.8882039487362,40.993408203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350729048252,48.888195483014,46.76123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350791828707,48.8881354685873,46.2806396484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350771879777,48.8880929723382,46.76123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350935913622,48.8879703450948,42.4354248046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350954605266,48.887888872996,45.3192138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350870702416,48.8877627253532,43.8773193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350740363821,48.8876856956631,42.916015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350763497874,48.887640601024,45.3192138671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350808508694,48.8877173792571,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350988468155,48.8878218177706,48.203369140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350885789841,48.8880029506981,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350788475946,48.8880558405071,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350841617212,48.8881178665906,48.203369140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350919820368,48.8881305232644,47.7225341796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351485263556,48.8880356401205,52.5291748046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351822802797,48.8880857639015,49.16455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351801680401,48.888150556013,48.6839599609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351384764537,48.8885965570807,48.203369140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350517237559,48.8891355134547,46.76123046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349621295929,48.8893071748316,46.2806396484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349041854963,48.889350425452,44.3580322265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348144069314,48.8897470571101,40.0321044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347787586972,48.8899764697999,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347089961171,48.8902650587261,38.590087890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347136648372,48.8903201278299,37.628662109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347230693325,48.890341585502,36.66748046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3473904524,48.8902825769037,33.783447265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347018044442,48.8903055433184,35.7060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346883095801,48.8903406634927,35.2254638671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346694670618,48.8901949860156,34.26416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346606073901,48.8901783898473,34.26416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346616216004,48.8902175333351,33.783447265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346878904849,48.890333538875,33.783447265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346672626212,48.8904326967895,34.744873046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346213465557,48.8904877658933,36.186767578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34614649415,48.8905311841518,37.1480712890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346646474674,48.8912812806666,33.3028564453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347248882055,48.8916580472142,30.4188232421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348317323253,48.8919046428055,30.4188232421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348323861137,48.8919539283961,30.4188232421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348177932203,48.8922824151814,34.26416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347515594214,48.8923353049904,34.26416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348238281906,48.8922177068889,31.380126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348347414285,48.891932470724,36.66748046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348520919681,48.891863906756,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347739139572,48.8916860427707,41.9547119140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347064144909,48.8913764990866,42.916015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346680672839,48.8909899257123,41.9547119140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346499791369,48.8906024303287,42.916015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347560521215,48.8902227301151,42.4354248046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348871450871,48.8895483221859,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349638814107,48.8893894851208,40.0321044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349604113027,48.889429634437,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34959346801,48.8893775828183,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349635209888,48.8893567118794,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350100489333,48.8893128745258,40.993408203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350799959153,48.8890996389091,41.4739990234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351467745379,48.8886410649866,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351823473349,48.8882205449045,44.838623046875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351954817772,48.88772232458,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351854234934,48.8870733138174,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351418711245,48.8863606844097,47.7225341796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351028533652,48.8856042176485,46.2806396484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350989641622,48.8847046718001,44.3580322265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350984193385,48.8830325659364,46.2806396484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350958880037,48.8830702006817,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351060301065,48.8794835004956,40.5128173828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.351023504511,48.8761721458286,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.350312551484,48.8754424173385,40.0321044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.349426751956,48.8743241038173,40.0321044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347882470116,48.8729772157967,39.0706787109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348114900291,48.8724350742996,38.590087890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348709763959,48.8715070299804,39.0706787109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348852843046,48.8704247586429,39.0706787109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348522009328,48.8694121409208,39.0706787109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347602766007,48.8687657285482,38.590087890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34703036584,48.8685266766697,37.1480712890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346848394722,48.8683210685849,42.916015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346505574882,48.8680775742978,40.5128173828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345899144188,48.867866601795,38.109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345276787877,48.8679265324026,39.55126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345248457044,48.8681193161756,50.1259765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345175199211,48.8680211640894,50.1259765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345090374351,48.8679852895439,50.1259765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345481138676,48.868072964251,45.7999267578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345611225814,48.8682246766984,47.2418212890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345874585211,48.868376808241,57.3358154296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34599419497,48.8685129303485,59.7391357421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346272474155,48.8686822447926,65.9876708984375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346267361194,48.8688301853836,68.390869140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34615252912,48.8689752761275,71.7554931640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346073739231,48.8689690735191,73.1976318359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345689931884,48.8688116613775,74.1588134765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345631929114,48.8687575142831,75.1202392578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345650201663,48.8687034510076,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345718178898,48.8688194565475,82.810791015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345981622115,48.8689640443772,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346006600186,48.869092958048,80.407470703125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345886319876,48.8692420721054,79.9266357421875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34602185525,48.8694014120847,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346213717014,48.8693449180573,78.4847412109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346045995131,48.8692781981081,78.4847412109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346330309287,48.8693040143698,18.40234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346255710348,48.8692051079124,64.545654296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34641748108,48.8694987259805,64.545654296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346226625144,48.8690615259111,108.28564453125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345826473087,48.8689439278096,78.4847412109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347502686083,48.8730011042207,78.4847412109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346278173849,48.8690683990717,103.47900390625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.348780255765,48.8683343119919,103.47900390625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346073571593,48.8691978156567,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345886068419,48.8691191095859,63.5843505859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345975335687,48.8692962191999,31.380126953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345997044817,48.8695147354156,14.076416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345899730921,48.869412811473,14.076416015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345855809748,48.8698064256459,41.9547119140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346154959872,48.8692032638937,74.1588134765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346189493313,48.8683607149869,75.600830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346291836351,48.8684711884707,75.600830078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346192007884,48.8696180842817,56.8551025390625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345937533304,48.8695120532066,60.7003173828125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345894953236,48.8695796951652,61.1810302734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344981158152,48.8688885234296,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346101148054,48.8690207898617,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346070637926,48.8692255597562,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346693748608,48.8687667343765,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346087737009,48.869272582233,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345927055925,48.8693574909121,58.7777099609375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34637506865,48.8688387349248,119.821411132812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346688300371,48.8687192928046,121.744140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345949016511,48.8711429201066,121.744140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.347212420776,48.8688332866877,121.744140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346271300688,48.8691422436386,87.6171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346071308479,48.8690825644881,87.6171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346149343997,48.8689596019685,87.6171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346203155816,48.8691513799131,72.2362060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346078852192,48.8691727537662,72.2362060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346141632646,48.8691562414169,72.2362060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346482859924,48.8686668220907,72.2362060546875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346149176359,48.869169568643,87.1365966796875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346382277086,48.8693894259632,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346499120817,48.8675218541175,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346170969307,48.8690743502229,79.446044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346268786117,48.8692081253976,82.810791015625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346224697307,48.8691571634263,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346326285973,48.8687544129789,86.656005859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346291165799,48.8690283335745,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34737226367,48.8690176885575,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346584029496,48.8689590152353,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346129311249,48.8688757829368,82.330078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346224529669,48.86908239685,71.27490234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346114894375,48.8690790440887,70.3134765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346066782251,48.8689174409956,95.7884521484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346329890192,48.8697104528546,95.7884521484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.344492996112,48.8664757926017,95.7884521484375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346047922969,48.8690391462296,90.98193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346149763092,48.8691069558263,90.98193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346210196614,48.8692150823772,78.4847412109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346050688997,48.8693093787879,52.048583984375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3461872302,48.8688251562417,74.6395263671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34621489048,48.868958093226,74.6395263671875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346377331764,48.8690317701548,129.434692382812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346479255706,48.869246346876,94.3465576171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.34604691714,48.8691654615104,92.4239501953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346362579614,48.868918530643,90.98193359375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346291668713,48.869008468464,87.6171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346339697018,48.8691772799939,95.3077392578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346516890451,48.86888676323,141.451049804688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346552429721,48.8689287565649,141.451049804688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346369452775,48.8694401364774,141.451049804688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346303654835,48.8695168308914,141.451049804688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346316479146,48.8690905272961,104.4404296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346394849941,48.8690616935492,104.4404296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346061920747,48.8690676447004,86.17529296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346114391461,48.869047947228,70.3134765625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346084048972,48.8690651301295,76.5621337890625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.346246993169,48.8692797906697,-9.95654296875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Highland_Georgeson_Sturdies_Ruderal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.345897300169,48.8690520543605,9.7506103515625</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

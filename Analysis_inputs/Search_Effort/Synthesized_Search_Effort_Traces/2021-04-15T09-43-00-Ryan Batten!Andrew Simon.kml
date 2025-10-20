@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon" id="2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:43:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533246,48.95873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:43:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53324125,48.9587405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:43:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5332365,48.958751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:43:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53323175,48.9587615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:44:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533227,48.958772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:44:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53322225,48.9587825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:44:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5332175,48.958793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:44:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53321275,48.9588035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:45:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533208,48.958814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:45:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53320325,48.9588245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:45:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5331985,48.958835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:45:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53319375,48.9588455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:46:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533189,48.958856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:46:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53318425,48.9588665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:46:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5331795,48.958877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:46:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53317475,48.9588875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:47:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53317,48.958898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:47:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533152083333,48.9588833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:47:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533134166667,48.9588686666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:47:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53311625,48.958854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:48:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533098333333,48.9588393333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:48:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533080416667,48.9588246666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:48:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5330625,48.95881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:48:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533044583333,48.9587953333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:49:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533026666667,48.9587806666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:49:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53300875,48.958766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:49:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532990833333,48.9587513333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:49:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532972916667,48.9587366666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:50:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532955,48.958722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:50:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53295,48.9587150625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:50:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532945,48.958708125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:50:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53294,48.9587011875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:51:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532935,48.95869425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:51:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53293,48.9586873125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:51:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532925,48.958680375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:51:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53292,48.9586734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:52:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532915,48.9586665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:52:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53291,48.9586595625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:52:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532905,48.958652625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:52:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5329,48.9586456875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:53:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532895,48.95863875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:53:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53289,48.9586318125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:53:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532885,48.958624875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:53:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53288,48.9586179375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:54:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532875,48.958611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:54:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532873958333,48.9586109583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:54:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532872916667,48.9586109166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:54:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532871875,48.958610875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:55:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532870833333,48.9586108333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:55:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532869791667,48.9586107916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:55:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53286875,48.95861075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:55:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532867708333,48.9586107083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:56:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532866666667,48.9586106666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:56:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532865625,48.958610625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:56:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532864583333,48.9586105833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:56:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532863541667,48.9586105416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:57:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5328625,48.9586105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:57:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532861458333,48.9586104583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:57:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532860416667,48.9586104166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:57:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532859375,48.958610375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:58:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532858333333,48.9586103333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:58:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532857291667,48.9586102916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:58:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53285625,48.95861025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:58:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532855208333,48.9586102083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:59:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532854166667,48.9586101666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:59:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532853125,48.958610125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:59:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532852083333,48.9586100833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 16:59:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532851041667,48.9586100416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:00:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53285,48.95861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:00:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5327825,48.95859125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:00:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532715,48.9585725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:00:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5326475,48.95855375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:01:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53258,48.958535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:01:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53257865,48.95853355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:01:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325773,48.9585321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:01:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53257595,48.95853065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:02:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325746,48.9585292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:02:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53257325,48.95852775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:02:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325719,48.9585263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:02:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53257055,48.95852485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:03:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325692,48.9585234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:03:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53256785,48.95852195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:03:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325665,48.9585205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:03:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53256515,48.95851905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:04:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325638,48.9585176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:04:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53256245,48.95851615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:04:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325611,48.9585147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:04:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53255975,48.95851325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:05:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325584,48.9585118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:05:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53255705,48.95851035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:05:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325557,48.9585089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:05:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53255435,48.95850745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:06:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532553,48.958506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:06:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53267025,48.95853975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:06:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5327875,48.9585735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:06:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53290475,48.95860725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:07:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.533022,48.958641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:07:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5329931875,48.95862525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:07:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532964375,48.9586095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:07:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5329355625,48.95859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:08:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53290675,48.958578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:08:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5328779375,48.95856225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:08:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532849125,48.9585465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:08:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5328203125,48.95853075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:09:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5327915,48.958515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:09:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5327626875,48.95849925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:09:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532733875,48.9584835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:09:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5327050625,48.95846775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:10:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.53267625,48.958452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:10:15+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5326474375,48.95843625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:10:30+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532618625,48.9584205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:10:45+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5325898125,48.95840475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_04_15T09_43_00_Ryan_Batten_Andrew_Simon">
+		<SimpleData name="time">2021/04/15 17:11:00+00</SimpleData>
+		<SimpleData name="effortId">2021-04-15T09-43-00-Ryan Batten</SimpleData>
+		<SimpleData name="searchWeight">66.4285714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.532561,48.958389</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

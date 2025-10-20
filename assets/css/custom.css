@@ -1,0 +1,335 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i&display=swap";
+
+table {
+  /* Override absolutely insane display:block in hextra core style */
+    display: table !important;
+}
+
+:root {
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-border-width: 1px;
+    --bs-border-style: solid;
+    --bs-border-color: #dee2e6;
+    --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
+    --bs-border-radius: 0.375rem;
+    --bs-border-radius-lg: 0.5rem;
+    --bs-body-color: #212529;
+    --bs-body-font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+    font-family: var(--bs-body-font-family)
+}
+
+.nav {
+    --bs-navbar-color: rgba(255, 255, 255, 0.55);
+    --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
+    --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
+    --bs-navbar-active-color: #fff;
+    --bs-navbar-brand-color: #fff;
+    --bs-navbar-brand-hover-color: #fff;
+
+    --bs-nav-link-padding-x: 1rem;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-size: 1rem;
+    --bs-nav-link-font-weight: 500;
+    --bs-nav-link-color: rgba(255, 255, 255, 0.55);
+    --bs-nav-link-hover-color: rgba(255, 255, 255, 0.75);
+
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none
+}
+
+.imerss-navbar-title {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.imerss-navbar {
+    background: #30638e
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y)var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out
+}
+
+.nav .nav-link.active {
+    color: var(--bs-navbar-active-color);
+}
+
+@media (min-width: 768px) {
+    .imerss-navbar-cover .nav-link {
+        text-shadow: 1px 1px 2px #403f4c;
+        color: white;
+    }
+}
+
+.imerss-cover-block {
+    position: absolute;
+    /** Need to account for width of scrollbar? **/
+    width: calc(100vw - 14px);
+    height: 100vh;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    background-image: url(../featured-background.jpg);
+}
+
+.imerss-cover-block::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(64,63,76,.3);
+}
+
+.imerss-overlay-inner {
+    position: relative;
+    z-index: 1;
+}
+
+.imerss-cover-block h1 {
+    color: white;
+    padding-top: 128px;
+    font-weight: 300;
+    font-size: 80px;
+    max-width: 70vw;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.imerss-lead {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.imerss-lead * {
+    margin: 0 10px;
+}
+
+.pageinfo {
+    font-weight: 500;
+    background: #d6e0e8;
+    color: inherit;
+    margin: 2rem auto;
+    padding: 1.5rem;
+}
+
+.dark .pageinfo{
+    background: #124250;
+}
+
+@font-face {
+    font-family: 'font awesome 6 brands';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(../webfonts/fa-brands-400.woff2)format("woff2")
+}
+
+@font-face {
+    font-family: 'font awesome 6 free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url(../webfonts/fa-solid-900.woff2)format("woff2")
+}
+
+.fas {
+    font-family: 'font awesome 6 free';
+    font-style: normal;
+}
+
+.fab {
+    font-family: 'font awesome 6 brands';
+    font-style: normal;
+}
+
+.fa-arrow-alt-circle-right {
+    --fa: "\f35a";
+}
+
+.fa-github {
+    --fa: "\f09b";
+}
+
+.fas::before, .fab::before {
+    content: var(--fa);
+}
+
+/* Ripped off from Bootstrap button */
+
+.imerss-btn, div.drawio button,.td-blog .td-rss-button {
+    --bs-btn-padding-x: 0.75rem;
+    --bs-btn-padding-y: 0.375rem;
+    --bs-btn-font-size: 1rem;
+    --bs-btn-font-weight: 400;
+    --bs-btn-line-height: 1.5;
+    --bs-btn-color: var(--bs-body-color);
+    --bs-btn-bg: transparent;
+    --bs-btn-border-width: var(--bs-border-width);
+    --bs-btn-border-color: transparent;
+    --bs-btn-border-radius: var(--bs-border-radius);
+    --bs-btn-hover-border-color: transparent;
+    --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+    --bs-btn-disabled-opacity: 0.65;
+    --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+    display: inline-block;
+    padding: var(--bs-btn-padding-y)var(--bs-btn-padding-x);
+    font-family: var(--bs-btn-font-family);
+    font-size: var(--bs-btn-font-size);
+    font-weight: var(--bs-btn-font-weight);
+    line-height: var(--bs-btn-line-height);
+    color: var(--bs-btn-color);
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: var(--bs-btn-border-width)solid var(--bs-btn-border-color);
+    border-radius: var(--bs-btn-border-radius);
+    background-color: var(--bs-btn-bg);
+    background-image: var(--bs-gradient);
+    box-shadow: var(--bs-btn-box-shadow);
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.imerss-btn-lg {
+    --bs-btn-padding-y: 0.5rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size: 1.25rem;
+    --bs-btn-border-radius: var(--bs-border-radius-lg);
+}
+
+.imerss-btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #30638e;
+    --bs-btn-border-color: #30638e;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #295479;
+    --bs-btn-hover-border-color: #264f72;
+    --bs-btn-focus-shadow-rgb: 79, 122, 159;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #264f72;
+    --bs-btn-active-border-color: #244a6b;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #30638e;
+    --bs-btn-disabled-border-color: #30638e
+}
+
+.imerss-btn-secondary {
+    --bs-btn-color: #000;
+    --bs-btn-bg: #ffa630;
+    --bs-btn-border-color: #ffa630;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #ffb34f;
+    --bs-btn-hover-border-color: #ffaf45;
+    --bs-btn-focus-shadow-rgb: 217, 141, 41;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #ffb859;
+    --bs-btn-active-border-color: #ffaf45;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #000;
+    --bs-btn-disabled-bg: #ffa630;
+    --bs-btn-disabled-border-color: #ffa630
+}
+
+.imerss-btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color)
+}
+
+div.para {
+    margin-top: 1.5rem;
+}
+
+.pagedtable-header-name {
+  font-size: 12px;
+}
+
+.pagedtable-header-type {
+    display: none;
+}
+
+/** Hack to make size calculation use smaller font size */
+.pagedtable > table:first-of-type {
+  font-size: 12px;
+}
+
+.pagedtable-wrapper {
+  margin-top: 10px;
+}
+
+/* Stolen for collapse */
+
+.collapse {
+    display: none;
+}
+
+.collapse.show {
+    display: block;
+}
+
+
+/* Search button */
+
+.search-wrapper input {
+    border-radius: 100px;
+    border-color: #0000;
+    border-width: 2px;
+    background-color: rgba(243 244 246 / 0.5);
+    outline: 2px solid transparent;
+    padding: 0.3rem 5px 0.3rem 2.5rem;
+}
+
+.search-wrapper input:focus {
+    border-color: #444;
+    background-color: rgb(243 244 246);
+}
+
+/* Stolen for search */
+
+.search-icon {
+    left: 0px;
+    position: absolute;
+    pointer-events: none;
+    align-items: center;
+    padding-left: 0.7rem;
+}
+
+.clear-search-button {
+    position: absolute;
+    right: 10px;
+    display: none;
+    outline: none;
+    color: var(--bs-body-color);
+}
+
+.search-wrapper input:not(:placeholder-shown) + .clear-search-button {
+    display: inline;
+}
+
+.clear-search-button:hover {
+    color: var(--bs-nav-link-color);
+}
+
+.search-wrapper .excerpt {
+    display: none;
+}

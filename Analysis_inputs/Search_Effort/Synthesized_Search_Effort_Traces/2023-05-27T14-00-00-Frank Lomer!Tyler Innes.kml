@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes" id="2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:43:53+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408528,48.908787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:44:08.526+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408523526316,48.9087820526316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:44:24.053+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408519052632,48.9087771052632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:44:39.579+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408514578947,48.9087721578947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:44:55.105+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408510105263,48.9087672105263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:45:10.632+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408505631579,48.9087622631579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:45:26.158+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408501157895,48.9087573157895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:45:41.684+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408496684211,48.908752368421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:45:57.211+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408492210526,48.9087474210526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:46:12.737+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408487736842,48.9087424736842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:46:28.263+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408483263158,48.9087375263158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:46:43.789+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408478789474,48.9087325789474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:46:59.316+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408474315789,48.9087276315789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:47:14.842+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408469842105,48.9087226842105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:47:30.368+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408465368421,48.9087177368421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:47:45.895+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408460894737,48.9087127894737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:48:01.421+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408456421053,48.9087078421053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:48:16.947+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408451947368,48.9087028947368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:48:32.474+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408447473684,48.9086979473684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:48:48+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408443,48.908693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:49:03.143+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408446628571,48.9086936285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:49:18.286+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408450257143,48.9086942571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:49:33.429+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408453885714,48.9086948857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:49:48.571+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408457514286,48.9086955142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:50:03.714+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408461142857,48.9086961428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:50:18.857+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408464771429,48.9086967714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:50:34+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4084684,48.9086974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:50:49.143+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408472028571,48.9086980285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:51:04.286+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408475657143,48.9086986571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:51:19.429+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408479285714,48.9086992857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:51:34.571+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408482914286,48.9086999142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:51:49.714+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408486542857,48.9087005428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:52:04.857+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408490171429,48.9087011714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:52:20+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4084938,48.9087018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:52:35.143+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408497428571,48.9087024285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:52:50.286+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408501057143,48.9087030571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:53:05.429+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408504685714,48.9087036857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:53:20.571+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508314286,48.9087043142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:53:35.714+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408511942857,48.9087049428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:53:50.857+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408515571429,48.9087055714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:54:06+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4085192,48.9087062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:54:21.143+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408522828571,48.9087068285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:54:36.286+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408526457143,48.9087074571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:54:51.429+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408530085714,48.9087080857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:55:06.571+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408533714286,48.9087087142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:55:21.714+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408537342857,48.9087093428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:55:36.857+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408540971429,48.9087099714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:55:52+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4085446,48.9087106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:56:07.143+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408548228571,48.9087112285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:56:22.286+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408551857143,48.9087118571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:56:37.429+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408555485714,48.9087124857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:56:52.571+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408559114286,48.9087131142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:57:07.714+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408562742857,48.9087137428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:57:22.857+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408566371429,48.9087143714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:57:38+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40857,48.908715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:57:54.333+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408563222222,48.9087262222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:58:10.667+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408556444444,48.9087374444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:58:27+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408549666667,48.9087486666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:58:43.333+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408542888889,48.9087598888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:58:59.667+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408536111111,48.9087711111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:59:16+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408529333333,48.9087823333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:59:32.333+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408522555556,48.9087935555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 22:59:48.667+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408515777778,48.9088047777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:00:05+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408509,48.908816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:00:20.273+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508863636,48.9088134545455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:00:35.545+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508727273,48.9088109090909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:00:50.818+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508590909,48.9088083636364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:01:06.091+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508454545,48.9088058181818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:01:21.364+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508318182,48.9088032727273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:01:36.636+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508181818,48.9088007272727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:01:51.909+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408508045455,48.9087981818182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:02:07.182+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507909091,48.9087956363636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:02:22.455+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507772727,48.9087930909091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:02:37.727+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507636364,48.9087905454545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:02:53+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4085075,48.908788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:03:08.273+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507363636,48.9087854545455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:03:23.545+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507227273,48.9087829090909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:03:38.818+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408507090909,48.9087803636364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:03:54.091+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506954545,48.9087778181818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:04:09.364+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506818182,48.9087752727273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:04:24.636+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506681818,48.9087727272727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:04:39.909+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506545455,48.9087701818182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:04:55.182+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506409091,48.9087676363636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:05:10.455+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506272727,48.9087650909091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:05:25.727+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506136364,48.9087625454545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:05:41+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408506,48.90876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:05:57.250+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4085785,48.9087485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:06:13.500+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408651,48.908737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:06:29.750+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4087235,48.9087255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:06:46+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408796,48.908714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:07:01.458+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408785041667,48.9087179583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:07:16.917+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408774083333,48.9087219166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:07:32.375+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408763125,48.908725875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:07:47.833+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408752166667,48.9087298333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:08:03.292+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408741208333,48.9087337916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:08:18.750+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40873025,48.90873775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:08:34.208+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408719291667,48.9087417083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:08:49.667+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408708333333,48.9087456666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:09:05.125+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408697375,48.908749625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:09:20.583+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408686416667,48.9087535833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:09:36.042+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408675458333,48.9087575416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:09:51.500+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4086645,48.9087615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:10:06.958+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408653541667,48.9087654583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:10:22.417+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408642583333,48.9087694166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:10:37.875+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408631625,48.908773375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:10:53.333+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408620666667,48.9087773333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:11:08.792+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408609708333,48.9087812916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:11:24.250+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40859875,48.90878525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:11:39.708+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408587791667,48.9087892083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:11:55.167+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408576833333,48.9087931666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:12:10.625+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408565875,48.908797125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:12:26.083+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408554916667,48.9088010833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:12:41.542+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408543958333,48.9088050416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:12:57+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408533,48.908809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:13:12.406+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40855121875,48.90881875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:13:27.813+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4085694375,48.9088285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:13:43.219+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40858765625,48.90883825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:13:58.625+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408605875,48.908848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:14:14.031+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40862409375,48.90885775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:14:29.438+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4086423125,48.9088675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:14:44.844+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40866053125,48.90887725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:15:00.250+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40867875,48.908887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:15:15.656+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40869696875,48.90889675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:15:31.063+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4087151875,48.9089065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:15:46.469+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40873340625,48.90891625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:16:01.875+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408751625,48.908926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:16:17.281+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40876984375,48.90893575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:16:32.688+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4087880625,48.9089455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:16:48.094+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40880628125,48.90895525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:17:03.500+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4088245,48.908965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:17:18.906+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40884271875,48.90897475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:17:34.313+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4088609375,48.9089845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:17:49.719+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40887915625,48.90899425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:18:05.125+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408897375,48.909004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:18:20.531+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40891559375,48.90901375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:18:35.938+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4089338125,48.9090235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:18:51.344+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40895203125,48.90903325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:19:06.750+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40897025,48.909043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:19:22.156+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40898846875,48.90905275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:19:37.563+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4090066875,48.9090625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:19:52.969+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40902490625,48.90907225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:20:08.375+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409043125,48.909082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:20:23.781+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40906134375,48.90909175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:20:39.188+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4090795625,48.9091015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:20:54.594+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40909778125,48.90911125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_Tyler_Innes">
+		<SimpleData name="time">2023/05/27 23:21:10+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">120.697362539115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409116,48.909121</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

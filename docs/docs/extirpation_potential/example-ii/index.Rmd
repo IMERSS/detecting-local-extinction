@@ -1,0 +1,38 @@
+---
+title: Example II
+description: ''
+date: 2025-06-04
+weight: 5
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+...
+This produces posterior regional statistics for extirpation across all habitat as follows:
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+target_stats <- read.csv("Analysis_outputs/Intermediate/Crassula connata_stats.csv")
+target_stats_all <- target_stats %>% dplyr::filter(Population == "all")
+paged_table(target_stats_all)
+```
+
+These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at [`r target_stats_all$Low`, `r target_stats_all$High`].
+
+Here is this posterior distribution graphed out - whilst the most probable extirpation value is 100% because of the folded nature of the beta distribution, this is a more dispersed distribution than that for historical habitat and the central estimate of extirpation probability is `r target_stats_all$Central`.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+plot_site_beta(target_stats_all, "Crassula connata")
+```
+

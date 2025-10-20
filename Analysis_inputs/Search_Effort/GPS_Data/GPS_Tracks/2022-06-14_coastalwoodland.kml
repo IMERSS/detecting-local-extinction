@@ -1,0 +1,3907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Document">
+  <name>Document</name>
+  <snippet></snippet>
+  <Style id="IconStyle20">
+    <IconStyle>
+      <scale>1.312500</scale>
+      <Icon><href>Layer2_Symbol_80ff9e40_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>ffffffff</color>
+      <scale>0.833333</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="GroupLayer0">
+    <name>Tracks</name>
+    <snippet></snippet>
+  <Folder id="GroupLayer0">
+    <name>15-JUN-22</name>
+    <snippet></snippet>
+    <description><![CDATA[15-JUN-22]]></description>
+  <Folder id="FeatureLayer2">
+    <name>Points</name>
+    <snippet></snippet>
+    <description><![CDATA[Points]]></description>
+    <Placemark id="ID_20000">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.32168215,48.86233069000008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20001">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.322091522,48.86233303700004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20002">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.322235523,48.86218274900006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20003">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.322150866,48.86218249800004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20004">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3220998199999,48.86236329600007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20005">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.322196798,48.86225030800006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20006">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3224493449999,48.86222809600008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20007">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.323403876,48.86223496900004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20008">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.323602444,48.86229523500003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20009">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.323608395,48.86222524600004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20010">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.323838981,48.86215341300004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20011">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.324235277,48.86228693600003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20012">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3246992159999,48.86229523500003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20013">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.325006915,48.86217185300006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20014">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.324250197,48.86226707100008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20015">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.323450312,48.86220479400004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20016">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.321977025,48.86231954200008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20017">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.321228521,48.86222055200005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20018">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320456296,48.86185107800003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20019">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320393516,48.86188829300005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20020">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320195116,48.86178536300008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20021">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320100736,48.86184445600003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20022">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.319862019,48.86169198900006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20023">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.31967066,48.86176575000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20024">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.31962808,48.86163733900003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20025">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3193771259999,48.86164044000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20026">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.319983808,48.86168796600003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20027">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3199443299999,48.86178578300007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20028">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320483537,48.86185258600005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20029">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320458308,48.86189642400007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20030">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320575487,48.86194344600005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20031">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320504408,48.86197052000006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20032">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.320549838,48.86190564400005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20033">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3206362559999,48.86193741100004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20034">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3210525009999,48.86220227900003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20035">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.322213646,48.86227101100008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20036">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.32159942,48.86233303700004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20037">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3137502709999,48.86336929200007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20038">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313550279,48.86348127400004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20039">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.31342103,48.86345872700008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20040">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313501244,48.86346786300004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20041">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313464951,48.86340818400004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20042">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3131888509999,48.86346736000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20043">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313248027,48.86347373000007,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20044">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313145516,48.86365251600006,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20045">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3133771079999,48.86387522300004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20046">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.3131791279999,48.86370163400005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20047">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313173931,48.86352829600003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_20048">
+      <name>Placemark</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Placemark</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>Placemark</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FolderPath</td>
+<td>Document/Tracks/15-JUN-22/Points</td>
+</tr>
+<tr>
+<td>SymbolID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AltMode</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr>
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>HasLabel</td>
+<td>-1</td>
+</tr>
+<tr>
+<td>LabelID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Locality</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Event</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Habitat</td>
+<td>coastalbluff</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.313868623,48.86327038500008,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  </Folder>
+  </Folder>
+</Document>
+</kml>

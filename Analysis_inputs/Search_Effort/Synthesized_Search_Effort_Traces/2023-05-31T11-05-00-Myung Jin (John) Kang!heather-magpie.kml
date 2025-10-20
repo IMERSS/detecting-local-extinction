@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie" id="2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:05:15+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381086,48.870778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:05:32.750+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381086,48.870778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:05:50.500+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381086,48.870778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:06:08.250+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381086,48.870778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:06:26+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381086,48.870778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:06:43+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381125,48.870754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:07:00+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381164,48.87073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_31T11_05_00_Myung_Jin__John__Kang_heather_magpie">
+		<SimpleData name="time">2023/05/31 18:07:17+00</SimpleData>
+		<SimpleData name="effortId">2023-05-31T11-05-00-Myung Jin (John) Kang</SimpleData>
+		<SimpleData name="searchWeight">1327.86885245902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.381203,48.870706</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

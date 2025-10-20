@@ -1,0 +1,91 @@
+---
+title: Target selection criteria
+description: Honing focus on biodiversity change
+tags: [test, docs]
+weight: 4
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+## Open-ended assessments of potential change
+
+In order to proceed beyond an initial baseline analysis to assess possible changes in a system, we can set criteria to focus our attention (and limited resources) on species that are most likely to be vulnerable.
+
+Depending on the criteria we set, there may emerge many potential target species or populations of concern. On the first pass, however, it is notable that this decision-making process is blind to any conservation priorities we might have (*e.g.*, species assessed as vulnerable at a provincial or national scale), which can bias such assessments.
+
+>"If the focus of nature conservation efforts remains on rare and threatened species only, ignoring moderately common species, we might miss most of the biodiversity changes occurring in our landscapes (Gaston, 2010). On the other hand, many formerly frequent species should be considered as under threat according to IUCN criteria (Jansen *et al*., 2019)."
+
+## Criteria to consider
+
+### Provenance
+
+Likely, we are mostly concerned with change in plant communities of native provenance.
+
+### Native species unreported for more than 20 years
+
+```{r, message=FALSE, warning=FALSE}
+at.large.2020 <- read.csv("Analysis_Inputs/Galiano_Tracheophyta_summary_reviewed_at_large_2024-10-07.csv")
+
+native.at.large.2020 <- at.large.2020 %>% filter(origin == 'native')
+n_native <- nrow(native.at.large.2020)
+
+cat("Of the species unreported for more than twenty years prior to 2020,", 
+    n_native, "were native plant species.")
+```
+
+### Taxonomically difficult or cryptic species
+
+Graminoids are often easily overlooked, so sighting rates may be less informative regarding extinction risk. Here, we narrow our focus to the more conspicuous dicots and petaloid monocots:
+
+```{r, message=FALSE, warning=FALSE}
+native.non.graminoids.at.large.2020 <- native.at.large.2020 %>% filter(order != 'Poales')
+n_non_graminoids <- nrow(native.non.graminoids.at.large.2020)
+
+cat("Of the native species unreported for more than twenty years prior to 2020,", 
+    n_non_graminoids, "were dicots or petaloid monocots.")
+```
+
+### Historical evidence
+
+Biological specimens are the strongest evidence we have for biodiversity change assessments. List records can be unreliable, so we limit our assessment to species represented by independently verifiable voucher specimens:
+
+```{r, message=FALSE, warning=FALSE}
+vouchered.native.non.graminoids.at.large.2020 <- native.non.graminoids.at.large.2020 %>%
+  filter(basisOfHistoricalRecord == 'voucher')
+
+n_vouchered <- nrow(vouchered.native.non.graminoids.at.large.2020)
+
+cat("Of the native dicots and petaloid monocots unreported for more than twenty years prior to 2020,", n_vouchered, "were documented by verifiable voucher specimens.")
+```
+
+```{r, message=FALSE, echo=FALSE}
+paged_table(vouchered.native.non.graminoids.at.large.2020)
+```
+
+From this resulting list, we might apply additional criteria to select a set of candidates for extinction risk assessment. This tutorial focuses on a subset of taxa we considered in our study: *Crassula connata*, *Meconella oregana*, *Plagiobothrys tenellus*, and *Primula pauciflora*.
+
+Other important criteria to consider:
+
+### Coordinate uncertainty
+
+Geographic coordinates represent one of the most crucial pieces of information for biodiversity change assessments.
+
+* Often we are confronted with limited locality information, which imposes constraints on representation of historical habitat
+* Sometimes, the information is good enough to map species occurrences to precise locations (*e.g.*, 30x30m2 grid cell)
+* Sometimes, the information is good enough to specify a discrete location or habitat patch
+* Sometimes, coordinates are generalized to the geometric centre (centroid) of a given area, with a wide radius of coordinate uncertainty
+* Sometimes, we don't have any coordinates at all
+
+It is exceedingly difficult if not impossible to assess the status of species or populations that lack specific locality information. At the very least, we will want to ensure our targets have generalized coordinates referring to a discrete locality. Depending on the approach, one might want to be even more strict and filter records below a certain threshold of coordinate uncertainty. Otherwise we cannot be confident in our assessment.
+

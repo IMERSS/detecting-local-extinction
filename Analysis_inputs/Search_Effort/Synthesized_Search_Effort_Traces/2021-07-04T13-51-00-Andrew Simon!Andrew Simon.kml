@@ -1,0 +1,2099 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon" id="2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:51:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406861,48.900343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:51:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406859375,48.9003485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:51:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40685775,48.900354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:51:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406856125,48.9003595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:52:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068545,48.900365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:52:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406852875,48.9003705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:52:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40685125,48.900376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:52:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406849625,48.9003815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:53:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406848,48.900387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:53:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406846375,48.9003925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:53:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40684475,48.900398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:53:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406843125,48.9004035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:54:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068415,48.900409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:54:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406839875,48.9004145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:54:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40683825,48.90042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:54:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406836625,48.9004255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:55:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406835,48.900431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:55:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406833375,48.9004365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:55:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40683175,48.900442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:55:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406830125,48.9004475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:56:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068285,48.900453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:56:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406826875,48.9004585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:56:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40682525,48.900464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:56:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406823625,48.9004695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:57:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406822,48.900475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:57:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40681375,48.90047025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:57:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068055,48.9004655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:57:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40679725,48.90046075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:58:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406789,48.900456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:58:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067804375,48.9004334375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:58:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406771875,48.900410875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:58:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067633125,48.9003883125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:59:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40675475,48.90036575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:59:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067461875,48.9003431875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:59:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406737625,48.900320625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 20:59:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067290625,48.9002980625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:00:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067205,48.9002755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:00:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067119375,48.9002529375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:00:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406703375,48.900230375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:00:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4066948125,48.9002078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:01:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40668625,48.90018525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:01:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4066776875,48.9001626875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:01:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406669125,48.900140125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:01:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4066605625,48.9001175625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:02:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406667,48.900122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:02:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4066798125,48.9001026875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:02:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406692625,48.900083375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:02:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067054375,48.9000640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:03:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40671825,48.90004475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:03:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067310625,48.9000254375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:03:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406743875,48.900006125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:03:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067566875,48.8999868125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:04:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067695,48.8999675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:04:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4067823125,48.8999481875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:04:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406795125,48.899928875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:04:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068079375,48.8999095625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:05:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40682075,48.89989025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:05:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068335625,48.8998709375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:05:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406846375,48.899851625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:05:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068591875,48.8998323125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:06:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406872,48.899813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:06:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068848125,48.8997936875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:06:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406897625,48.899774375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:06:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4069104375,48.8997550625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:07:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40692325,48.89973575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:07:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4069360625,48.8997164375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:07:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406948875,48.899697125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:07:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4069616875,48.8996778125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:08:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4069745,48.8996585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:08:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4069873125,48.8996391875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:08:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407000125,48.899619875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:08:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4070129375,48.8996005625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:09:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40702575,48.89958125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:09:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4070385625,48.8995619375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:09:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407051375,48.899542625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:09:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4070641875,48.8995233125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:10:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407077,48.899504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:10:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4070898125,48.8994846875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:10:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407102625,48.899465375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:10:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071154375,48.8994460625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:11:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40712825,48.89942675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:11:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071410625,48.8994074375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:11:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407153875,48.899388125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:11:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071666875,48.8993688125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:12:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071795,48.8993495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:12:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071923125,48.8993301875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:12:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407205125,48.899310875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:12:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4072179375,48.8992915625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:13:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40723075,48.89927225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:13:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4072435625,48.8992529375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:13:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407256375,48.899233625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:13:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4072691875,48.8992143125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:14:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407282,48.899195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:14:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407241921875,48.89912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:14:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40720184375,48.899045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:14:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407161765625,48.89897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:15:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4071216875,48.898895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:15:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407081609375,48.89882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:15:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40704153125,48.898745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:15:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407001453125,48.89867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:16:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406961375,48.898595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:16:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406921296875,48.89852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:16:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40688121875,48.898445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:16:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406841140625,48.89837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:17:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4068010625,48.898295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:17:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406760984375,48.89822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:17:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40672090625,48.898145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:17:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406680828125,48.89807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:18:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40664075,48.897995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:18:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406600671875,48.89792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:18:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40656059375,48.897845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:18:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406520515625,48.89777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:19:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4064804375,48.897695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:19:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406440359375,48.89762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:19:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40640028125,48.897545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:19:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406360203125,48.89747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:20:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406320125,48.897395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:20:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406280046875,48.89732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:20:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40623996875,48.897245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:20:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406199890625,48.89717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:21:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4061598125,48.897095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:21:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406119734375,48.89702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:21:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40607965625,48.896945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:21:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406039578125,48.89687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:22:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4059995,48.896795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:22:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405959421875,48.89672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:22:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40591934375,48.896645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:22:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405879265625,48.89657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:23:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4058391875,48.896495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:23:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405799109375,48.89642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:23:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40575903125,48.896345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:23:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405718953125,48.89627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:24:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405678875,48.896195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:24:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405638796875,48.89612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:24:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40559871875,48.896045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:24:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405558640625,48.89597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:25:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4055185625,48.895895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:25:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405478484375,48.89582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:25:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40543840625,48.895745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:25:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405398328125,48.89567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:26:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40535825,48.895595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:26:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405318171875,48.89552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:26:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40527809375,48.895445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:26:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405238015625,48.89537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:27:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4051979375,48.895295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:27:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405157859375,48.89522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:27:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40511778125,48.895145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:27:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405077703125,48.89507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:28:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405037625,48.894995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:28:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404997546875,48.89492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:28:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40495746875,48.894845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:28:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404917390625,48.89477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:29:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4048773125,48.894695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:29:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404837234375,48.89462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:29:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40479715625,48.894545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:29:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404757078125,48.89447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:30:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404717,48.894395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:30:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40472675,48.894396125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:30:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4047365,48.89439725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:30:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40474625,48.894398375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:31:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404756,48.8943995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:31:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40476575,48.894400625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:31:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4047755,48.89440175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:31:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40478525,48.894402875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:32:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404795,48.894404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:32:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404819113636,48.8943945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:32:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404843227273,48.894385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:32:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404867340909,48.8943755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:33:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404891454545,48.894366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:33:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404915568182,48.8943565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:33:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404939681818,48.894347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:33:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404963795455,48.8943375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:34:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.404987909091,48.894328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:34:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405012022727,48.8943185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:34:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405036136364,48.894309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:34:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40506025,48.8942995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:35:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405084363636,48.89429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:35:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405108477273,48.8942805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:35:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405132590909,48.894271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:35:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405156704545,48.8942615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:36:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405180818182,48.894252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:36:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405204931818,48.8942425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:36:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405229045455,48.894233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:36:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405253159091,48.8942235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:37:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405277272727,48.894214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:37:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405301386364,48.8942045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:37:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4053255,48.894195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:37:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405349613636,48.8941855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:38:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405373727273,48.894176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:38:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405397840909,48.8941665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:38:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405421954545,48.894157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:38:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405446068182,48.8941475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:39:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405470181818,48.894138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:39:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405494295455,48.8941285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:39:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405518409091,48.894119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:39:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405542522727,48.8941095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:40:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405566636364,48.8941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:40:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40559075,48.8940905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:40:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405614863636,48.894081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:40:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405638977273,48.8940715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:41:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405663090909,48.894062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:41:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405687204545,48.8940525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:41:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405711318182,48.894043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:41:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405735431818,48.8940335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:42:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405759545455,48.894024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:42:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405783659091,48.8940145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:42:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405807772727,48.894005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:42:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405831886364,48.8939955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:43:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405856,48.893986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:43:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405897875,48.8939864583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:43:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40593975,48.8939869166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:43:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.405981625,48.893987375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:44:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4060235,48.8939878333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:44:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406065375,48.8939882916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:44:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40610725,48.89398875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:44:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406149125,48.8939892083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:45:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406191,48.8939896666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:45:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406232875,48.893990125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:45:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40627475,48.8939905833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:45:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406316625,48.8939910416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:46:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4063585,48.8939915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:46:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406400375,48.8939919583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:46:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40644225,48.8939924166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:46:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406484125,48.893992875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:47:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406526,48.8939933333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:47:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406567875,48.8939937916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:47:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40660975,48.89399425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:47:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406651625,48.8939947083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:48:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4066935,48.8939951666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:48:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406735375,48.893995625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:48:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40677725,48.8939960833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:48:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406819125,48.8939965416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:49:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406861,48.893997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:49:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.406956821429,48.8940380714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:49:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407052642857,48.8940791428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:49:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407148464286,48.8941202142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:50:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407244285714,48.8941612857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:50:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407340107143,48.8942023571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:50:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407435928571,48.8942434285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:50:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40753175,48.8942845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:51:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407627571429,48.8943255714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:51:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407723392857,48.8943666428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:51:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407819214286,48.8944077142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:51:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.407915035714,48.8944487857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:52:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408010857143,48.8944898571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:52:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408106678571,48.8945309285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:52:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.4082025,48.894572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:52:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408298321429,48.8946130714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:53:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408394142857,48.8946541428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:53:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408489964286,48.8946952142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:53:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408585785714,48.8947362857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:53:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408681607143,48.8947773571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:54:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408777428571,48.8948184285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:54:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.40887325,48.8948595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:54:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408969071429,48.8949005714286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:54:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409064892857,48.8949416428571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:55:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409160714286,48.8949827142857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:55:15+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409256535714,48.8950237857143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:55:30+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409352357143,48.8950648571429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:55:45+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409448178571,48.8951059285714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2021_07_04T13_51_00_Andrew_Simon_Andrew_Simon">
+		<SimpleData name="time">2021/07/04 21:56:00+00</SimpleData>
+		<SimpleData name="effortId">2021-07-04T13-51-00-Andrew Simon</SimpleData>
+		<SimpleData name="searchWeight">30.4615384615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.409544,48.895147</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

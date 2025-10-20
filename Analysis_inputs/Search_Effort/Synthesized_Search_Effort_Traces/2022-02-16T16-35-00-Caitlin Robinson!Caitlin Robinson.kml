@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson" id="2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:35:22+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563478,49.002511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:35:37.917+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563493,49.0025404166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:35:53.833+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563508,49.0025698333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:36:09.750+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563523,49.00259925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:36:25.667+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563538,49.0026286666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:36:41.583+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563553,49.0026580833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:36:57.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563568,49.0026875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:37:13.417+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563583,49.0027169166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:37:29.333+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563598,49.0027463333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:37:45.250+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563613,49.00277575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:38:01.167+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563628,49.0028051666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:38:17.083+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563643,49.0028345833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:38:33+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563658,49.002864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:38:48.450+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56370925,49.0029058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:39:03.900+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5637605,49.0029476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:39:19.350+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56381175,49.0029894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:39:34.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.563863,49.0030312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:39:50.250+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56391425,49.003073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:40:05.700+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5639655,49.0031148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:40:21.150+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56401675,49.0031566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:40:36.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564068,49.0031984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:40:52.050+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56411925,49.0032402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:41:07.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5641705,49.003282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:41:22.950+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56422175,49.0033238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:41:38.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564273,49.0033656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:41:53.850+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56432425,49.0034074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:42:09.300+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5643755,49.0034492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:42:24.750+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56442675,49.003491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:42:40.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564478,49.0035328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:42:55.650+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56452925,49.0035746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:43:11.100+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5645805,49.0036164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:43:26.550+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56463175,49.0036582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:43:42+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564683,49.0037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:43:58.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5649924,49.0041698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:44:15.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5653018,49.0046396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:44:31.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5656112,49.0051094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:44:48.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5659206,49.0055792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:45:05+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56623,49.006049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:45:20.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5661816,49.0059664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:45:36.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5661332,49.0058838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:45:51.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5660848,49.0058012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:46:07.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5660364,49.0057186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:46:23+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565988,49.005636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:46:38.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5659396,49.0055534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:46:54.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5658912,49.0054708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:47:09.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5658428,49.0053882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:47:25.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5657944,49.0053056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:47:41+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565746,49.005223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:47:56.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5656976,49.0051404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:48:12.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5656492,49.0050578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:48:27.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5656008,49.0049752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:48:43.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5655524,49.0048926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:48:59+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565504,49.00481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:49:14.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5654556,49.0047274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:49:30.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5654072,49.0046448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:49:45.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5653588,49.0045622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:50:01.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5653104,49.0044796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:50:17+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565262,49.004397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:50:32.278+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565216611111,49.0041678333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:50:47.556+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565171222222,49.0039386666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:51:02.833+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565125833333,49.0037095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:51:18.111+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565080444444,49.0034803333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:51:33.389+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565035055556,49.0032511666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:51:48.667+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564989666667,49.003022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:52:03.944+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564944277778,49.0027928333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:52:19.222+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564898888889,49.0025636666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:52:34.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5648535,49.0023345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:52:49.778+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564808111111,49.0021053333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:53:05.056+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564762722222,49.0018761666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:53:20.333+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564717333333,49.001647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:53:35.611+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564671944444,49.0014178333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:53:50.889+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564626555556,49.0011886666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:54:06.167+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564581166667,49.0009595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:54:21.444+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564535777778,49.0007303333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:54:36.722+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564490388889,49.0005011666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:54:52+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564445,49.000272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:55:07.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564546458333,49.0005260416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:55:23+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564647916667,49.0007800833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:55:38.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564749375,49.001034125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:55:54+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564850833333,49.0012881666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:56:09.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.564952291667,49.0015422083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:56:25+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56505375,49.00179625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:56:40.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565155208333,49.0020502916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:56:56+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565256666667,49.0023043333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:57:11.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565358125,49.002558375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:57:27+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565459583333,49.0028124166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:57:42.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565561041667,49.0030664583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:57:58+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5656625,49.0033205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:58:13.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565763958333,49.0035745416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:58:29+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565865416667,49.0038285833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:58:44.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.565966875,49.004082625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:59:00+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566068333333,49.0043366666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:59:15.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566169791667,49.0045907083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:59:31+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56627125,49.00484475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 00:59:46.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566372708333,49.0050987916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:00:02+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566474166667,49.0053528333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:00:17.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566575625,49.005606875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:00:33+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566677083333,49.0058609166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:00:48.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566778541667,49.0061149583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:01:04+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56688,49.006369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:01:19.800+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5668264,49.0064152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:01:35.600+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5667728,49.0064614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:01:51.400+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5667192,49.0065076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:02:07.200+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5666656,49.0065538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:02:23+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566612,49.0066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:02:38.348+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56669226087,49.0066596521739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:02:53.696+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566772521739,49.0067193043478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:03:09.043+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566852782609,49.0067789565217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:03:24.391+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.566933043478,49.0068386086957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:03:39.739+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567013304348,49.0068982608696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:03:55.087+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567093565217,49.0069579130435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:04:10.435+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567173826087,49.0070175652174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:04:25.783+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567254086957,49.0070772173913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:04:41.130+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567334347826,49.0071368695652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:04:56.478+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567414608696,49.0071965217391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:05:11.826+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567494869565,49.007256173913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:05:27.174+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567575130435,49.007315826087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:05:42.522+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567655391304,49.0073754782609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:05:57.870+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567735652174,49.0074351304348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:06:13.217+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567815913043,49.0074947826087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:06:28.565+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567896173913,49.0075544347826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:06:43.913+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.567976434783,49.0076140869565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:06:59.261+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568056695652,49.0076737391304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:07:14.609+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568136956522,49.0077333913043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:07:29.957+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568217217391,49.0077930434783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:07:45.304+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568297478261,49.0078526956522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:08:00.652+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56837773913,49.0079123478261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:08:16+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568458,49.007972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:08:31.750+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56854425,49.0079735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:08:47.500+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5686305,49.007975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:09:03.250+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.56871675,49.0079765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2022_02_16T16_35_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2022/02/17 01:09:19+00</SimpleData>
+		<SimpleData name="effortId">2022-02-16T16-35-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">15.4639175257732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.568803,49.007978</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,83 @@
+---
+title: Example II
+description: ''
+date: 2025-06-04
+weight: 6
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+## Historical habitat
+
+This map shows the accumulated search effort for Crassula connata over its historical habitat covering 6 grid cells
+in Bellhouse Park:
+
+```{r, error=TRUE}
+cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
+cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
+cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf$search_effort), na.rm = TRUE))
+m <- leaflet(data = cracon_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_sf$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+The table that this plot is generated from is in the AGM (accepted, grouped, merged) format, output by the 
+data pipeline which aggregates search trace data, grids it into cells and intersects it with habitat polygons. Here is the data covering
+the 6 Bellhouse Park cells:
+
+```{r, message=FALSE, echo=FALSE}
+cracon_historical_trunc <- cracon_historical %>% trim_effortId
+paged_table(cracon_historical_trunc)
+```
+
+This data format is explained in the [previous example](../example-i)
+
+## Potential habitat 
+
+
+This map shows the accumulated search effort for Crassula connata over both historical and potential habitat:
+
+```{r}
+cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
+cracon_sf = assign_cell_geometry_sf(cracon_agm, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf$search_effort), na.rm = TRUE))
+m <- leaflet(data = cracon_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_sf$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+See the treatment of [historical habitat](../../extirpation_historical/example-i) for explanation of the data format underlying this plot.

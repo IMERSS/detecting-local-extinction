@@ -1,0 +1,201 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMERSS – Inferring extirpation risk</title>
+    <link>/docs/inferring_extirpation_risk/</link>
+    <description>Recent content in Inferring extirpation risk on IMERSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/inferring_extirpation_risk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Solow calculation (Prior I)</title>
+      <link>/docs/inferring_extirpation_risk/solow_calculation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/inferring_extirpation_risk/solow_calculation/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Inferring local extinction based on limited occurrence data&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;inferring-local-extinction-based-on-limited-occurrence-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#inferring-local-extinction-based-on-limited-occurrence-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To estimate the likelihood of a species presence before considering any new evidence,
+we use a non-parametric extinction test—a method developed by Solow (1993).
+This approach starts from the simple idea that the timing of past sightings contains
+information about whether a species might have disappeared. If a species was last observed
+long ago, and we’ve continued searching without finding it again, our confidence in
+its persistence declines.&lt;/p&gt;
+&lt;p&gt;Solow’s method expresses this intuition mathematically by comparing three key times, for
+a species that has been observed $n$ times during an observation period:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$T_0$ — the beginning of formal record-keeping, or the earliest
+time we could reasonably have detected the species if it were present&lt;/li&gt;
+&lt;li&gt;$t_n$ — the time of the most recent confirmed sighting&lt;/li&gt;
+&lt;li&gt;$T$ — the current time or the endpoint of our study&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The formula calculates an odds ratio (called a Bayes factor) that weighs the
+likelihood that the species is still present versus extinct, based on how long it has
+gone unobserved. The smaller the time between the last sighting and today $(t_n - T_0)$,
+relative to the total observation period $(T - T_0)$, the lower the odds that the
+species persists.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
+    Expand for mathematical details
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;div class=&#34;collapse&#34; id=&#34;collapseExample&#34;&gt;
+  &lt;div class=&#34;card card-body&#34;&gt;
+&lt;p&gt;
+Solow (1993) provides a framework for determining a reasonable prior distribution 
+for belief about species extinction when observational data are limited. 
+Their Equation 3 presents a Bayes Factor for summarizing evidence in favor of extinction, 
+given by: \(B(t) = (n - 1) / [((T - T_0)/(t_n - T_0))^{(n - 1)} - 1]\) where \(n\) is the number of 
+observations, \(t_i\) represents the \(ith\) sighting time, \(T\) is the present date and \(T_0\) is
+the start of the period of observation.
+&lt;/p&gt;
+&lt;p&gt;
+In the case \(n = 1\) this formula simplifies to 
+\(B(t) = 1 / ln((T - T_0)/(t_n - T_0))\).
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Example I</title>
+      <link>/docs/inferring_extirpation_risk/example/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/inferring_extirpation_risk/example/</guid>
+      <description>
+        
+        
+        &lt;link href=&#34;../../docs/inferring_extirpation_risk/example/index_files/pagedtable/css/pagedtable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;../../docs/inferring_extirpation_risk/example/index_files/pagedtable/js/pagedtable.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Here we consider the sighting rate of one of our targets, &lt;em&gt;Plagiobothrys tenellus&lt;/em&gt;, as an example. We will use this sighting rate
+to test the null hypothesis that extinction has not occurred.&lt;/p&gt;
+&lt;p&gt;First, we assume 1958, the date of the first botanical collection on Galiano Island, as the earliest date that observations of this species might have been made, and 2019—the date that our study began—as the time frame bracketing our analysis.&lt;/p&gt;
+&lt;div class=&#34;para&#34;&gt;$T_0$ = 1958&lt;/div&gt;
+&lt;div&gt;$T$ = 2019&lt;/div&gt;
+&lt;p&gt;How many times has this species been observed historically on Galiano Island?&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;records&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Analysis_Inputs/Galiano_Island_vascular_plant_records_2024-10-09.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# Filter for Plagiobothrys tenellus records&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;Ptenellus&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;records&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;scientificName&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;Plagiobothrys tenellus&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# Omit list records, retaining only vouchered specimens&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;Ptenellus&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Ptenellus&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;filter&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;basisOfRecord&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;MaterialCitation&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;n_Ptenellus&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;nrow&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Ptenellus&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;cat&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Plagiobothrys tenellus has been observed&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#000&#34;&gt;n_Ptenellus&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;times historically.&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;pre&gt;&lt;code&gt;## Plagiobothrys tenellus has been observed 3 times historically.&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-pagedtable=&#34;false&#34;&gt;
+  &lt;script data-pagedtable-source type=&#34;application/json&#34;&gt;
+{&#34;columns&#34;:[{&#34;label&#34;:[&#34;scientificName&#34;],&#34;name&#34;:[1],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;scientificNameAuthorship&#34;],&#34;name&#34;:[2],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;taxonID&#34;],&#34;name&#34;:[3],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;kingdom&#34;],&#34;name&#34;:[4],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;phylum&#34;],&#34;name&#34;:[5],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;class&#34;],&#34;name&#34;:[6],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;order&#34;],&#34;name&#34;:[7],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;suborder&#34;],&#34;name&#34;:[8],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;infraorder&#34;],&#34;name&#34;:[9],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;superfamily&#34;],&#34;name&#34;:[10],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;family&#34;],&#34;name&#34;:[11],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;genus&#34;],&#34;name&#34;:[12],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;subgenus&#34;],&#34;name&#34;:[13],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;specificEpithet&#34;],&#34;name&#34;:[14],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;infraspecificEpithet&#34;],&#34;name&#34;:[15],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;taxonRank&#34;],&#34;name&#34;:[16],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;institutionCode&#34;],&#34;name&#34;:[17],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;collectionCode&#34;],&#34;name&#34;:[18],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;catalogNumber&#34;],&#34;name&#34;:[19],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;datasetName&#34;],&#34;name&#34;:[20],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;occurrenceID&#34;],&#34;name&#34;:[21],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;recordedBy&#34;],&#34;name&#34;:[22],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;recordNumber&#34;],&#34;name&#34;:[23],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;fieldNumber&#34;],&#34;name&#34;:[24],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;eventDate&#34;],&#34;name&#34;:[25],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;year&#34;],&#34;name&#34;:[26],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;month&#34;],&#34;name&#34;:[27],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;day&#34;],&#34;name&#34;:[28],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;basisOfRecord&#34;],&#34;name&#34;:[29],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;locality&#34;],&#34;name&#34;:[30],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;locationRemarks&#34;],&#34;name&#34;:[31],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;island&#34;],&#34;name&#34;:[32],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;stateProvince&#34;],&#34;name&#34;:[33],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;country&#34;],&#34;name&#34;:[34],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;countryCode&#34;],&#34;name&#34;:[35],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;decimalLatitude&#34;],&#34;name&#34;:[36],&#34;type&#34;:[&#34;dbl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;decimalLongitude&#34;],&#34;name&#34;:[37],&#34;type&#34;:[&#34;dbl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;coordinateUncertaintyInMeters&#34;],&#34;name&#34;:[38],&#34;type&#34;:[&#34;int&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;georeferencedBy&#34;],&#34;name&#34;:[39],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;georeferenceVerificationStatus&#34;],&#34;name&#34;:[40],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;georeferenceProtocol&#34;],&#34;name&#34;:[41],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;georeferenceRemarks&#34;],&#34;name&#34;:[42],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;habitat&#34;],&#34;name&#34;:[43],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;verbatimDepth&#34;],&#34;name&#34;:[44],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;verbatimElevation&#34;],&#34;name&#34;:[45],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;occurrenceStatus&#34;],&#34;name&#34;:[46],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;samplingProtocol&#34;],&#34;name&#34;:[47],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;occurrenceRemarks&#34;],&#34;name&#34;:[48],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;individualCount&#34;],&#34;name&#34;:[49],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;sex&#34;],&#34;name&#34;:[50],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;establishmentMeans&#34;],&#34;name&#34;:[51],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;provincialStatus&#34;],&#34;name&#34;:[52],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;nationalStatus&#34;],&#34;name&#34;:[53],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;identifiedBy&#34;],&#34;name&#34;:[54],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;identificationQualifier&#34;],&#34;name&#34;:[55],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;identificationRemarks&#34;],&#34;name&#34;:[56],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;previousIdentifications&#34;],&#34;name&#34;:[57],&#34;type&#34;:[&#34;lgl&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;bibliographicCitation&#34;],&#34;name&#34;:[58],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;associatedReferences&#34;],&#34;name&#34;:[59],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]}],&#34;data&#34;:[{&#34;1&#34;:&#34;Plagiobothrys tenellus&#34;,&#34;2&#34;:&#34;(C.A. Mey. ex Ledeb.) A. Gray&#34;,&#34;3&#34;:&#34;58066&#34;,&#34;4&#34;:&#34;Plantae&#34;,&#34;5&#34;:&#34;Tracheophyta&#34;,&#34;6&#34;:&#34;Magnoliopsida&#34;,&#34;7&#34;:&#34;Boraginales&#34;,&#34;8&#34;:&#34;&#34;,&#34;9&#34;:&#34;NA&#34;,&#34;10&#34;:&#34;NA&#34;,&#34;11&#34;:&#34;Boraginaceae&#34;,&#34;12&#34;:&#34;Plagiobothrys&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;tenellus&#34;,&#34;15&#34;:&#34;&#34;,&#34;16&#34;:&#34;species&#34;,&#34;17&#34;:&#34;V&#34;,&#34;18&#34;:&#34;NA&#34;,&#34;19&#34;:&#34;V107519&#34;,&#34;20&#34;:&#34;&#34;,&#34;21&#34;:&#34;NA&#34;,&#34;22&#34;:&#34;Harvey Janszen&#34;,&#34;23&#34;:&#34;&#34;,&#34;24&#34;:&#34;&#34;,&#34;25&#34;:&#34;1980-04-11&#34;,&#34;26&#34;:&#34;1980&#34;,&#34;27&#34;:&#34;4&#34;,&#34;28&#34;:&#34;11&#34;,&#34;29&#34;:&#34;PreservedSpecimen&#34;,&#34;30&#34;:&#34;Gulf Islands; Galiano Island; Mount Sutil&#34;,&#34;31&#34;:&#34;&#34;,&#34;32&#34;:&#34;Galiano Island&#34;,&#34;33&#34;:&#34;British Columbia&#34;,&#34;34&#34;:&#34;Canada&#34;,&#34;35&#34;:&#34;CA&#34;,&#34;36&#34;:&#34;48.87017&#34;,&#34;37&#34;:&#34;-123.3800&#34;,&#34;38&#34;:&#34;50&#34;,&#34;39&#34;:&#34;&#34;,&#34;40&#34;:&#34;verified by data custodian&#34;,&#34;41&#34;:&#34;Coordinates generalized based on mapped locality information&#34;,&#34;42&#34;:&#34;corrected; coordinates generalized based on locality and habitat information&#34;,&#34;43&#34;:&#34;open bluffs&#34;,&#34;44&#34;:&#34;NA&#34;,&#34;45&#34;:&#34;&#34;,&#34;46&#34;:&#34;present&#34;,&#34;47&#34;:&#34;&#34;,&#34;48&#34;:&#34;&#34;,&#34;49&#34;:&#34;NA&#34;,&#34;50&#34;:&#34;NA&#34;,&#34;51&#34;:&#34;native&#34;,&#34;52&#34;:&#34;S1? (2019)&#34;,&#34;53&#34;:&#34;1-T (2011)&#34;,&#34;54&#34;:&#34;Curtis Bjork&#34;,&#34;55&#34;:&#34;NA&#34;,&#34;56&#34;:&#34;&#34;,&#34;57&#34;:&#34;NA&#34;,&#34;58&#34;:&#34;&#34;,&#34;59&#34;:&#34;&#34;},{&#34;1&#34;:&#34;Plagiobothrys tenellus&#34;,&#34;2&#34;:&#34;(C.A. Mey. ex Ledeb.) A. Gray&#34;,&#34;3&#34;:&#34;58066&#34;,&#34;4&#34;:&#34;Plantae&#34;,&#34;5&#34;:&#34;Tracheophyta&#34;,&#34;6&#34;:&#34;Magnoliopsida&#34;,&#34;7&#34;:&#34;Boraginales&#34;,&#34;8&#34;:&#34;&#34;,&#34;9&#34;:&#34;NA&#34;,&#34;10&#34;:&#34;NA&#34;,&#34;11&#34;:&#34;Boraginaceae&#34;,&#34;12&#34;:&#34;Plagiobothrys&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;tenellus&#34;,&#34;15&#34;:&#34;&#34;,&#34;16&#34;:&#34;species&#34;,&#34;17&#34;:&#34;V&#34;,&#34;18&#34;:&#34;NA&#34;,&#34;19&#34;:&#34;V119988&#34;,&#34;20&#34;:&#34;&#34;,&#34;21&#34;:&#34;NA&#34;,&#34;22&#34;:&#34;Harvey Janszen&#34;,&#34;23&#34;:&#34;&#34;,&#34;24&#34;:&#34;&#34;,&#34;25&#34;:&#34;1982-05-10&#34;,&#34;26&#34;:&#34;1982&#34;,&#34;27&#34;:&#34;5&#34;,&#34;28&#34;:&#34;10&#34;,&#34;29&#34;:&#34;PreservedSpecimen&#34;,&#34;30&#34;:&#34;Gulf Islands; Galiano Island; Bodega Hill&#34;,&#34;31&#34;:&#34;&#34;,&#34;32&#34;:&#34;Galiano Island&#34;,&#34;33&#34;:&#34;British Columbia&#34;,&#34;34&#34;:&#34;Canada&#34;,&#34;35&#34;:&#34;CA&#34;,&#34;36&#34;:&#34;48.95735&#34;,&#34;37&#34;:&#34;-123.5300&#34;,&#34;38&#34;:&#34;50&#34;,&#34;39&#34;:&#34;&#34;,&#34;40&#34;:&#34;verified by data custodian&#34;,&#34;41&#34;:&#34;Coordinates generalized based on mapped locality information&#34;,&#34;42&#34;:&#34;corrected; coordinates generalized based on locality information; coordinates may be improved based on other detections of this species at Bodega Ridge&#34;,&#34;43&#34;:&#34;open bluff&#34;,&#34;44&#34;:&#34;NA&#34;,&#34;45&#34;:&#34;&#34;,&#34;46&#34;:&#34;present&#34;,&#34;47&#34;:&#34;&#34;,&#34;48&#34;:&#34;&#34;,&#34;49&#34;:&#34;NA&#34;,&#34;50&#34;:&#34;NA&#34;,&#34;51&#34;:&#34;native&#34;,&#34;52&#34;:&#34;S1? (2019)&#34;,&#34;53&#34;:&#34;1-T (2011)&#34;,&#34;54&#34;:&#34;Curtis Bjork&#34;,&#34;55&#34;:&#34;NA&#34;,&#34;56&#34;:&#34;&#34;,&#34;57&#34;:&#34;NA&#34;,&#34;58&#34;:&#34;&#34;,&#34;59&#34;:&#34;&#34;},{&#34;1&#34;:&#34;Plagiobothrys tenellus&#34;,&#34;2&#34;:&#34;(C.A. Mey. ex Ledeb.) A. Gray&#34;,&#34;3&#34;:&#34;58066&#34;,&#34;4&#34;:&#34;Plantae&#34;,&#34;5&#34;:&#34;Tracheophyta&#34;,&#34;6&#34;:&#34;Magnoliopsida&#34;,&#34;7&#34;:&#34;Boraginales&#34;,&#34;8&#34;:&#34;&#34;,&#34;9&#34;:&#34;NA&#34;,&#34;10&#34;:&#34;NA&#34;,&#34;11&#34;:&#34;Boraginaceae&#34;,&#34;12&#34;:&#34;Plagiobothrys&#34;,&#34;13&#34;:&#34;NA&#34;,&#34;14&#34;:&#34;tenellus&#34;,&#34;15&#34;:&#34;&#34;,&#34;16&#34;:&#34;species&#34;,&#34;17&#34;:&#34;UBC&#34;,&#34;18&#34;:&#34;NA&#34;,&#34;19&#34;:&#34;V233784&#34;,&#34;20&#34;:&#34;&#34;,&#34;21&#34;:&#34;NA&#34;,&#34;22&#34;:&#34;Frank Lomer&#34;,&#34;23&#34;:&#34;98-2&#34;,&#34;24&#34;:&#34;&#34;,&#34;25&#34;:&#34;1998-04-10&#34;,&#34;26&#34;:&#34;1998&#34;,&#34;27&#34;:&#34;4&#34;,&#34;28&#34;:&#34;10&#34;,&#34;29&#34;:&#34;PreservedSpecimen&#34;,&#34;30&#34;:&#34;Galiano Island, Bodega Ridge, trail west of Cottage Way&#34;,&#34;31&#34;:&#34;&#34;,&#34;32&#34;:&#34;Galiano Island&#34;,&#34;33&#34;:&#34;British Columbia&#34;,&#34;34&#34;:&#34;Canada&#34;,&#34;35&#34;:&#34;CA&#34;,&#34;36&#34;:&#34;48.95667&#34;,&#34;37&#34;:&#34;-123.5292&#34;,&#34;38&#34;:&#34;NA&#34;,&#34;39&#34;:&#34;David Rowswell&#34;,&#34;40&#34;:&#34;&#34;,&#34;41&#34;:&#34;Verbatim from Collector/Sheet&#34;,&#34;42&#34;:&#34;&#34;,&#34;43&#34;:&#34;Dry, open southwest-facing slope&#34;,&#34;44&#34;:&#34;NA&#34;,&#34;45&#34;:&#34;188 m&#34;,&#34;46&#34;:&#34;present&#34;,&#34;47&#34;:&#34;&#34;,&#34;48&#34;:&#34;population = 400-500; erect annual with white flowers&#34;,&#34;49&#34;:&#34;NA&#34;,&#34;50&#34;:&#34;NA&#34;,&#34;51&#34;:&#34;native&#34;,&#34;52&#34;:&#34;S1? (2019)&#34;,&#34;53&#34;:&#34;1-T (2011)&#34;,&#34;54&#34;:&#34;Frank Lomer&#34;,&#34;55&#34;:&#34;NA&#34;,&#34;56&#34;:&#34;&#34;,&#34;57&#34;:&#34;NA&#34;,&#34;58&#34;:&#34;&#34;,&#34;59&#34;:&#34;&#34;}],&#34;options&#34;:{&#34;columns&#34;:{&#34;min&#34;:{},&#34;max&#34;:[10]},&#34;rows&#34;:{&#34;min&#34;:[10],&#34;max&#34;:[10]},&#34;pages&#34;:{}}}
+  &lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&#34;para&#34;&gt;$n$ = 3&lt;/div&gt;
+&lt;p&gt;When was the most recent sighting?&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;records&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;read.csv&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Analysis_Inputs/Galiano_Island_vascular_plant_records_2024-10-09.csv&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# Identify the most recent sighting&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;recent_sighting&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;max&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Ptenellus&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;$&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;eventDate&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;cat&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Plagiobothrys tenellus was last observed in&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#000&#34;&gt;recent_sighting&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;.&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;pre&gt;&lt;code&gt;## Plagiobothrys tenellus was last observed in 1998-04-10 .&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;\(t_n = 1998\)&lt;p&gt;
+&lt;p&gt;Below, the interactive calculator ascribes these to values to Solow&#39;s extinction equation. The resulting Bayes factor, \(B(t)\), favours the null hypothesis that extinction has not occurred. We also report our prior probability of presence, \(PP(t)\), and \(EP(t) = 1 - PP(t)\), our prior probability of extinction—which feed into subsequent analyses.&lt;/p&gt;
+&lt;div class=&#34;solow-container&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;../../../css/solow.css&#34;&gt;
+&lt;div class=&#34;input-group&#34;&gt;
+    &lt;label for=&#34;solow-t0&#34;&gt;T₀ (Beginning of record-keeping):&lt;/label&gt;
+    &lt;input type=&#34;number&#34; id=&#34;solow-t0&#34; value=&#34;1958&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;input-group&#34;&gt;
+    &lt;label for=&#34;solow-tn&#34;&gt;tₙ (Most recent sighting):&lt;/label&gt;
+    &lt;input type=&#34;number&#34; id=&#34;solow-tn&#34; value=&#34;1998&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;input-group&#34;&gt;
+    &lt;label for=&#34;solow-T&#34;&gt;T (Current time/study endpoint):&lt;/label&gt;
+    &lt;input type=&#34;number&#34; id=&#34;solow-T&#34; value=&#34;2019&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;input-group&#34;&gt;
+    &lt;label for=&#34;solow-n&#34;&gt;n (Number of observations):&lt;/label&gt;
+    &lt;input type=&#34;number&#34; id=&#34;solow-n&#34; value=&#34;3&#34; min=&#34;1&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;results&#34; id=&#34;solow-results&#34;&gt;
+    &lt;div class=&#34;result-item&#34;&gt;
+        &lt;span class=&#34;result-label&#34;&gt;Bayes factor in favour of presence B(t):&lt;/span&gt;
+        &lt;span class=&#34;result-value&#34; id=&#34;solow-bt&#34;&gt;--&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;result-item&#34;&gt;
+        &lt;span class=&#34;result-label&#34;&gt;Prior probability of presence PP(t):&lt;/span&gt;
+        &lt;span class=&#34;result-value&#34; id=&#34;solow-pp&#34;&gt;--&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;result-item&#34;&gt;
+        &lt;span class=&#34;result-label&#34;&gt;Prior probability of absence EP(t):&lt;/span&gt;
+        &lt;span class=&#34;result-value&#34; id=&#34;solow-ep&#34;&gt;--&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;../../../js/solow.js&#34;&gt;&lt;/script&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

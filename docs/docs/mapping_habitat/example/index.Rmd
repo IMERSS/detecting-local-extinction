@@ -1,0 +1,91 @@
+---
+title: Example
+description: ''
+date: 2025-06-04
+weight: 3
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+
+Here is an example of an manual override of algorithmic determination of historical habitat, as described in section [historical_habitat](../historical_habitat).
+
+For Crassula connata, whose historical population is determined by
+the record at row 46 of [target_plant_records_2024.csv](https://drive.google.com/open?id=1LniufBVQaevxvv3skPWtjfuBvZxkwLMb&usp=drive_copy)
+has a coordinateUncertaintyInMeters value of 50:
+
+```{r}
+plant_records <- read.csv("Analysis_inputs/Occurrences/target_plant_records_2024.csv");
+cracon <- plant_records %>% dplyr::filter(scientificName == "Crassula connata")
+paged_table(cracon)
+```
+Intersecting this with the site classification habitat model would select a set
+of 10 30x30 grid cells which have some overlap with this circle:
+
+```{r, error=TRUE}
+cracon_agm_aut <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged_automatic.csv")
+cracon_historical_aut <- cracon_agm_aut %>% dplyr::filter(assigned_community == "CC1")
+cracon_sf_aut = assign_cell_geometry_sf(cracon_historical_aut, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf_aut$search_effort), na.rm = TRUE))
+m <- leaflet(data = cracon_sf_aut) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_sf_aut$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+This includes several grid cells which contextual knowledge indicates do not actually contain valid habitat.
+We override them by supplying the following 6 entries in the [historical_habitat.csv](https://drive.google.com/file/d/1DVTOppn58YA-c8Om7hVQo_ehiay73Xp7/view?usp=drive_link) file:
+
+```{r}
+historical_habitat <- read.csv("Analysis_inputs/Habitat_model/historical_habitat.csv");
+hh_cracon <- historical_habitat %>% dplyr::filter(Population == 44)
+paged_table(hh_cracon)
+```
+
+With these overrides the appropriate determination of historical habitat appears with 6 
+cells as follows, and in the [extirpation example](../../extirpation_historical/example-ii):
+
+```{r, error=TRUE}
+cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
+cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
+cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf$search_effort), na.rm = TRUE))
+m <- leaflet(data = cracon_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_sf$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="FL_2022_06_12_Murchison_mouth_coastal" id="FL_2022_06_12_Murchison_mouth_coastal">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="descript_1" type="string"></SimpleField>
+	<SimpleField name="altitude_1" type="string"></SimpleField>
+</Schema>
+<Folder><name>FL_2022_06_12_Murchison_mouth_coastal</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.335924344137,48.8882816489786,17.441162109375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.335979161784,48.8882316928357,29.45751953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.335968181491,48.8884989079088,28.4962158203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.335996009409,48.8885451760143,28.4962158203125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3361197263,48.8885642867535,23.6895751953125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33618208766,48.8884020969272,24.1702880859375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336128527299,48.8883855007589,18.40234375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336011767387,48.8885404821485,20.324951171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336030794308,48.8886691443622,20.8056640625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336082762107,48.8887484371662,16.96044921875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336122492328,48.8886180985719,5.9052734375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336244197562,48.8886026758701,6.866455078125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336439831182,48.8885002490133,0.137451171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.33644175902,48.8885823916644,2.5406494140625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336416780949,48.8886038493365,10.231201171875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FL_2022_06_12_Murchison_mouth_coastal">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="altitude_1">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.336173873395,48.8885397277772,3.501953125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

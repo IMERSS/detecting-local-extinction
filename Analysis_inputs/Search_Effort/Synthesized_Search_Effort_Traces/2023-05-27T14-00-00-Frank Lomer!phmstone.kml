@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023_05_27T14_00_00_Frank_Lomer_phmstone" id="2023_05_27T14_00_00_Frank_Lomer_phmstone">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2023_05_27T14_00_00_Frank_Lomer_phmstone</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:37:01+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408494,48.908514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:37:16.364+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408490545455,48.9085289090909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:37:31.727+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408487090909,48.9085438181818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:37:47.091+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408483636364,48.9085587272727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:38:02.455+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408480181818,48.9085736363636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:38:17.818+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408476727273,48.9085885454545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:38:33.182+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408473272727,48.9086034545455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:38:48.545+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408469818182,48.9086183636364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:39:03.909+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408466363636,48.9086332727273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:39:19.273+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408462909091,48.9086481818182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:39:34.636+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408459454545,48.9086630909091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_05_27T14_00_00_Frank_Lomer_phmstone">
+		<SimpleData name="time">2023/05/27 22:39:50+00</SimpleData>
+		<SimpleData name="effortId">2023-05-27T14-00-00-Frank Lomer</SimpleData>
+		<SimpleData name="searchWeight">1597.63313609467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.408456,48.908678</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

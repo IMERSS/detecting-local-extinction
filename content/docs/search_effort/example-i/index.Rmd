@@ -1,0 +1,93 @@
+---
+title: Example I
+description: ''
+date: 2025-06-04
+weight: 5
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+## Historical habitat
+
+This map shows the accumulated search effort for Primula pauciflora over its historical habitat covering 9 grid cells
+in Bellhouse Park:
+
+```{r}
+prim_agm <- read.csv("Analysis_outputs/Intermediate/Primula pauciflora_accepted_grouped_merged.csv")
+prim_historical <- prim_agm %>% dplyr::filter(assigned_community == "PP1")
+prim_sf = assign_cell_geometry_sf(prim_historical, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, prim_sf$search_effort), na.rm = TRUE))
+m <- leaflet(data = prim_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(prim_sf$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+The table that this plot is generated from is in the AGM (accepted, grouped, merged) format, output by the 
+data pipeline which aggregates search trace data, grids it into cells and intersects it with habitat polygons. Here is the data covering
+the 9 Bellhouse Park cells:
+
+```{r, message=FALSE, echo=FALSE}
+prim_historical_trunc <- prim_historical %>% trim_effortId
+paged_table(prim_historical_trunc)
+```
+Here is a description of the columns in this table:
+
+| AGM Column | Description |
+| ---------- | ----------- |
+| cell_id    | Numeric cell id, allocated to a grid cell as configured in the project's [config.R](`r site_rel("/scripts/config.R")`) file and manipulated by the utilities in [geomUtil.R](`r site_rel("/scripts/geomUtil.R")`)|
+| effortId   | A string which summarises each of the search efforts contributing to this search cell. This is purely for traceability and is not used by the analysis computing extirpation probability |
+| search_effort | Total accumulated search effort for this grid cell measured in ksec by all observers |
+| fringe_dist | The distance of this cell from historical habitat - these values are all 0 above since the cells lie within the historical habitat |
+| assigned_community | The historical community to which this cell is assigned. These numbers are taken from row numbers in the historical plant records table after filtering for those with coordinates - for this analysis in [target_plant_records_2024.csv](`r site_rel("Analysis_inputs/Occurrences/target_plant_records_2024.csv")`) |
+| area | Effective area of the grid cell in square metres after intersecting it with valid habitat polygons - for this analysis, a full cell will be approximately 900 sqm |
+| area_prop | The proportion that the effective grid cell area is of a standard full grid cell - for this analysis, 900 sqm |
+
+## Potential habitat 
+
+This map shows the accumulated search effort for Primula pauciflora over both historical and potential habitat:
+
+```{r}
+prim_agm <- read.csv("Analysis_outputs/Intermediate/Primula pauciflora_accepted_grouped_merged.csv")
+prim_sf = assign_cell_geometry_sf(prim_agm, galgrid)
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, prim_sf$search_effort), na.rm = TRUE))
+m <- leaflet(data = prim_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(prim_sf$search_effort, na.rm = TRUE)),
+            opacity = 0.8, title = "Accumulated Search Effort in ks")
+
+# Print the map
+m
+
+```
+
+See the treatment of [historical habitat](../../extirpation_historical/example-i) for explanation of
+the data format underlying this plot.
+

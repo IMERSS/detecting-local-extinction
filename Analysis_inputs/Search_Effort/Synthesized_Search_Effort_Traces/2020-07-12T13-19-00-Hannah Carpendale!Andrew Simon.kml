@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon" id="2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:19:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:19:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:19:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:19:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:20:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:20:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:20:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:20:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:21:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371256,48.884427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:21:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371231833333,48.8844290833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:21:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371207666667,48.8844311666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:21:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3711835,48.88443325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:22:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371159333333,48.8844353333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:22:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371135166667,48.8844374166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:22:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371111,48.8844395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:22:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371086833333,48.8844415833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:23:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371062666667,48.8844436666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:23:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3710385,48.88444575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:23:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.371014333333,48.8844478333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:23:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370990166667,48.8844499166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:24:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370966,48.884452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:24:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370836125,48.8844193125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:24:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37070625,48.884386625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:24:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370576375,48.8843539375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:25:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3704465,48.88432125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:25:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370316625,48.8842885625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:25:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37018675,48.884255875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:25:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370056875,48.8842231875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:26:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369927,48.8841905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:26:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369797125,48.8841578125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:26:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36966725,48.884125125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:26:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369537375,48.8840924375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:27:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3694075,48.88405975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:27:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369277625,48.8840270625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:27:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36914775,48.883994375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:27:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369017875,48.8839616875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:28:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.368888,48.883929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:28:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3691715,48.8839715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:28:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369455,48.884014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:28:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3697385,48.8840565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:29:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370022,48.884099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:29:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369953,48.88409125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:29:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369884,48.8840835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:29:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369815,48.88407575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:30:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369746,48.884068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:30:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369677,48.88406025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:30:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369608,48.8840525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:30:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369539,48.88404475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:31:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36947,48.884037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:31:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369539666667,48.8840425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:31:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369609333333,48.884048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:31:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369679,48.8840535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:32:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369748666667,48.884059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:32:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369818333333,48.8840645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:32:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369888,48.88407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:32:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369957666667,48.8840755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:33:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370027333333,48.884081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:33:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370097,48.8840865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:33:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370166666667,48.884092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:33:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370236333333,48.8840975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:34:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370306,48.884103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:34:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36988325,48.88406175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:34:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3694605,48.8840205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:34:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36903775,48.88397925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:35:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.368615,48.883938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:35:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36864875,48.883910625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:35:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3686825,48.88388325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:35:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36871625,48.883855875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:36:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36875,48.8838285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:36:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36878375,48.883801125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:36:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3688175,48.88377375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:36:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36885125,48.883746375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:37:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.368885,48.883719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:37:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36894775,48.8837351875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:37:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3690105,48.883751375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:37:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36907325,48.8837675625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:38:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369136,48.88378375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:38:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36919875,48.8837999375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:38:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3692615,48.883816125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:38:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36932425,48.8838323125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:39:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369387,48.8838485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:39:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36944975,48.8838646875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:39:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3695125,48.883880875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:39:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36957525,48.8838970625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:40:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369638,48.88391325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:40:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36970075,48.8839294375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:40:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3697635,48.883945625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:40:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36982625,48.8839618125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:41:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.369889,48.883978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:41:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.36995175,48.8839941875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:41:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3700145,48.884010375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:41:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37007725,48.8840265625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:42:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37014,48.88404275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:42:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37020275,48.8840589375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:42:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3702655,48.884075125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:42:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37032825,48.8840913125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:43:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370391,48.8841075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:43:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37045375,48.8841236875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:43:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3705165,48.884139875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:43:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37057925,48.8841560625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:44:00+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.370642,48.88417225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:44:15+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37070475,48.8841884375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:44:30+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3707675,48.884204625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_12T13_19_00_Hannah_Carpendale_Andrew_Simon">
+		<SimpleData name="time">2020/07/12 20:44:45+00</SimpleData>
+		<SimpleData name="effortId">2020-07-12T13-19-00-Hannah Carpendale</SimpleData>
+		<SimpleData name="searchWeight">46.7307692307692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.37083025,48.8842208125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

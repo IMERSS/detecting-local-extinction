@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMERSS – Overview</title>
+    <link>/docs/overview/</link>
+    <description>Recent content in Overview on IMERSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/docs/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>IUCN extinction criteria</title>
+      <link>/docs/overview/extinction_criteria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/overview/extinction_criteria/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The International Union for the Conservation of Nature (IUCN, 2012) has established
+global standards for the assessment of extinction events.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The IUCN defines a taxon as ‘presumed extinct’ (in our case, equivalent to extirpated—or
+locally extinct) “when exhaustive surveys in known and/or expected habitat, at
+appropriate times (diurnal, seasonal, annual), throughout its historic range have
+failed to record an individual.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, it remains a major challenge to determine the evidentiary thresholds implied by these
+criteria (‘exhaustive’, ‘expected’, ‘appropriate’), not only to clarify the formal requirements
+for claims regarding extirpation but also to inform effective search methods and to assess the feasibility
+of meeting these requirements.&lt;/p&gt;
+&lt;p&gt;Our goal is to transform the abstract problem of assessing extinction into a
+structured, measurable, and actionable process. To that end, this documentation
+clarifies the steps and assumptions underlying the IUCN extinction criteria and
+proposes a practical methodology for applying them to infer extinction events in
+real-world contexts.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

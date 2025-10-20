@@ -1,0 +1,7 @@
+{{ $page := .page }}
+{{ $pc := .pc }}
+{{ $pc = $pc | append $page }}
+{{ range $page.Pages }}
+  {{ $pc = partial "inline/walk.html" (dict "page" . "pc" $pc) }}
+{{ end }}
+{{ return $pc }}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson" id="2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:45:10+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576317,49.012578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:45:25.533+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576317533333,49.0125739333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:45:41.067+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576318066667,49.0125698666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:45:56.600+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5763186,49.0125658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:46:12.133+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576319133333,49.0125617333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:46:27.667+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576319666667,49.0125576666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:46:43.200+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5763202,49.0125536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:46:58.733+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576320733333,49.0125495333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:47:14.267+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576321266667,49.0125454666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:47:29.800+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5763218,49.0125414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:47:45.333+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576322333333,49.0125373333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:48:00.867+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576322866667,49.0125332666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:48:16.400+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.5763234,49.0125292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:48:31.933+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576323933333,49.0125251333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:48:47.467+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576324466667,49.0125210666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2020_07_25T15_45_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2020/07/25 22:49:03+00</SimpleData>
+		<SimpleData name="effortId">2020-07-25T15-45-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">19.31330472103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.576325,49.012517</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

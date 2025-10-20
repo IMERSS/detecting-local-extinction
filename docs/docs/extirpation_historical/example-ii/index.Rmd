@@ -1,0 +1,39 @@
+---
+title: Example II
+description: ''
+date: 2025-06-04
+weight: 6
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+```
+
+Gridded search data are passed for computing regional statistics as the second argument to the ``analyse_accepted`` function in Analyse.R. This data format is explained in the [previous example](../example-i)
+
+This produces posterior regional statistics for extirpation in historical habitat as follows:
+
+```{r}
+target_stats <- read.csv("Analysis_outputs/Intermediate/Crassula connata_stats.csv")
+target_stats_historical <- target_stats %>% dplyr::filter(Population == "CC1")
+paged_table(target_stats_historical)
+```
+
+These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at [`r target_stats_historical$Low`, `r target_stats_historical$High`].
+
+Here is this posterior distribution graphed out:
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+plot_site_beta(target_stats_historical, "Crassula connata")
+```
+

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson" id="2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+	<SimpleField name="time" type="string"></SimpleField>
+	<SimpleField name="effortId" type="string"></SimpleField>
+	<SimpleField name="searchWeight" type="float"></SimpleField>
+</Schema>
+<Folder><name>2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:36:12+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359947,48.878905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:36:27.667+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35986,48.8788741333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:36:43.333+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359773,48.8788432666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:36:59+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359686,48.8788124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:37:14.667+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359599,48.8787815333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:37:30.333+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359512,48.8787506666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:37:46+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359425,48.8787198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:38:01.667+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359338,48.8786889333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:38:17.333+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359251,48.8786580666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:38:33+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359164,48.8786272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:38:48.667+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.359077,48.8785963333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:39:04.333+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35899,48.8785654666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:39:20+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358903,48.8785346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:39:35.667+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358816,48.8785037333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:39:51.333+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358729,48.8784728666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:40:07+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358642,48.878442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:40:22.688+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358528625,48.878434875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:40:38.375+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35841525,48.87842775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:40:54.063+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358301875,48.878420625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:41:09.750+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3581885,48.8784135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:41:25.438+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.358075125,48.878406375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:41:41.125+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35796175,48.87839925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:41:56.813+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.357848375,48.878392125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:42:12.500+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.357735,48.878385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:42:28.188+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.357621625,48.878377875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:42:43.875+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35750825,48.87837075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:42:59.563+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.357394875,48.878363625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:43:15.250+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.3572815,48.8783565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:43:30.938+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.357168125,48.878349375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:43:46.625+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.35705475,48.87834225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#2023_09_11T12_36_00_Caitlin_Robinson_Caitlin_Robinson">
+		<SimpleData name="time">2023/09/11 19:44:02.313+00</SimpleData>
+		<SimpleData name="effortId">2023-09-11T12-36-00-Caitlin Robinson</SimpleData>
+		<SimpleData name="searchWeight">16.530612244898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.356941375,48.878335125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

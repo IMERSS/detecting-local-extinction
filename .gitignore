@@ -1,0 +1,11 @@
+node_modules/
+.hugo_build.lock
+.Rproj.user
+.Rhistory
+.idea
+
+.DS_Store
+
+# Ignore bulky Analysis files sourced from Google Drive
+Analysis_inputs/Habitat_model
+Analysis_inputs/Occurrences
