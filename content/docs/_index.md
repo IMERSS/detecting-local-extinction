@@ -18,16 +18,11 @@ This protocol is fully developed and implemented in the research article publish
 Through this documentation, we provide a walk-through of this framework, centering on a tutorial dataset.
 
 {{% imgproc protocol Fill "1430x1176" %}}
-Quantification of search effort focusing on two key historical collection sites: (A)
-Heatmap (30×30m grid) of search effort on Mount Sutil overlaid with historical (orange) and
-potential habitat (black). Because of high coordinate uncertainty for target species in this
-region, the extent of historical habitat corresponds with the complete extent of the habitat
-patch on Mt. Sutil. (B) Search effort, represented by GPS tracks (small circles) and iNaturalist
-observation traces (large circles) at Bellhouse Park, the size of the circle scaled to represent
-uncertainty around observer positions. (C) Search effort at Bellhouse Park gridded at 30×30m
-grid scale; (D) Historical habitat for *Crassula connata* (green) and *Primula pauciflora* (blue), with
+B) Search effort, represented by GPS tracks (small circles) and iNaturalist observation traces 
+(large circles) at Bellhouse Park, the size of the circle scaled to represent uncertainty around 
+observer positions. (C) Search effort at Bellhouse Park gridded at 30×30m grid scale; (D) Historical habitat for *Crassula connata* (green) and *Primula pauciflora* (blue), with
 corresponding historical occurrence records (dots), overlain on potential habitat (black). (E)
-Search effort constrained by the extent of historical and potential habitat.
+Search effort constrained by the extent of historical and potential habitat. (Adapted from Figure 3, Simon *et al.* 2025.)
 {{% /imgproc %}}
 
 
