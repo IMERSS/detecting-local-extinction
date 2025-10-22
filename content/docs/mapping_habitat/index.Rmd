@@ -1,12 +1,27 @@
 ---
 title: Representing habitat
 description: Gridding land classification data
-categories: [Examples, Placeholders]
-tags: [test, docs]
 weight: 4
 sidebar:
   open: true
 ---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+knitr::opts_knit$set(render_markdown = FALSE)
+```
+
+```{r, echo=FALSE, include=FALSE}
+source("R/site_globals.R")
+source("scripts/geomUtils.R")
+source("scripts/config.R")
+library(leaflet)
+library(rmarkdown)
+library(dplyr)
+library(ggplot2)
+
+source("scripts/plotHabitat.R")
+```
 
 ## Mapping habitat
 
@@ -23,7 +38,7 @@ orthoimagery generated using a variety of methods (*e.g.*, satellite, drone).
 ### Filtering site classification mapping based on habitat types for target species
 
 First, we select the site classifications representing suitable habitat for our targets:
-woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polgyons, 
+woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polygons, 
 then converted to grid cells.
 
 ### Converting polygons to gridded representation of habitat
@@ -32,3 +47,17 @@ Polygons representing habitat for target species is then represented as grid cel
 For this methodology, a key consideration is to ensure that the grid scale corresponds 
 with the precision of features representing search effort (see next section).
 
+The following map shows the polygon representation of the habitat surrounding Bellhouse Park as
+green polygons, and the resulting gridded habitat to 30x30 m^2 cells as black squares.
+Choosing _Primula pauciflora_ as our target taxon, we select 9 of these cells as the historical
+habitat, shown in blue.
+
+```{r echo=FALSE}
+historicalHabitat
+```
+
+Expanding this grid to the entire island shows the grid for potential habitat:
+
+```{r echo=FALSE}
+potentialHabitat
+```

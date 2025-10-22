@@ -99,29 +99,6 @@ This is a convenient choice because, under the Bayesian framework, we can select
     </item>
     
     <item>
-      <title>Defining potential habitat patches</title>
-      <link>/docs/mapping_habitat/potential_habitat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mapping_habitat/potential_habitat/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Mapping potential habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mapping-potential-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mapping-potential-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the previous habitat mapping vignette, we defined the extent of historical habitat, showing
-how contextual knowledge can be used to manually override the automatic determination
-based on coordinate uncertainty of the historical record and the site classification.&lt;/p&gt;
-&lt;h2&gt;Expanding the habitat grid to include potential habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;expanding-the-habitat-grid-to-include-potential-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#expanding-the-habitat-grid-to-include-potential-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The potential habitat for a species is determined by using the site classification
-mapping described in &lt;a href=&#34;../mapping_habitat&#34; &gt;mapping habitat&lt;/a&gt;. The potential habitat
-is simply defined as the total valid habitat with the historical habitat substrated.
-This potential habitat is designated &lt;code&gt;pot&lt;/code&gt; in the statistical and geospatial
-summary tables.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Effective search effort</title>
       <link>/docs/extirpation/single_cells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -424,36 +401,6 @@ into beta parameters for a regional distribution using moment matching:&lt;/p&gt
   &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Representing habitat</title>
-      <link>/docs/mapping_habitat/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mapping_habitat/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Mapping habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mapping-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mapping-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Habitat can be represented in many ways, ranging from complex species distribution models
-to relatively simple ecosystem mapping or site classification data.&lt;/p&gt;
-&lt;p&gt;In this tutorial, we use high resolution (1:5,000 scale) site classification mapping
-to map habitat for our target species. This spatial data takes the shape of polygons
-circumscribing different ecosystem types or areas of land use. This versatile approach
-should be accessible to many communities, wherever land classification or terrestrial
-ecosystem mapping data are available. Otherwise, habitat can be mapped based on
-orthoimagery generated using a variety of methods (&lt;em&gt;e.g.&lt;/em&gt;, satellite, drone).&lt;/p&gt;
-&lt;h3&gt;Filtering site classification mapping based on habitat types for target species&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;filtering-site-classification-mapping-based-on-habitat-types-for-target-species&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#filtering-site-classification-mapping-based-on-habitat-types-for-target-species&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, we select the site classifications representing suitable habitat for our targets:
-woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polgyons,
-then converted to grid cells.&lt;/p&gt;
-&lt;h3&gt;Converting polygons to gridded representation of habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;converting-polygons-to-gridded-representation-of-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#converting-polygons-to-gridded-representation-of-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Polygons representing habitat for target species is then represented as grid cells.
-For this methodology, a key consideration is to ensure that the grid scale corresponds
-with the precision of features representing search effort (see next section).&lt;/p&gt;
 
       </description>
     </item>

@@ -70,18 +70,25 @@ st_crs(landClass_Habitat) <- "WGS84"
 
 allHabitat <- st_union(landClass_Habitat)
 
+st_write(allHabitat, "Analysis_outputs/Intermediate/allHabitat.shp", driver="ESRI Shapefile", delete_dsn = TRUE)
+
 # Generate cell candidates by linear expansion from centroids - using st_is_within_distance is far too slow
 habitatcell_cand_ids <- cells_for_polygons(galpoints, landClass_Habitat) %>% expandCells(galgrid)
 habitatcell_cands <- data.frame(cell_id = habitatcell_cand_ids) %>% assign_cell_geometry_sf(galgrid)
 
 # Pick only those cells which genuinely intersect habitat - habitat becomes an sf dataframe of (cellid, geometry) for final accepted centroids
 habitatcell_ids <- cells_for_polygons(habitatcell_cands, landClass_Habitat)
-habitatcells <- data.frame(cell_id = habitatcell_ids) %>% assign_cell_centroids_sf(galgrid)
+habitatcells_frame <- data.frame(cell_id = habitatcell_ids)
+
+timedWrite(habitatcells_frame, "Analysis_outputs/Intermediate/habitatcells.csv")
+
+habitatcells <- habitatcells_frame %>% assign_cell_centroids_sf(galgrid)
 
 habitatOverrides <- read.csv("Analysis_inputs/Habitat_model/historical_habitat.csv")
 habitatOverridesSplit <- split(habitatOverrides$cell_id, habitatOverrides$Population)
 habitatOverrideKeys <- unique(habitatOverrides$Population)
 
+# Resolve those habitat overrides which are represented as a coarse region filter to a named geoJSON file in Analysis_inputs/Habitat_model
 habitatOverridesWithRegion <- subset(habitatOverrides, filter_region != "")
 habitatOverridesPolygons <- setNames(
   lapply(habitatOverridesWithRegion$filter_region, function(region) {
@@ -522,6 +529,8 @@ analyse_target <- function (thisTarget, detected = FALSE) {
       assigned_community = assign_community_vector(cell_id, NEAR_DIST, radius, OID),
       fringe_dist = ifelse(assigned_community == 0, NEAR_DIST, 0))
 
+  timedWrite(habitat_to_centres, str_glue("Analysis_outputs/Intermediate/{thisTarget}_habitat_to_centres.csv"))
+  
   community_counts <- habitat_to_centres %>%
     group_by(assigned_community) %>%
     summarize(
@@ -532,7 +541,7 @@ analyse_target <- function (thisTarget, detected = FALSE) {
 
   nc <- nrow(community_counts)
 
-  wg("Analysed historical habitat into {nc} centre{ifelse(nc == 1, '', 's')}")
+  wg("Analysed historical habitat into {nc - 1} centre{ifelse(nc == 2, '', 's')}")
 
   for(i in 1:nrow(community_counts)) {
     row <- community_counts[i,]
@@ -542,11 +551,6 @@ analyse_target <- function (thisTarget, detected = FALSE) {
   }
 
   searchEffort <- read.csv(str_glue("Analysis_inputs/Search_Effort/Target_Summaries/{thisTarget}.csv")) %>% select(cell_id, effortId, search_effort)
-
-  #searchEffort_max <- searchEffort %>%
-  #  group_by(cell_id) %>%
-  #  slice_max(search_effort, with_ties = FALSE) %>%
-  #  ungroup() %>% select(cell_id, effortId, search_effort)
 
   blank_cell_ids <- setdiff(habitatcells$cell_id, unique(searchEffort$cell_id))
   blankSearchEffort = data.frame(cell_id = blank_cell_ids) %>% mutate(effortId = "prior", search_effort = 0)

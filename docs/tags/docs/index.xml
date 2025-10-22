@@ -99,68 +99,6 @@ This is a convenient choice because, under the Bayesian framework, we can select
     </item>
     
     <item>
-      <title>Defining historical habitat patches</title>
-      <link>/docs/mapping_habitat/historical_habitat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mapping_habitat/historical_habitat/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Mapping target species&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mapping-target-species&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mapping-target-species&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;XXXXXXX&lt;/p&gt;
-&lt;h2&gt;Defining area of habitat patches based on occurrence records&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;defining-area-of-habitat-patches-based-on-occurrence-records&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#defining-area-of-habitat-patches-based-on-occurrence-records&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Each historical occurrence record can be associated with a patch of habitat
-to which the occurrence can be generalised.&lt;/p&gt;
-&lt;p&gt;Our analysis pipeline provides an algorithic means of determining this habitat
-based on intersecting the coordinate uncertainty circle associated with the
-historical occurrence record with the site classification mapping used to
-represent habitat.&lt;/p&gt;
-&lt;p&gt;However, this algorithmic system often produces inappropriate results when
-contextual knowledge of the historical habitat is taken into account, and our
-pipeline provides two main routes for overriding this automatic determination
-based on supplying entries in the &lt;a href=&#34;https://drive.google.com/file/d/1DVTOppn58YA-c8Om7hVQo_ehiay73Xp7/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;historical_habitat.csv&lt;/a&gt;
-file.&lt;/p&gt;
-&lt;p&gt;Firstly, a selection of manually chosen grid cells can be provided by correlating
-the historical population id with chosen grid cells ids in the &lt;code&gt;cell_id&lt;/code&gt; column.
-These grid cells ids are computed using the overall project grid frame as managed
-by the utilties in &lt;a href=&#34;https://github.com/IMERSS/biodiversity-change-protocol/tree/main/scripts/geomUtil.R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geomUtil.R&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Secondly, a coarse polygon may be delineated around the historical habitat and
-stored in a GeoJSON file whose name is referenced in the &lt;code&gt;filter_region&lt;/code&gt; column
-in &lt;a href=&#34;https://drive.google.com/file/d/1DVTOppn58YA-c8Om7hVQo_ehiay73Xp7/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;historical_habitat.csv&lt;/a&gt;.
-This coarse polygon will then be intersected with valid habitat as determined in the
-project&amp;rsquo;s site classification mapping (for our analysis in
-&lt;a href=&#34;https://drive.google.com/file/d/1DNMJottpGxnsVxR8qn8G4mcaAjHZ9eTw/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;land class apr04.shp&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;An example of this kind of override can be seen in the historical habitat analysis for
-&lt;a href=&#34;../example&#34; &gt;Crassula connata&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Defining potential habitat patches</title>
-      <link>/docs/mapping_habitat/potential_habitat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mapping_habitat/potential_habitat/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Mapping potential habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mapping-potential-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mapping-potential-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the previous habitat mapping vignette, we defined the extent of historical habitat, showing
-how contextual knowledge can be used to manually override the automatic determination
-based on coordinate uncertainty of the historical record and the site classification.&lt;/p&gt;
-&lt;h2&gt;Expanding the habitat grid to include potential habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;expanding-the-habitat-grid-to-include-potential-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#expanding-the-habitat-grid-to-include-potential-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The potential habitat for a species is determined by using the site classification
-mapping described in &lt;a href=&#34;../mapping_habitat&#34; &gt;mapping habitat&lt;/a&gt;. The potential habitat
-is simply defined as the total valid habitat with the historical habitat substrated.
-This potential habitat is designated &lt;code&gt;pot&lt;/code&gt; in the statistical and geospatial
-summary tables.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Effective search effort</title>
       <link>/docs/extirpation/single_cells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -463,36 +401,6 @@ into beta parameters for a regional distribution using moment matching:&lt;/p&gt
   &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Representing habitat</title>
-      <link>/docs/mapping_habitat/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/mapping_habitat/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Mapping habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mapping-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mapping-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Habitat can be represented in many ways, ranging from complex species distribution models
-to relatively simple ecosystem mapping or site classification data.&lt;/p&gt;
-&lt;p&gt;In this tutorial, we use high resolution (1:5,000 scale) site classification mapping
-to map habitat for our target species. This spatial data takes the shape of polygons
-circumscribing different ecosystem types or areas of land use. This versatile approach
-should be accessible to many communities, wherever land classification or terrestrial
-ecosystem mapping data are available. Otherwise, habitat can be mapped based on
-orthoimagery generated using a variety of methods (&lt;em&gt;e.g.&lt;/em&gt;, satellite, drone).&lt;/p&gt;
-&lt;h3&gt;Filtering site classification mapping based on habitat types for target species&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;filtering-site-classification-mapping-based-on-habitat-types-for-target-species&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#filtering-site-classification-mapping-based-on-habitat-types-for-target-species&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, we select the site classifications representing suitable habitat for our targets:
-woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polgyons,
-then converted to grid cells.&lt;/p&gt;
-&lt;h3&gt;Converting polygons to gridded representation of habitat&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;converting-polygons-to-gridded-representation-of-habitat&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#converting-polygons-to-gridded-representation-of-habitat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Polygons representing habitat for target species is then represented as grid cells.
-For this methodology, a key consideration is to ensure that the grid scale corresponds
-with the precision of features representing search effort (see next section).&lt;/p&gt;
 
       </description>
     </item>
