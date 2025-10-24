@@ -36,15 +36,15 @@ historicalHabitat <- leaflet() |>
   addPolygons(data = habitat_bellhouse, color = "black", weight = 1, fillColor = "green", fillOpacity = 0.8, group = "Habitat Polygons") |>
   addPolygons(data = habitatcells_bellhouse, color = "black", weight = 1, opacity = 1, fill = FALSE, group = "Habitat Cells") |>
   addPolygons(data = pp_historical_h2c, color = "blue", weight = 1, opacity = 1, fillOpacity = 0.2, group = "Primula pauciflora Historical Habitat") |>
-  addPolygons(data = bellhouse, color = "red", weight = 2, fill = FALSE, group = "Bellhouse Park Boundary") |>
+  addPolygons(data = bellhouse, stroke = FALSE, fill = FALSE, group = "Bellhouse Park Boundary") |>
 #  addLayersControl(
-#    overlayGroups = c("Habitat Polygons", "Habitat Cells", "Bellhouse Park Boundary"),
+#    overlayGroups = c("Habitat Polygons", "Habitat Gridded Cells", "Bellhouse Park Boundary"),
 #    options = layersControlOptions(collapsed = FALSE)
 #  ) |>
   addLegend(
     position = "topright",
     colors = c("green", "black", "blue"),
-    labels = c("Habitat Polygons", "Habitat Cells", "Primula Pauciflora Historical Habitat"),
+    labels = c("Habitat Polygons", "Habitat Gridded Cells", "Primula Pauciflora Historical Habitat"),
     opacity = 1,
     title = "Habitat Representation for Primula Pauciflora"
   )
