@@ -4,6 +4,9 @@ description: Gridding land classification data
 weight: 4
 sidebar:
   open: true
+  output:
+  blogdown::html_page:
+    pandoc_args: ["--no-smart"]
 ---
 
 ```{r, setup, include=FALSE}
@@ -27,6 +30,8 @@ source("scripts/plotHabitat.R")
 
 Habitat can be represented in many ways, ranging from complex species distribution models 
 to relatively simple ecosystem mapping or site classification data.
+
+![Querying land classification data to select habitat types for target species in QGIS.](selectingHabitat.png)
 
 In this tutorial, we use high resolution (1:5,000 scale) site classification mapping 
 to map habitat for our target species. This spatial data takes the shape of polygons 
