@@ -1,9 +1,9 @@
 ---
 title: Search effort
 description: Incorporating search effort
-categories: [Examples, Placeholders]
-tags: [test, docs]
 weight: 5
+sidebar:
+  open: true
 ---
 
 Search effort is represented as a per-observer search time per gridded cell

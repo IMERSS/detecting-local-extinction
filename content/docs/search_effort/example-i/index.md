@@ -7,45 +7,29 @@ weight: 5
 
 <link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/jquery/jquery-3.6.0.min.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/leaflet/leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet/leaflet.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/leafletfix/leafletfix.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/proj4/proj4.min.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/Proj4Leaflet/proj4leaflet.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/leaflet-providers/leaflet-providers_2.0.0.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/leaflet-providers-plugin/leaflet-providers-plugin.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/pagedtable/css/pagedtable.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/pagedtable/js/pagedtable.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/htmltools-fill/fill.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/jquery/jquery-3.6.0.min.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/leaflet/leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet/leaflet.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/leafletfix/leafletfix.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/proj4/proj4.min.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/Proj4Leaflet/proj4leaflet.js"></script>
-
 <link href="{{< blogdown/postref >}}index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/leaflet-binding/leaflet.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/leaflet-providers/leaflet-providers_2.0.0.js"></script>
-
 <script src="{{< blogdown/postref >}}index_files/leaflet-providers-plugin/leaflet-providers-plugin.js"></script>
 
 ## Historical habitat
@@ -90,15 +74,15 @@ the 9 Bellhouse Park cells:
 
 Here is a description of the columns in this table:
 
-| AGM Column | Description |
-|----|----|
-| cell_id | Numeric cell id, allocated to a grid cell as configured in the project’s [config.R](https://github.com/IMERSS/biodiversity-change-protocol/tree/main/scripts/config.R) file and manipulated by the utilities in [geomUtil.R](https://github.com/IMERSS/biodiversity-change-protocol/tree/main/scripts/geomUtil.R) |
-| effortId | A string which summarises each of the search efforts contributing to this search cell. This is purely for traceability and is not used by the analysis computing extirpation probability |
-| search_effort | Total accumulated search effort for this grid cell measured in ksec by all observers |
-| fringe_dist | The distance of this cell from historical habitat - these values are all 0 above since the cells lie within the historical habitat |
-| assigned_community | The historical community to which this cell is assigned. These numbers are taken from row numbers in the historical plant records table after filtering for those with coordinates - for this analysis in [target_plant_records_2024.csv](https://github.com/IMERSS/biodiversity-change-protocol/tree/mainAnalysis_inputs/Occurrences/target_plant_records_2024.csv) |
-| area | Effective area of the grid cell in square metres after intersecting it with valid habitat polygons - for this analysis, a full cell will be approximately 900 sqm |
-| area_prop | The proportion that the effective grid cell area is of a standard full grid cell - for this analysis, 900 sqm |
+| AGM Column         | Description                                                                                                                                                                                                                                                                                                                                                         |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| cell_id            | Numeric cell id, allocated to a grid cell as configured in the project’s [config.R](https://github.com/IMERSS/detecting-local-extinction/tree/main/scripts/config.R) file and manipulated by the utilities in [geomUtils.R](https://github.com/IMERSS/detecting-local-extinction/tree/main/scripts/geomUtils.R)                                                     |
+| effortId           | A string which summarises each of the search efforts contributing to this search cell. This is purely for traceability and is not used by the analysis computing extirpation probability                                                                                                                                                                            |
+| search_effort      | Total accumulated search effort for this grid cell measured in ksec by all observers                                                                                                                                                                                                                                                                                |
+| fringe_dist        | The distance of this cell from historical habitat - these values are all 0 above since the cells lie within the historical habitat                                                                                                                                                                                                                                  |
+| assigned_community | The historical community to which this cell is assigned. These numbers are taken from row numbers in the historical plant records table after filtering for those with coordinates - for this analysis in [target_plant_records_2024.csv](https://github.com/IMERSS/detecting-local-extinction/tree/main/Analysis_inputs/Occurrences/target_plant_records_2024.csv) |
+| area               | Effective area of the grid cell in square metres after intersecting it with valid habitat polygons - for this analysis, a full cell will be approximately 900 sqm                                                                                                                                                                                                   |
+| area_prop          | The proportion that the effective grid cell area is of a standard full grid cell - for this analysis, 900 sqm                                                                                                                                                                                                                                                       |
 
 ## Potential habitat
 

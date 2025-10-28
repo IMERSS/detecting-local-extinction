@@ -1,4 +1,4 @@
-github_repo <- "https://github.com/IMERSS/biodiversity-change-protocol"
+github_repo <- "https://github.com/IMERSS/detecting-local-extinction"
 
 site_rel <- function (path) {
   paste0(github_repo, "/tree/main", path)

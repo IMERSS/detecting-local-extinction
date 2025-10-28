@@ -25,8 +25,8 @@
         
         
         &lt;h2&gt;Inferring local extinction based on limited occurrence data&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;inferring-local-extinction-based-on-limited-occurrence-data&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#inferring-local-extinction-based-on-limited-occurrence-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To estimate the likelihood of a species presence before considering any new evidence,
-we use a non-parametric extinction test—a method developed by Solow (1993).
+    &lt;a href=&#34;#inferring-local-extinction-based-on-limited-occurrence-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To estimate the likelihood of a species&amp;rsquo; presence before considering any new evidence,
+we use a parametric extinction statistic developed by &lt;a href=&#34;https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1940821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solow (1993)&lt;/a&gt;.
 This approach starts from the simple idea that the timing of past sightings contains
 information about whether a species might have disappeared. If a species was last observed
 long ago, and we’ve continued searching without finding it again, our confidence in
@@ -41,9 +41,9 @@ time we could reasonably have detected the species if it were present&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The formula calculates an odds ratio (called a Bayes factor) that weighs the
 likelihood that the species is still present versus extinct, based on how long it has
-gone unobserved. The smaller the time between the last sighting and today $(t_n - T_0)$,
-relative to the total observation period $(T - T_0)$, the lower the odds that the
-species persists.&lt;/p&gt;
+gone unobserved. The less time between the last sighting and today $(t_n - T_0)$,
+relative to the total observation period $(T - T_0)$, and the fewer sightings there
+have been, the lower the odds that the species persists.&lt;/p&gt;
 &lt;p&gt;
   &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
     Expand for mathematical details

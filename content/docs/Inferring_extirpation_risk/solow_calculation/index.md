@@ -8,7 +8,7 @@ weight: 2
 ## Inferring local extinction based on limited occurrence data
 
 To estimate the likelihood of a species' presence before considering any new evidence, 
-we use a parametric extinction test—a method developed by Solow (1993).
+we use a parametric extinction statistic developed by [Solow (1993)](https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1940821).
 This approach starts from the simple idea that the timing of past sightings contains 
 information about whether a species might have disappeared. If a species was last observed 
 long ago, and we’ve continued searching without finding it again, our confidence in 
@@ -25,8 +25,8 @@ time we could reasonably have detected the species if it were present
 The formula calculates an odds ratio (called a Bayes factor) that weighs the 
 likelihood that the species is still present versus extinct, based on how long it has 
 gone unobserved. The less time between the last sighting and today $(t_n - T_0)$, 
-relative to the total observation period $(T - T_0)$, the lower the odds that the 
-species persists. 
+relative to the total observation period $(T - T_0)$, and the fewer sightings there
+have been, the lower the odds that the species persists. 
 
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">

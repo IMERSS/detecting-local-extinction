@@ -22,7 +22,7 @@
 <meta itemprop="name" content="Solow calculation (Prior I)">
 <meta itemprop="description" content="Calculating extirpation probabilities based on sighting rates">
 
-<meta itemprop="wordCount" content="306">
+<meta itemprop="wordCount" content="311">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Solow calculation (Prior I)"/>
 <meta name="twitter:description" content="Calculating extirpation probabilities based on sighting rates"/>
 
@@ -282,7 +282,7 @@
   >Representing habitat
     </a>
               
-            </li><li class="hx-flex hx-flex-col "><a
+            </li><li class="hx-flex hx-flex-col open"><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
     href="../../../docs/search_effort/"
@@ -550,7 +550,7 @@
     
   >Representing habitat
     </a></li>
-          <li class=""><a
+          <li class="open"><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
     href="../../../docs/search_effort/"
@@ -742,8 +742,8 @@
         <div class="content">
           <h1>Solow calculation (Prior I)</h1>
           <h2>Inferring local extinction based on limited occurrence data<span class="hx-absolute -hx-mt-20" id="inferring-local-extinction-based-on-limited-occurrence-data"></span>
-    <a href="#inferring-local-extinction-based-on-limited-occurrence-data" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>To estimate the likelihood of a species presence before considering any new evidence,
-we use a non-parametric extinction test—a method developed by Solow (1993).
+    <a href="#inferring-local-extinction-based-on-limited-occurrence-data" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>To estimate the likelihood of a species&rsquo; presence before considering any new evidence,
+we use a parametric extinction statistic developed by <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1940821" target="_blank" rel="noopener">Solow (1993)</a>.
 This approach starts from the simple idea that the timing of past sightings contains
 information about whether a species might have disappeared. If a species was last observed
 long ago, and we’ve continued searching without finding it again, our confidence in
@@ -758,9 +758,9 @@ time we could reasonably have detected the species if it were present</li>
 </ul>
 <p>The formula calculates an odds ratio (called a Bayes factor) that weighs the
 likelihood that the species is still present versus extinct, based on how long it has
-gone unobserved. The smaller the time between the last sighting and today $(t_n - T_0)$,
-relative to the total observation period $(T - T_0)$, the lower the odds that the
-species persists.</p>
+gone unobserved. The less time between the last sighting and today $(t_n - T_0)$,
+relative to the total observation period $(T - T_0)$, and the fewer sightings there
+have been, the lower the odds that the species persists.</p>
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Expand for mathematical details
