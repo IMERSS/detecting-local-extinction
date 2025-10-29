@@ -52,17 +52,17 @@ to relatively simple ecosystem mapping or site classification data.
 </figure>
 
 In this tutorial, we use high resolution (1:5,000 scale) site classification mapping
-to map habitat for our target species. This spatial data takes the shape of polygons
-circumscribing different ecosystem types or areas of land use. This versatile approach
-should be accessible to many communities, wherever land classification or terrestrial
-ecosystem mapping data are available. Otherwise, habitat can be mapped based on
-orthoimagery generated using a variety of methods (*e.g.*, satellite, drone).
+to map habitat for our target species. This versatile approach should be accessible
+to many communities, wherever land classification or terrestrial ecosystem mapping
+data are available. Otherwise, habitat can be mapped based on orthoimagery generated
+using a variety of methods (*e.g.*, satellite, drone).
 
 ### Filtering site classification mapping based on habitat types for target species
 
-First, we select the site classifications representing suitable habitat for our targets:
-woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polygons,
-then converted to grid cells.
+The site classification data we have at hand takes the shape of polygons circumscribing
+different ecosystem types or areas of land use. First, we select the site classifications
+representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types.
+These are extracted as polygons, then converted to grid cells.
 
 ### Converting polygons to gridded representation of habitat
 
