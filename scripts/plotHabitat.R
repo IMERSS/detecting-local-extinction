@@ -44,7 +44,7 @@ historicalHabitat <- leaflet() |>
   addLegend(
     position = "topright",
     colors = c("green", "black", "blue"),
-    labels = c("Habitat Polygons", "Habitat Gridded Cells", "Primula Pauciflora Historical Habitat"),
+    labels = c("Habitat polygons", "Gridded habitat cells", "Primula pauciflora historical habitat"),
     opacity = 1,
     title = "Habitat Representation for Primula Pauciflora"
   )

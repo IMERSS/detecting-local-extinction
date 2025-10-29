@@ -34,17 +34,17 @@ to relatively simple ecosystem mapping or site classification data.
 ![Querying land classification data to select habitat types for target species in QGIS.](selectingHabitat.png)
 
 In this tutorial, we use high resolution (1:5,000 scale) site classification mapping 
-to map habitat for our target species. This spatial data takes the shape of polygons 
-circumscribing different ecosystem types or areas of land use. This versatile approach 
-should be accessible to many communities, wherever land classification or terrestrial 
-ecosystem mapping data are available. Otherwise, habitat can be mapped based on 
-orthoimagery generated using a variety of methods (*e.g.*, satellite, drone).
+to map habitat for our target species. This versatile approach should be accessible 
+to many communities, wherever land classification or terrestrial ecosystem mapping 
+data are available. Otherwise, habitat can be mapped based on orthoimagery generated 
+using a variety of methods (*e.g.*, satellite, drone).
 
 ### Filtering site classification mapping based on habitat types for target species
 
-First, we select the site classifications representing suitable habitat for our targets:
-woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. These are extracted as polygons, 
-then converted to grid cells.
+The site classification data we have at hand takes the shape of polygons circumscribing 
+different ecosystem types or areas of land use. First, we select the site classifications 
+representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. 
+These are extracted as polygons, then converted to grid cells.
 
 ### Converting polygons to gridded representation of habitat
 
@@ -52,10 +52,12 @@ Polygons representing habitat for target species is then represented as grid cel
 For this methodology, a key consideration is to ensure that the grid scale corresponds 
 with the precision of features representing search effort (see next section).
 
-The following map shows the polygon representation of the habitat surrounding Bellhouse Park as
-green polygons, and the resulting gridded habitat to 30x30 m^2 cells as black squares.
-Choosing _Primula pauciflora_ as our target taxon, we select 9 of these cells as the historical
-habitat, shown in blue.
+The map below shows green polygons representing habitat within Bellhouse Park, 
+as well as a gridded representation of the same habitat (30x30 m^2 cells).
+Assuming _Primula pauciflora_ as our target taxon, we delineate the extent of its historical
+habitat based on the best available information (in this case, based on a reasonably accurate GPS
+coordinate, knowledge of its habitat type (vernal pools), and first-hand knowledge shared by the collector, Harvey Janszen). The accuracy of this information allows us to select 9 cells from our habitat map to represent the historical
+habitat of _Primula_, shown in blue.
 
 ```{r echo=FALSE}
 historicalHabitat
