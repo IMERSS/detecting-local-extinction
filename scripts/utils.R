@@ -86,11 +86,27 @@ mx_read <- function (filename) {
   return(lat_lon(dropped));
 }
 
+# Taken from https://github.com/r-spatial/sf/issues/231
+sfc_as_cols <- function(x, geometry, names = c("x","y")) {
+  if (missing(geometry)) {
+    geometry <- sf::st_geometry(x)
+  } else {
+    geometry <- rlang::eval_tidy(enquo(geometry), x)
+  }
+  stopifnot(inherits(x,"sf") && inherits(geometry,"sfc_POINT"))
+  ret <- sf::st_coordinates(geometry)
+  ret <- tibble::as_tibble(ret)
+  stopifnot(length(names) == ncol(ret))
+  x <- x[ , !names(x) %in% names]
+  ret <- setNames(ret, names)
+  st_drop_geometry(dplyr::bind_cols(x, ret))
+}
+
 # Helpful utility to template an arbitrary list of string arguments and then dump them to the console with a terminating newline
 wg <- function (...) {
   args <- list(...)
   line <- paste(sapply(args, str_glue, .envir = parent.frame()), collapse = "")
-  
+
   # Output the result using writeLines
   writeLines(line)
 }
@@ -117,16 +133,16 @@ downloadGdriveFolder <- function (id, file_path, skip_if_exists = TRUE) {
     }
     # folder link to id
     folder_drib = idToDrib(id)
-    
+
     # find files in folder
     files = drive_ls(folder_drib)
-    
+
     cat("Fetching ", nrow(files), " files in folder ", folder_drib$name, "\n")
-    
+
     # loop dirs and download files inside them
     for (i in seq_along(files$name)) {
       resource <- files$drive_resource[[i]]
-      
+
       target <- str_c(file_path, "/", resource$name)
       if (resource$mimeType == "application/vnd.google-apps.folder") {
         cat (resource$name, " is a folder\n")
@@ -135,13 +151,13 @@ downloadGdriveFolder <- function (id, file_path, skip_if_exists = TRUE) {
         # i_dir = drive_ls(files[i, ])
       }
       else {
-        
+
         try({
           if (file.exists(target)) {
             wg("File {target} already exists, skipping download")
           } else {
             drive_download(as_id(files$id[i]), path = target)
-          } 
+          }
         })
       }
     }

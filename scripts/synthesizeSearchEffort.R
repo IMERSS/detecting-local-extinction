@@ -29,6 +29,7 @@ bench.start <- Sys.time()
 setwd(paste0(dirname(rstudioapi::getActiveDocumentContext()$path), "/.."))
 
 source("Scripts/geomUtils.R")
+source("Scripts/utils.R")
 
 # Load packages
 
@@ -204,7 +205,7 @@ trackToDistances <- function (sortedTrack_sf) {
   })
 }
 
-# Assign a cell_id to a trace and then sum up search effort by cell_id with supplied searchWeight
+# Assign each sample in a trace to a cell_id and then sum up search effort by cell_id with supplied searchWeight
 condenseTrace <- function (trace, searchWeight) {
   gridTrace <- st_drop_geometry(assign_cell_id(trace, galgrid))
   gridTrace_c <- gridTrace %>% count(cell_id) %>% mutate(search_effort = n * searchWeight) %>% select(-one_of(c("n")))
@@ -221,6 +222,9 @@ allTraces <- st_sf(effortId=character(), time=as.POSIXct(character()), searchWei
 
 allCondensed <- data.frame()
 condensedWithTarget <- data.frame()
+
+effortsWithUsedObs <- data.frame()
+allUsedObs_sf <- data.frame()
 
 applyTrace <- function (trace, searchWeight, effortId, targets) {
 
@@ -376,6 +380,7 @@ for (parsedEffortId in effortWithObsIds) {
 
     cat("Generating ", trackObserverCount, " traces for observers of effortId ", parsedEffortId, "\n")
 
+    # Generate separate traces from all obs of each observer who participated in a search effort
     for (trackObserver in trackObservers) {
       traceId <- str_glue("{parsedEffortId}!{trackObserver}")
       obsFilteredTrack_sf <- filteredTrack_sf[filteredTrack_sf$Recorded.by == trackObserver,]
@@ -404,6 +409,8 @@ for (parsedEffortId in effortWithObsIds) {
 
       # Don't double count by applying trace for search effort for which we already have a GPS track
       if (!hasGPSTrack) {
+        effortsWithUsedObs <- rbind(effortsWithUsedObs, data.frame(effortId = parsedEffortId))
+        allUsedObs_sf <- rbind(allUsedObs_sf, obsFilteredTrack_sf)
         applyTrace(newTrace_sf, searchWeight, parsedEffortId, thisTargets)
       }
     }
@@ -430,6 +437,9 @@ st_write(condensed_final_sf, str_glue("Analysis_inputs/Search_Effort/Search_Effo
 
 allTraces <- st_zm(allTraces)
 st_write(allTraces, str_glue("Analysis_inputs/Search_Effort/Synthesized_Search_Effort_Traces/Combined-Trace.kml"), driver = "kml", delete_dsn = TRUE)
+# GDAL's KML reader cannot read its own output, write a CSV also: https://chatgpt.com/c/6908dd5d-7be4-832f-a84a-b8ec0a12754c
+allTraces_flat <- sfc_as_cols(allTraces, names = c("long", "lat"))
+write.csv(allTraces_flat, "Analysis_inputs/Search_Effort/Synthesized_Search_Effort_Traces/Combined-Trace.csv", na = "", row.names = FALSE)
 
 condensedWithTarget <- condensedWithTarget %>% drop_na(cell_id)
 
@@ -439,11 +449,14 @@ for (thisTarget in foundTargets) {
   writeTargetSummary(condensedWithTarget, thisTarget)
 }
 
-write.csv(speedTrace, str_glue("Analysis_inputs/Search_Effort/iNaturalist_Observations/speed_trace.csv"), na = "", row.names = FALSE)
-write.csv(emptyObsEfforts, str_glue("Analysis_inputs/Search_Effort/iNaturalist_Observations/empty_obs_traces.csv"), na = "", row.names = FALSE)
-write.csv(badUncertaintyObs, str_glue("Analysis_inputs/Search_Effort/iNaturalist_Observations/bad_uncertainty_obs.csv"), na = "", row.names = FALSE)
-write.csv(allUncertaintyStats, str_glue("Analysis_inputs/Search_Effort/iNaturalist_Observations/effort_uncertainty_stats.csv"), na = "", row.names = FALSE)
-write.csv(allObsDistanceStats, str_glue("Analysis_inputs/Search_Effort/iNaturalist_Observations/trace_distance_stats.csv"), na = "", row.names = FALSE)
+write.csv(speedTrace, "Analysis_inputs/Search_Effort/iNaturalist_Observations/speed_trace.csv", na = "", row.names = FALSE)
+write.csv(emptyObsEfforts, "Analysis_inputs/Search_Effort/iNaturalist_Observations/empty_obs_traces.csv", na = "", row.names = FALSE)
+write.csv(badUncertaintyObs, "Analysis_inputs/Search_Effort/iNaturalist_Observations/bad_uncertainty_obs.csv", na = "", row.names = FALSE)
+write.csv(allUncertaintyStats, "Analysis_inputs/Search_Effort/iNaturalist_Observations/effort_uncertainty_stats.csv", na = "", row.names = FALSE)
+write.csv(allObsDistanceStats, "Analysis_inputs/Search_Effort/iNaturalist_Observations/trace_distance_stats.csv", na = "", row.names = FALSE)
+write.csv(effortsWithUsedObs, "Analysis_inputs/Search_Effort/iNaturalist_Observations/efforts_with_used_obs.csv", na = "", row.names = FALSE)
+allUsedObs <- sfc_as_cols(allUsedObs_sf, names = c("long", "lat"))
+write.csv(allUsedObs, "Analysis_inputs/Search_Effort/iNaturalist_Observations/all_used_obs.csv", na = "", row.names = FALSE)
 
 # https://stackoverflow.com/questions/34990298/r-clear-output-file-before-writing
 close( file( "Analysis_inputs/missing_gps_traces.txt", open="w" ) )
