@@ -71,16 +71,37 @@ condensed_final_sf <- st_read("Analysis_inputs/Search_Effort/Search_Effort_Densi
 
 bellhouse_search_sf <- st_intersection(condensed_final_sf, bellhouse)
 
-pal <- colorNumeric(palette = "viridis", domain = range(c(0, bellhouse_search_sf$srch_ff), na.rm = TRUE))
-bellhouseSearchMap <- leaflet(data = bellhouse_search_sf) %>%
-  # Add a Tiles layer to the map
-  addProviderTiles("Esri.WorldImagery") %>%
-  # Add the grid layer to the map
-  addPolygons(fillColor = ~pal(srch_ff), fillOpacity = 0.8, 
-              color = "#BDBDC3", weight = 1) %>%
-  # Add a legend
-  addLegend(pal = pal, values = c(0, max(bellhouse_search_sf$srch_ff, na.rm = TRUE)),
-            opacity = 0.8, title = "Accumulated Search Effort in ks")
+eps <- 0.001
+min_val <- min(bellhouse_search_sf$srch_ff, na.rm = TRUE)
+max_val <- max(bellhouse_search_sf$srch_ff, na.rm = TRUE)
 
-# Print the map
+# Log10 domain with padding on both ends
+domain_log <- log10(c(min_val + eps, max_val + eps))
+
+# Define the palette on log scale
+log_pal <- colorNumeric(
+  palette = "viridis",
+  domain = domain_log
+)
+
+bellhouseSearchMap <- leaflet(data = bellhouse_search_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addPolygons(
+    fillColor = ~log_pal(log10(srch_ff + eps)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = log_pal,
+    # Pass *untransformed* min–max in log space — leaflet uses these to decide tick range
+    values = log10(c(min_val + eps, max_val + eps)),
+    labFormat = leaflet::labelFormat(
+      transform = function(x) 10^x,  # back-transform from log10
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort in ks"
+  )
+
 bellhouseSearchMap
