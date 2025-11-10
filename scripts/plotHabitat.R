@@ -32,7 +32,7 @@ pp_historical_h2c <- h2c_sf[h2c_sf$assigned_community == 77, ]
 
 # Plot the resulting polygons on a Leaflet map
 historicalHabitat <- leaflet() |>
-  addTiles() |>
+  addProviderTiles("Esri.WorldImagery") %>%
   addPolygons(data = habitat_bellhouse, color = "black", weight = 1, fillColor = "green", fillOpacity = 0.8, group = "Habitat Polygons") |>
   addPolygons(data = habitatcells_bellhouse, color = "black", weight = 1, opacity = 1, fill = FALSE, group = "Habitat Cells") |>
   addPolygons(data = pp_historical_h2c, color = "blue", weight = 1, opacity = 1, fillOpacity = 0.2, group = "Primula pauciflora Historical Habitat") |>
@@ -59,7 +59,7 @@ potential_h2c <- h2c_sf[h2c_sf$assigned_community == 0, ]
 
 # Create a second leaflet map showing the bounding box and filtered cells
 potentialHabitat <- leaflet() |>
-  addTiles() |>
+  addProviderTiles("Esri.WorldImagery") %>%
   addPolygons(data = potential_h2c, color = "black", weight = 1, fill = FALSE, opacity = 1, group = "Potential Habitat") |>
   addLegend(
     position = "topright",
