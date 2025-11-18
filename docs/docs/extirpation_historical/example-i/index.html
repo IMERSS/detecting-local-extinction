@@ -11,28 +11,20 @@
 <link rel="apple-touch-icon" href="../../../apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="../../../site.webmanifest" rel="manifest" />
 <title>Example I – IMERSS</title>
-  <meta name="description" content="Gridded search data are passed for computing regional statistics as the second argument to the analyse_accepted function in Analyse.R:
-analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low) Here exp_weight is the exponential kernel distance weighting parameter and solow_prob is the Solow prior probability of sighting. This produces posterior regional statistics for extirpation in historical habitat as follows:
-target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflora_stats.csv&#34;) target_stats_historical &lt;- target_stats %&gt;% dplyr::filter(Population == &#34;PP1&#34;) paged_table(target_stats_historical) These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion." /><link rel="canonical" href="../../../docs/extirpation_historical/example-i/" itemprop="url" />
+  <meta name="description" content="The inference process described in the section on per-cell extirpation has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t &#43; \beta_t) / 2$This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over its historical habitat covering 9 grid cells in Bellhouse Park." /><link rel="canonical" href="../../../docs/extirpation_historical/example-i/" itemprop="url" />
 
 <meta property="og:title" content="Example I" />
-<meta property="og:description" content="Gridded search data are passed for computing regional statistics as the second argument to the analyse_accepted function in Analyse.R:
-analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low) Here exp_weight is the exponential kernel distance weighting parameter and solow_prob is the Solow prior probability of sighting. This produces posterior regional statistics for extirpation in historical habitat as follows:
-target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflora_stats.csv&#34;) target_stats_historical &lt;- target_stats %&gt;% dplyr::filter(Population == &#34;PP1&#34;) paged_table(target_stats_historical) These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion." />
+<meta property="og:description" content="The inference process described in the section on per-cell extirpation has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t &#43; \beta_t) / 2$This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over its historical habitat covering 9 grid cells in Bellhouse Park." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/docs/extirpation_historical/example-i/" /><meta property="article:section" content="docs" />
 <meta property="article:published_time" content="2025-06-04T00:00:00+00:00" />
 <meta property="article:modified_time" content="2025-06-04T00:00:00+00:00" />
 <meta itemprop="name" content="Example I">
-<meta itemprop="description" content="Gridded search data are passed for computing regional statistics as the second argument to the analyse_accepted function in Analyse.R:
-analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low) Here exp_weight is the exponential kernel distance weighting parameter and solow_prob is the Solow prior probability of sighting. This produces posterior regional statistics for extirpation in historical habitat as follows:
-target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflora_stats.csv&#34;) target_stats_historical &lt;- target_stats %&gt;% dplyr::filter(Population == &#34;PP1&#34;) paged_table(target_stats_historical) These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion."><meta itemprop="datePublished" content="2025-06-04T00:00:00+00:00" />
+<meta itemprop="description" content="The inference process described in the section on per-cell extirpation has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t &#43; \beta_t) / 2$This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over its historical habitat covering 9 grid cells in Bellhouse Park."><meta itemprop="datePublished" content="2025-06-04T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2025-06-04T00:00:00+00:00" />
-<meta itemprop="wordCount" content="124">
+<meta itemprop="wordCount" content="311">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Example I"/>
-<meta name="twitter:description" content="Gridded search data are passed for computing regional statistics as the second argument to the analyse_accepted function in Analyse.R:
-analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low) Here exp_weight is the exponential kernel distance weighting parameter and solow_prob is the Solow prior probability of sighting. This produces posterior regional statistics for extirpation in historical habitat as follows:
-target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflora_stats.csv&#34;) target_stats_historical &lt;- target_stats %&gt;% dplyr::filter(Population == &#34;PP1&#34;) paged_table(target_stats_historical) These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion."/>
+<meta name="twitter:description" content="The inference process described in the section on per-cell extirpation has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t &#43; \beta_t) / 2$This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over its historical habitat covering 9 grid cells in Bellhouse Park."/>
 
     <link rel="preload" href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
     <link href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" rel="stylesheet" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -328,9 +320,17 @@ target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflor
             </li><li class="hx-flex hx-flex-col "><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
-    href="../../../docs/extirpation/single_cells/"
+    href="../../../docs/extirpation/search_effort/"
     
   >Effective search effort
+    </a>
+              
+            </li><li class="hx-flex hx-flex-col "><a
+    class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
+    href="../../../docs/extirpation/single_cell/"
+    
+  >Per-cell extirpation
     </a>
               
             </li><li class="hx-flex hx-flex-col "><a
@@ -595,9 +595,17 @@ target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflor
             </li><li class="hx-flex hx-flex-col "><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
-    href="../../../docs/extirpation/single_cells/"
+    href="../../../docs/extirpation/search_effort/"
     
   >Effective search effort
+    </a>
+              
+            </li><li class="hx-flex hx-flex-col "><a
+    class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
+    href="../../../docs/extirpation/single_cell/"
+    
+  >Per-cell extirpation
     </a>
               
             </li><li class="hx-flex hx-flex-col "><a
@@ -737,12 +745,42 @@ target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflor
 
         <div class="content">
           <h1>Example I</h1>
-          <link href="../../../docs/extirpation_historical/example-i/index_files/pagedtable/css/pagedtable.css" rel="stylesheet" />
+          <script src="../../../docs/extirpation_historical/example-i/index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="../../../docs/extirpation_historical/example-i/index_files/jquery/jquery.min.js"></script>
+<link href="../../../docs/extirpation_historical/example-i/index_files/leaflet/leaflet.css" rel="stylesheet" />
+<script src="../../../docs/extirpation_historical/example-i/index_files/leaflet/leaflet.js"></script>
+<link href="../../../docs/extirpation_historical/example-i/index_files/leafletfix/leafletfix.css" rel="stylesheet" />
+<script src="../../../docs/extirpation_historical/example-i/index_files/proj4/proj4.min.js"></script>
+<script src="../../../docs/extirpation_historical/example-i/index_files/Proj4Leaflet/proj4leaflet.js"></script>
+<link href="../../../docs/extirpation_historical/example-i/index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+<script src="../../../docs/extirpation_historical/example-i/index_files/leaflet-binding/leaflet.js"></script>
+<script src="../../../docs/extirpation_historical/example-i/index_files/leaflet-providers/leaflet-providers_1.9.0.js"></script>
+<script src="../../../docs/extirpation_historical/example-i/index_files/leaflet-providers-plugin/leaflet-providers-plugin.js"></script>
+<link href="../../../docs/extirpation_historical/example-i/index_files/pagedtable/css/pagedtable.css" rel="stylesheet" />
 <script src="../../../docs/extirpation_historical/example-i/index_files/pagedtable/js/pagedtable.js"></script>
-<p>Gridded search data are passed for computing regional statistics as the second argument to the <code>analyse_accepted</code> function in Analyse.R:</p>
+<div class="para">The inference process described in the section on <a href="../../extirpation/single_cell">per-cell extirpation</a> has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t + \beta_t) / 2$</div>
+<p>This map plots this mean per-cell posterior extirpation likelihood for <em>Primula pauciflora</em> over its historical habitat covering 9 grid cells in Bellhouse Park.</p>
 <div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
 
-<pre><code>analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low)</code></pre><div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
+<div><div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span><span style="color:#000">prim_accepted_sf</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#000">st_read</span><span style="color:#000;font-weight:bold">(</span><span style="color:#4e9a06">&#34;Analysis_outputs/Primula pauciflora_Solow_low.shp&#34;</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">quiet</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#204a87;font-weight:bold">TRUE</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span><span style="color:#8f5902;font-style:italic"># Filter for region</span>
+</span></span><span style="display:flex;"><span><span style="color:#000">prim_historical_sf</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#000">prim_accepted_sf</span> <span style="color:#ce5c00;font-weight:bold">%&gt;%</span> <span style="color:#000">dplyr</span><span style="color:#ce5c00;font-weight:bold">::</span><span style="color:#000">filter</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">assgnd_</span> <span style="color:#ce5c00;font-weight:bold">==</span> <span style="color:#0000cf;font-weight:bold">77</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span><span style="color:#8f5902;font-style:italic"># Convert from mean likelihood of presence to mean likelihood of extirpation</span>
+</span></span><span style="display:flex;"><span><span style="color:#000">prim_historical_sf</span><span style="color:#ce5c00;font-weight:bold">$</span><span style="color:#000">mean_ep</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#0000cf;font-weight:bold">1</span> <span style="color:#ce5c00;font-weight:bold">-</span> <span style="color:#000">prim_historical_sf</span><span style="color:#ce5c00;font-weight:bold">$</span><span style="color:#000">mean</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#000">pal</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#000">colorNumeric</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">palette</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#4e9a06">&#34;viridis&#34;</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">domain</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#000">range</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">c</span><span style="color:#000;font-weight:bold">(</span><span style="color:#0000cf;font-weight:bold">0</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">prim_historical_sf</span><span style="color:#ce5c00;font-weight:bold">$</span><span style="color:#000">mean_ep</span><span style="color:#000;font-weight:bold">),</span> <span style="color:#000">na.rm</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#204a87;font-weight:bold">TRUE</span><span style="color:#000;font-weight:bold">))</span>
+</span></span><span style="display:flex;"><span><span style="color:#000">m</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#000">leaflet</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">data</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#000">prim_historical_sf</span><span style="color:#000;font-weight:bold">)</span> <span style="color:#ce5c00;font-weight:bold">%&gt;%</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#8f5902;font-style:italic"># Add a Tiles layer to the map</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#000">addProviderTiles</span><span style="color:#000;font-weight:bold">(</span><span style="color:#4e9a06">&#34;Esri.WorldImagery&#34;</span><span style="color:#000;font-weight:bold">)</span> <span style="color:#ce5c00;font-weight:bold">%&gt;%</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#8f5902;font-style:italic"># Add the grid layer to the map</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#000">addPolygons</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">fillColor</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#ce5c00;font-weight:bold">~</span><span style="color:#000">pal</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">mean_ep</span><span style="color:#000;font-weight:bold">),</span> <span style="color:#000">fillOpacity</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#0000cf;font-weight:bold">0.8</span><span style="color:#000;font-weight:bold">,</span> 
+</span></span><span style="display:flex;"><span>              <span style="color:#000">color</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#4e9a06">&#34;#BDBDC3&#34;</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">weight</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#0000cf;font-weight:bold">1</span><span style="color:#000;font-weight:bold">)</span> <span style="color:#ce5c00;font-weight:bold">%&gt;%</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#8f5902;font-style:italic"># Add a legend</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#000">addLegend</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">pal</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#000">pal</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">values</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#000">c</span><span style="color:#000;font-weight:bold">(</span><span style="color:#0000cf;font-weight:bold">0</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">max</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">prim_historical_sf</span><span style="color:#ce5c00;font-weight:bold">$</span><span style="color:#000">mean_ep</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">na.rm</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#204a87;font-weight:bold">TRUE</span><span style="color:#000;font-weight:bold">)),</span>
+</span></span><span style="display:flex;"><span>            <span style="color:#000">opacity</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#0000cf;font-weight:bold">0.8</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">title</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#4e9a06">&#34;Mean likelihood of extirpation&#34;</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#8f5902;font-style:italic"># Print the map</span>
+</span></span><span style="display:flex;"><span><span style="color:#000">m</span></span></span></code></pre></div></div><div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
   <button
     class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
     title="Copy code"
@@ -752,6 +790,11 @@ target_stats &lt;- read.csv(&#34;Analysis_outputs/Intermediate/Primula pauciflor
   </button>
 </div>
 </div>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["Esri.WorldImagery",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addPolygons","args":[[[[{"lng":[-123.3121258329,-123.3121258329,-123.3117168329,-123.3117168329,-123.3121258329],"lat":[48.87259604193872,48.87286504193872,48.87286504193872,48.87259604193872,48.87259604193872]}]],[[{"lng":[-123.3117168329,-123.3117168329,-123.3113078329,-123.3113078329,-123.3117168329],"lat":[48.87259604193872,48.87286504193872,48.87286504193872,48.87259604193872,48.87259604193872]}]],[[{"lng":[-123.3113078329,-123.3113078329,-123.3108988329,-123.3108988329,-123.3113078329],"lat":[48.87259604193872,48.87286504193872,48.87286504193872,48.87259604193872,48.87259604193872]}]],[[{"lng":[-123.3125348329,-123.3125348329,-123.3121258329,-123.3121258329,-123.3125348329],"lat":[48.87232704193872,48.87259604193872,48.87259604193872,48.87232704193872,48.87232704193872]}]],[[{"lng":[-123.3121258329,-123.3121258329,-123.3117168329,-123.3117168329,-123.3121258329],"lat":[48.87232704193872,48.87259604193872,48.87259604193872,48.87232704193872,48.87232704193872]}]],[[{"lng":[-123.3117168329,-123.3117168329,-123.3113078329,-123.3113078329,-123.3117168329],"lat":[48.87232704193872,48.87259604193872,48.87259604193872,48.87232704193872,48.87232704193872]}]],[[{"lng":[-123.3113078329,-123.3113078329,-123.3108988329,-123.3108988329,-123.3113078329],"lat":[48.87232704193872,48.87259604193872,48.87259604193872,48.87232704193872,48.87232704193872]}]],[[{"lng":[-123.3108988329,-123.3108988329,-123.3104898329,-123.3104898329,-123.3108988329],"lat":[48.87232704193872,48.87259604193872,48.87259604193872,48.87232704193872,48.87232704193872]}]],[[{"lng":[-123.3121258329,-123.3121258329,-123.3117168329,-123.3117168329,-123.3121258329],"lat":[48.87205804193872,48.87232704193872,48.87232704193872,48.87205804193872,48.87205804193872]}]]],null,null,{"interactive":true,"className":"","stroke":true,"color":"#BDBDC3","weight":1,"opacity":0.5,"fill":true,"fillColor":["#FDE725","#E6E419","#F3E61E","#F7E621","#FCE724","#D9E319","#D0E11C","#FAE723","#F7E621"],"fillOpacity":0.8,"smoothFactor":1,"noClip":false},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addLegend","args":[{"colors":["#440154 , #440154 0%, #404588 20.3678637222951%, #297A8E 40.7357274445902%, #25AB82 61.1035911668853%, #83D44C 81.4714548891804%, #FDE725 "],"labels":["0.0","0.2","0.4","0.6","0.8"],"na_color":null,"na_label":"NA","opacity":0.8,"position":"topright","type":"numeric","title":"Mean likelihood of extirpation","extra":{"p_1":0,"p_n":0.8147145488918044},"layerId":null,"className":"info legend","group":null}]}],"limits":{"lat":[48.87205804193872,48.87286504193872],"lng":[-123.3125348329,-123.3104898329]}},"evals":[],"jsHooks":[]}</script>
+<p>This gridded search data is then passed for computing regional statistics as the second argument to the <code>analyse_accepted</code> function in Analyse.R:</p>
+<pre><code>analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low)
+</code></pre>
 <p>Here <code>exp_weight</code> is the exponential kernel distance weighting parameter and <code>solow_prob</code> is the Solow prior probability of sighting.
 This produces posterior regional statistics for extirpation in historical habitat as follows:</p>
 <div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
@@ -769,13 +812,13 @@ This produces posterior regional statistics for extirpation in historical habita
 </div>
 </div>
 <div data-pagedtable="false">
-  <script data-pagedtable-source type="application/json">
-{"columns":[{"label":["cells"],"name":[1],"type":["int"],"align":["right"]},{"label":["searched"],"name":[2],"type":["int"],"align":["right"]},{"label":["pops"],"name":[3],"type":["int"],"align":["right"]},{"label":["habitatSearched"],"name":[4],"type":["chr"],"align":["left"]},{"label":["Central"],"name":[5],"type":["chr"],"align":["left"]},{"label":["Low"],"name":[6],"type":["chr"],"align":["left"]},{"label":["High"],"name":[7],"type":["chr"],"align":["left"]},{"label":["alpha"],"name":[8],"type":["dbl"],"align":["right"]},{"label":["beta"],"name":[9],"type":["dbl"],"align":["right"]},{"label":["mu"],"name":[10],"type":["dbl"],"align":["right"]},{"label":["var"],"name":[11],"type":["dbl"],"align":["right"]},{"label":["Population"],"name":[12],"type":["chr"],"align":["left"]},{"label":["target"],"name":[13],"type":["chr"],"align":["left"]},{"label":["prior_ER"],"name":[14],"type":["dbl"],"align":["right"]}],"data":[{"1":"9","2":"9","3":"1","4":"100.0%","5":"95.8%","6":"91.2%","7":"100.0%","8":"1.35","9":"30.98","10":"0.04171371","11":"0.00119949","12":"PP1","13":"Primula pauciflora","14":"0.57"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+<script data-pagedtable-source type="application/json">
+{"columns":[{"label":["cells"],"name":[1],"type":["int"],"align":["right"]},{"label":["searched"],"name":[2],"type":["int"],"align":["right"]},{"label":["pops"],"name":[3],"type":["int"],"align":["right"]},{"label":["habitatSearched"],"name":[4],"type":["chr"],"align":["left"]},{"label":["Central"],"name":[5],"type":["chr"],"align":["left"]},{"label":["Low"],"name":[6],"type":["chr"],"align":["left"]},{"label":["High"],"name":[7],"type":["chr"],"align":["left"]},{"label":["alpha"],"name":[8],"type":["dbl"],"align":["right"]},{"label":["beta"],"name":[9],"type":["dbl"],"align":["right"]},{"label":["mu"],"name":[10],"type":["dbl"],"align":["right"]},{"label":["var"],"name":[11],"type":["dbl"],"align":["right"]},{"label":["Population"],"name":[12],"type":["chr"],"align":["left"]},{"label":["target"],"name":[13],"type":["chr"],"align":["left"]},{"label":["prior_ER"],"name":[14],"type":["dbl"],"align":["right"]}],"data":[{"1":"9","2":"9","3":"1","4":"100.0%","5":"95.9%","6":"91.8%","7":"99.9%","8":"1.67","9":"39.43","10":"0.04059659","11":"0.0009252246","12":"PP1","13":"Primula pauciflora","14":"0.46"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
   </script>
 </div>
-<p>These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at [91.2%, 100.0%].</p>
+<p>These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at [91.8%, 99.9%].</p>
 <p>Here is this posterior distribution graphed out:</p>
-<img src="../../../docs/extirpation_historical/example-i/index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+<img src="../../../docs/extirpation_historical/example-i/index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
 
         </div>
         <div class="hx-mt-16"></div>
@@ -808,6 +851,30 @@ This produces posterior regional statistics for extirpation in historical habita
 
 <script defer src="../../../lib/flexsearch/flexsearch.bundle.min.e45e7eb129aae9f684e7f863bb7c1d612ea124b7068e12af80c58c62764a5379.js" integrity="sha256-5F5&#43;sSmq6faE5/hju3wdYS6hJLcGjhKvgMWMYnZKU3k="></script>
     <script defer src="../../../en.search.min.4e5531ae99b3b9b4f666c45de7e610b30ffd74396eadf875685be927b5efd899.js" integrity="sha256-TlUxrpmzubT2ZsRd5&#43;YQsw/9dDlurfh1aFvpJ7Xv2Jk="></script>
+<link type="text/css" rel="stylesheet" href="../../../lib/katex/katex.min.7e5db7914b97e596a36c1abb67ccc7f174f8bb71d38c9a88c55b262ed1737f97.css" integrity="sha256-fl23kUuX5ZajbBq7Z8zH8XT4u3HTjJqIxVsmLtFzf5c=" />
+  <script defer src="../../../lib/katex/katex.min.9f45307c5794ed247a0d095f3a62e52ef2215a67b2327203a7fd919959ae79d1.js" integrity="sha256-n0UwfFeU7SR6DQlfOmLlLvIhWmeyMnIDp/2RmVmuedE="></script>
+  <script defer src="../../../lib/katex/auto-render.min.7b57d427ac6270677daf8d8380ded2cc73336f9149a167b8e1fe0d6ef66604ae.js" integrity="sha256-e1fUJ6xicGd9r42DgN7SzHMzb5FJoWe44f4NbvZmBK4="></script>
+  <script defer src="../../../lib/katex/mhchem.min.f0ca03df194b8c3d6017ff455db6a0ef98857905663fa311a6cded788b15340b.js" integrity="sha256-8MoD3xlLjD1gF/9FXbag75iFeQVmP6MRps3teIsVNAs="></script>
+  <script>
+    
+    
+    document.addEventListener("DOMContentLoaded", function () {
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\(", right: "\\)", display: false },
+          { left: "\\begin{equation}", right: "\\end{equation}", display: true },
+          {left: "\\begin{align}", right: "\\end{align}", display: true},
+          {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+          {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+          {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          { left: "\\[", right: "\\]", display: true },
+        ],
+        throwOnError: false,
+      });
+    });
+  </script>
 
 
   </body>

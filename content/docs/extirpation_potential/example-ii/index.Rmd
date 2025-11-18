@@ -19,7 +19,30 @@ library(dplyr)
 library(ggplot2)
 ```
 
-...
+This map plots this mean per-cell posterior extirpation likelihood for _Crassula connata_ over both historical and potential habitat.
+
+```{r, warning=FALSE}
+cracon_accepted_sf <- st_read("Analysis_outputs/Crassula connata_Solow_low.shp", quiet=TRUE)
+# Filter for region
+# Convert from mean likelihood of presence to mean likelihood of extirpation
+cracon_accepted_sf$mean_ep <- 1 - cracon_accepted_sf$mean
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_accepted_sf$mean_ep), na.rm = TRUE))
+m <- leaflet(data = cracon_accepted_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(mean_ep), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_accepted_sf$mean_ep, na.rm = TRUE)),
+            opacity = 0.8, title = "Mean likelihood of extirpation")
+
+# Print the map
+m
+
+```
+
 This produces posterior regional statistics for extirpation across all habitat as follows:
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}

@@ -1,9 +1,6 @@
 ---
 title: The beta distribution
-description: Representing extirpation probabilities
-categories: [Examples, Placeholders]
 math: true
-tags: [test, docs]
 weight: 1
 ---
 

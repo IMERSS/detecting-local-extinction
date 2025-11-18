@@ -2,11 +2,13 @@
 title: Example I
 description: ''
 date: 2025-06-04
+math: true
 weight: 5
 ---
 
 ```{r, setup, include=FALSE}
 knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+knitr::opts_knit$set(render_markdown = FALSE)
 ```
 
 ```{r, echo=FALSE, include=FALSE}
@@ -19,8 +21,37 @@ library(dplyr)
 library(ggplot2)
 ```
 
+```{=html}
+<div class="para">The inference process described in the section on <a href="../../extirpation/single_cell">per-cell extirpation</a> has resulted in per-cell parameters $ (\alpha_t, \beta_t) $ for the beta distribution for extirpation from which we can infer a central estimate of extirpation in that cell by computing the mean of the distribution as $ (\alpha_t + \beta_t) / 2$.</div>
+```
 
-Gridded search data are passed for computing regional statistics as the second argument to the ``analyse_accepted`` function in Analyse.R:
+This map plots this mean per-cell posterior extirpation likelihood for _Primula pauciflora_ over its historical habitat covering 9 grid cells in Bellhouse Park. 
+
+```{r, warning=FALSE}
+prim_accepted_sf <- st_read("Analysis_outputs/Primula pauciflora_Solow_low.shp", quiet=TRUE)
+# Filter for region
+prim_historical_sf <- prim_accepted_sf %>% dplyr::filter(assgnd_ == 77)
+# Convert from mean likelihood of presence to mean likelihood of extirpation
+prim_historical_sf$mean_ep <- 1 - prim_historical_sf$mean
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, prim_historical_sf$mean_ep), na.rm = TRUE))
+m <- leaflet(data = prim_historical_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(mean_ep), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(prim_historical_sf$mean_ep, na.rm = TRUE)),
+            opacity = 0.8, title = "Mean likelihood of extirpation")
+
+# Print the map
+m
+
+```
+
+
+This gridded search data is then passed for computing regional statistics as the second argument to the ``analyse_accepted`` function in Analyse.R:
 
 ```
 analyse_accepted(thisTarget, accepted_grouped_merged, habitat_to_centres, exp_weight = exp_weight, solow_prob = solow_low)

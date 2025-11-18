@@ -19,6 +19,31 @@ library(dplyr)
 library(ggplot2)
 ```
 
+Similarly to the previous vignette, this map plots this mean per-cell posterior extirpation likelihood for _Crassula connata_ over its historical habitat covering 6 grid cells in Bellhouse Park. 
+
+```{r, warning=FALSE}
+cracon_accepted_sf <- st_read("Analysis_outputs/Crassula connata_Solow_low.shp", quiet=TRUE)
+# Filter for region
+cracon_historical_sf <- cracon_accepted_sf %>% dplyr::filter(assgnd_ == 44)
+# Convert from mean likelihood of presence to mean likelihood of extirpation
+cracon_historical_sf$mean_ep <- 1 - cracon_historical_sf$mean
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_historical_sf$mean_ep), na.rm = TRUE))
+m <- leaflet(data = cracon_historical_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(mean_ep), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_historical_sf$mean_ep, na.rm = TRUE)),
+            opacity = 0.8, title = "Mean likelihood of extirpation")
+
+# Print the map
+m
+
+```
+
 Gridded search data are passed for computing regional statistics as the second argument to the ``analyse_accepted`` function in Analyse.R. This data format is explained in the [previous example](../example-i)
 
 This produces posterior regional statistics for extirpation in historical habitat as follows:

@@ -79,15 +79,16 @@ This is a convenient choice because, under the Bayesian framework, we can select
 &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
       </description>
     </item>
     
     <item>
       <title>Effective search effort</title>
-      <link>/docs/extirpation/single_cells/</link>
+      <link>/docs/extirpation/search_effort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/extirpation/single_cells/</guid>
+      <guid>/docs/extirpation/search_effort/</guid>
       <description>
         
         
@@ -149,6 +150,27 @@ study system or target organism.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Per-cell extirpation</title>
+      <link>/docs/extirpation/single_cell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/extirpation/single_cell/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Given a search effort \(S_t\) in a particular cell, we apply
+our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate
+\(P_r W_p\) to derive our formula for the per-cell posterior parameters \(  (\alpha_t, \beta_t) \)
+for the beta distribution that we assign to the extirpation likelihood in that cell. This appears
+in the Methods S7 section of the paper&#39;s supporting information:&lt;p&gt;
+&lt;div style=&#34;display: flex;justify-content: center;&#34;&gt;
+\(  (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p + S_t W_s)  \)
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Pooling search effort</title>
       <link>/docs/extirpation/region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -157,7 +179,7 @@ study system or target organism.&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;Having arrived at individual values for the beta parameters for each
+        &lt;p&gt;Having arrived at individual values (  (\alpha_t, \beta_t) ) for the beta parameters for each
 cell in a region (historical or potential), we then transfer these
 into beta parameters for a regional distribution using moment matching:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;

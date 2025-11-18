@@ -3,10 +3,10 @@ title: Pooling search effort
 description: Calculating the posterior distribution for a region
 categories: [Examples, Placeholders]
 tags: [test, docs]
-weight: 2
+weight: 4
 ---
 
-Having arrived at individual values for the beta parameters for each
+Having arrived at individual values \(  (\alpha_t, \beta_t) \) for the beta parameters for each
 cell in a region (historical or potential), we then transfer these
 into beta parameters for a regional distribution using moment matching:
 
