@@ -24,7 +24,7 @@ First, we assume 1958, the date of the first botanical collection on Galiano Isl
 How many times has this species been observed historically on Galiano Island?
 
 
-```r
+``` r
 records <- read.csv("Analysis_Inputs/Galiano_Island_vascular_plant_records_2024-10-09.csv")
 
 # Filter for Plagiobothrys tenellus records
@@ -53,7 +53,7 @@ cat("Plagiobothrys tenellus has been observed",
 When was the most recent sighting?
 
 
-```r
+``` r
 records <- read.csv("Analysis_Inputs/Galiano_Island_vascular_plant_records_2024-10-09.csv")
 
 # Identify the most recent sighting

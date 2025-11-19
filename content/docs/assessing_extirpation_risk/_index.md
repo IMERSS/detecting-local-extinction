@@ -1,5 +1,5 @@
 ---
-title: Inferring extirpation risk
+title: Assessing extirpation risk
 description: Detection frequency as key metric for population assessments
 weight: 4
 sidebar:
