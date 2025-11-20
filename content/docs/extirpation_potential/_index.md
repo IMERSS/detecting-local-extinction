@@ -16,7 +16,8 @@ habitat.
 
 After pooling statistics between cells in historical and potential habitat, 
 the distributions for the resulting regional extirpation priors and 
-likelihoods appear as follows, as shown in our paper's Figure 3:
+likelihoods for our two focal taxa appear as follows,
+which is a subplot of our paper's Figure 3:
 
 
-![Distributions from inference](inference.png)
+![Distributions from inference](inference-cropped.png)

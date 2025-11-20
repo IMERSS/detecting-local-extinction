@@ -11,20 +11,24 @@
 <link rel="apple-touch-icon" href="../../../apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="../../../site.webmanifest" rel="manifest" />
 <title>Per-cell extirpation – IMERSS</title>
-  <meta name="description" content="Given a search effort \(S_t\) in a particular cell, we apply our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate \(P_r W_p\) to derive our formula for the per-cell posterior parameters \( (\alpha_t, \beta_t) \) for the beta distribution that we assign to the extirpation likelihood in that cell. This appears in the Methods S7 section of the paper&#39;s supporting information: \( (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p &#43; S_t W_s) \) " /><link rel="canonical" href="../../../docs/extirpation/single_cell/" itemprop="url" />
+  <meta name="description" content="We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:
+How likely extinction seemed before getting new data (the prior estimate).How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).Each source is given a weight to show how strongly it should influence the result." /><link rel="canonical" href="../../../docs/extirpation/single_cell/" itemprop="url" />
 
 <meta property="og:title" content="Per-cell extirpation" />
-<meta property="og:description" content="Given a search effort \(S_t\) in a particular cell, we apply our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate \(P_r W_p\) to derive our formula for the per-cell posterior parameters \( (\alpha_t, \beta_t) \) for the beta distribution that we assign to the extirpation likelihood in that cell. This appears in the Methods S7 section of the paper&#39;s supporting information: \( (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p &#43; S_t W_s) \) " />
+<meta property="og:description" content="We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:
+How likely extinction seemed before getting new data (the prior estimate).How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).Each source is given a weight to show how strongly it should influence the result." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/docs/extirpation/single_cell/" /><meta property="article:section" content="docs" />
 
 
 <meta itemprop="name" content="Per-cell extirpation">
-<meta itemprop="description" content="Given a search effort \(S_t\) in a particular cell, we apply our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate \(P_r W_p\) to derive our formula for the per-cell posterior parameters \( (\alpha_t, \beta_t) \) for the beta distribution that we assign to the extirpation likelihood in that cell. This appears in the Methods S7 section of the paper&#39;s supporting information: \( (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p &#43; S_t W_s) \) ">
+<meta itemprop="description" content="We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:
+How likely extinction seemed before getting new data (the prior estimate).How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).Each source is given a weight to show how strongly it should influence the result.">
 
-<meta itemprop="wordCount" content="77">
+<meta itemprop="wordCount" content="250">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Per-cell extirpation"/>
-<meta name="twitter:description" content="Given a search effort \(S_t\) in a particular cell, we apply our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate \(P_r W_p\) to derive our formula for the per-cell posterior parameters \( (\alpha_t, \beta_t) \) for the beta distribution that we assign to the extirpation likelihood in that cell. This appears in the Methods S7 section of the paper&#39;s supporting information: \( (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p &#43; S_t W_s) \) "/>
+<meta name="twitter:description" content="We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:
+How likely extinction seemed before getting new data (the prior estimate).How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).Each source is given a weight to show how strongly it should influence the result."/>
 
     <link rel="preload" href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
     <link href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" rel="stylesheet" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -745,13 +749,33 @@
 
         <div class="content">
           <h1>Per-cell extirpation</h1>
-          <p>Given a search effort \(S_t\) in a particular cell, we apply
+          <p>We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:</p>
+<ul>
+  <li>How likely extinction seemed before getting new data (the prior estimate).</li>
+  <li>How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).</li>
+</ul>
+<p>Each source is given a weight to show how strongly it should influence the result. We then turn these into two numbers, \( \alpha \) and \( \beta \), which form a beta distribution. This distribution represents both our estimate of the extinction probability and how uncertain that estimate is.</p>
+<ul>
+  <li>\( \alpha \) increases when earlier evidence suggested extinction.</li>
+  <li>\( \beta \) increases when earlier evidence suggested the species was still present, or when we searched extensively and still found nothing.</li>
+</ul>
+<p>In plain terms, the calculation blends what we believed beforehand with what we learned from searching, producing a refined probability estimate expressed as a distribution rather than a single number.</p>
+<p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Expand for mathematical details
+  </a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+<p>Given a search effort \(S_t\) in a particular cell, we apply
 our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate
 \(P_r W_p\) to derive our formula for the per-cell posterior parameters \(  (\alpha_t, \beta_t) \)
 for the beta distribution that we assign to the extirpation likelihood in that cell. This appears
 in the Methods S7 section of the paper's supporting information:<p>
 <div style="display: flex;justify-content: center;">
 \(  (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p + S_t W_s)  \)
+</div>
+</div>
 </div>
 
         </div>

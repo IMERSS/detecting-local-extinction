@@ -6,6 +6,8 @@ weight: 1
 
 ## A convenient choice for rapid Bayesian inference
 
+
+
 <p>The beta distribution is a convenient choice for representing Bayesian inference on
 a probabilistic quantity such as probability of extirpation or probability of sighting.
 It is a distribution on the interval \([0, 1]\) which allows us to quickly estimate
@@ -14,6 +16,14 @@ by how peaked the distribution is around its maximum.
 </p>
 
 ![beta distribution](beta.jpg)
+
+<p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Expand for mathematical details
+  </a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
 
 ```R
 make_beta <- function (prob, weight) {
@@ -30,13 +40,6 @@ beta_variance <- function (bf) {
 }
 ```
 
-<p>
-  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Expand for mathematical details
-  </a>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
 <p>
  We model the probability of a species’ extirpation in a particular area. For consistency with mathematical treatments, we present calculations with a random variable \(θ\)
  encoding the probability of presence in the range \([0, 1]\) and convert to \(1-θ\), the probability of extirpation when we summarise our results. 

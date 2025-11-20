@@ -31,6 +31,13 @@ these probabilities and also summarise our confidence of these estimates, repres
 by how peaked the distribution is around its maximum.
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;beta.jpg&#34; alt=&#34;beta distribution&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
+    Expand for mathematical details
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;div class=&#34;collapse&#34; id=&#34;collapseExample&#34;&gt;
+  &lt;div class=&#34;card card-body&#34;&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
 
 &lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#000&#34;&gt;make_beta&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;prob&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;weight&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
@@ -54,13 +61,6 @@ by how peaked the distribution is around its maximum.
   &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;
-  &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
-    Expand for mathematical details
-  &lt;/a&gt;
-&lt;/p&gt;
-&lt;div class=&#34;collapse&#34; id=&#34;collapseExample&#34;&gt;
-  &lt;div class=&#34;card card-body&#34;&gt;
 &lt;p&gt;
  We model the probability of a species’ extirpation in a particular area. For consistency with mathematical treatments, we present calculations with a random variable \(θ\)
  encoding the probability of presence in the range \([0, 1]\) and convert to \(1-θ\), the probability of extirpation when we summarise our results. 
@@ -158,13 +158,33 @@ study system or target organism.&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;Given a search effort \(S_t\) in a particular cell, we apply
+        &lt;p&gt;We want to estimate how likely it is that a species has disappeared from a specific cell. To do this, we combine two sources of information:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How likely extinction seemed before getting new data (the prior estimate).&lt;/li&gt;
+  &lt;li&gt;How much effort we spent searching the cell without finding the species (more search with no sightings makes extinction more likely).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each source is given a weight to show how strongly it should influence the result. We then turn these into two numbers, \( \alpha \) and \( \beta \), which form a beta distribution. This distribution represents both our estimate of the extinction probability and how uncertain that estimate is.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;\( \alpha \) increases when earlier evidence suggested extinction.&lt;/li&gt;
+  &lt;li&gt;\( \beta \) increases when earlier evidence suggested the species was still present, or when we searched extensively and still found nothing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In plain terms, the calculation blends what we believed beforehand with what we learned from searching, producing a refined probability estimate expressed as a distribution rather than a single number.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
+    Expand for mathematical details
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;div class=&#34;collapse&#34; id=&#34;collapseExample&#34;&gt;
+  &lt;div class=&#34;card card-body&#34;&gt;
+&lt;p&gt;Given a search effort \(S_t\) in a particular cell, we apply
 our weighted search effort \(S_t W_s\) and weighted prior extirpation estimate
 \(P_r W_p\) to derive our formula for the per-cell posterior parameters \(  (\alpha_t, \beta_t) \)
 for the beta distribution that we assign to the extirpation likelihood in that cell. This appears
 in the Methods S7 section of the paper&#39;s supporting information:&lt;p&gt;
 &lt;div style=&#34;display: flex;justify-content: center;&#34;&gt;
 \(  (\alpha_t, \beta_t) = (P_r W_p, (1 - P_r) W_p + S_t W_s)  \)
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
       </description>
@@ -179,9 +199,19 @@ in the Methods S7 section of the paper&#39;s supporting information:&lt;p&gt;
       <description>
         
         
-        &lt;p&gt;Having arrived at individual values (  (\alpha_t, \beta_t) ) for the beta parameters for each
+        &lt;p&gt;Once we have values for \( \alpha \) and \( \beta \) for each individual cell, we combine them into a single regional distribution. Instead of averaging the raw values directly, we match the statistical moments of the regional data to those of a beta distribution. This gives us new regional \( \alpha \) and \( \beta \) values that reflect both the overall mean and the uncertainty across all cells.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
+    Expand for mathematical details
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;div class=&#34;collapse&#34; id=&#34;collapseExample&#34;&gt;
+  &lt;div class=&#34;card card-body&#34;&gt;
+&lt;p&gt;
+Having arrived at individual values \(  (\alpha_t, \beta_t) \) for the beta parameters for each
 cell in a region (historical or potential), we then transfer these
-into beta parameters for a regional distribution using moment matching:&lt;/p&gt;
+into beta parameters for a regional distribution using moment matching:
+&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
 
 &lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;# Compute beta parameters given moments&lt;/span&gt;
@@ -207,6 +237,8 @@ into beta parameters for a regional distribution using moment matching:&lt;/p&gt
     &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
   &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 

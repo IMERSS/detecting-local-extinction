@@ -1,15 +1,27 @@
 ---
 title: Pooling search effort
 description: Calculating the posterior distribution for a region
-categories: [Examples, Placeholders]
-tags: [test, docs]
+math: true
 weight: 4
 ---
 
+<p>Once we have values for \( \alpha \) and \( \beta \) for each individual cell, we combine them into a single regional distribution. Instead of averaging the raw values directly, we match the statistical moments of the regional data to those of a beta distribution. This gives us new regional \( \alpha \) and \( \beta \) values that reflect both the overall mean and the uncertainty across all cells.</p>
+
+<p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Expand for mathematical details
+  </a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+
+
+
+<p>
 Having arrived at individual values \(  (\alpha_t, \beta_t) \) for the beta parameters for each
 cell in a region (historical or potential), we then transfer these
 into beta parameters for a regional distribution using moment matching:
-
+</p>
 
 ```R
 # Compute beta parameters given moments
@@ -30,3 +42,5 @@ apply_region_moments <- function (stats, mu, var) {
 }
 
 ```
+</div>
+</div>

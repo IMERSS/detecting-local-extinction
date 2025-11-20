@@ -11,20 +11,20 @@
 <link rel="apple-touch-icon" href="../../../apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="../../../site.webmanifest" rel="manifest" />
 <title>The beta distribution – IMERSS</title>
-  <meta name="description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference on a probabilistic quantity such as probability of extirpation or probability of sighting. It is a distribution on the interval \([0, 1]\) which allows us to quickly estimate these probabilities and also summarise our confidence of these estimates, represented by how peaked the distribution is around its maximum. make_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en." /><link rel="canonical" href="../../../docs/extirpation/beta/" itemprop="url" />
+  <meta name="description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference ona probabilistic quantity such as probability of extirpation or probability of sighting.It is a distribution on the interval \([0, 1]\) which allows us to quickly estimatethese probabilities and also summarise our confidence of these estimates, representedby how peaked the distribution is around its maximum.Expand for mathematical detailsmake_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en." /><link rel="canonical" href="../../../docs/extirpation/beta/" itemprop="url" />
 
 <meta property="og:title" content="The beta distribution" />
-<meta property="og:description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference on a probabilistic quantity such as probability of extirpation or probability of sighting. It is a distribution on the interval \([0, 1]\) which allows us to quickly estimate these probabilities and also summarise our confidence of these estimates, represented by how peaked the distribution is around its maximum. make_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en." />
+<meta property="og:description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference ona probabilistic quantity such as probability of extirpation or probability of sighting.It is a distribution on the interval \([0, 1]\) which allows us to quickly estimatethese probabilities and also summarise our confidence of these estimates, representedby how peaked the distribution is around its maximum.Expand for mathematical detailsmake_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/docs/extirpation/beta/" /><meta property="article:section" content="docs" />
 
 
 <meta itemprop="name" content="The beta distribution">
-<meta itemprop="description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference on a probabilistic quantity such as probability of extirpation or probability of sighting. It is a distribution on the interval \([0, 1]\) which allows us to quickly estimate these probabilities and also summarise our confidence of these estimates, represented by how peaked the distribution is around its maximum. make_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en.">
+<meta itemprop="description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference ona probabilistic quantity such as probability of extirpation or probability of sighting.It is a distribution on the interval \([0, 1]\) which allows us to quickly estimatethese probabilities and also summarise our confidence of these estimates, representedby how peaked the distribution is around its maximum.Expand for mathematical detailsmake_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en.">
 
 <meta itemprop="wordCount" content="339">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="The beta distribution"/>
-<meta name="twitter:description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference on a probabilistic quantity such as probability of extirpation or probability of sighting. It is a distribution on the interval \([0, 1]\) which allows us to quickly estimate these probabilities and also summarise our confidence of these estimates, represented by how peaked the distribution is around its maximum. make_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en."/>
+<meta name="twitter:description" content="A convenient choice for rapid Bayesian inference The beta distribution is a convenient choice for representing Bayesian inference ona probabilistic quantity such as probability of extirpation or probability of sighting.It is a distribution on the interval \([0, 1]\) which allows us to quickly estimatethese probabilities and also summarise our confidence of these estimates, representedby how peaked the distribution is around its maximum.Expand for mathematical detailsmake_beta &lt;- function (prob, weight) { c(prob * weight, (1 - prob) * weight) } # Beta distribution statistics from https://en."/>
 
     <link rel="preload" href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
     <link href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" rel="stylesheet" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -765,6 +765,13 @@ these probabilities and also summarise our confidence of these estimates, repres
 by how peaked the distribution is around its maximum.
 </p>
 <p><img src="beta.jpg" alt="beta distribution" loading="lazy" /></p>
+<p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Expand for mathematical details
+  </a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
 <div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
 
 <div><div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-R" data-lang="R"><span style="display:flex;"><span><span style="color:#000">make_beta</span> <span style="color:#ce5c00;font-weight:bold">&lt;-</span> <span style="color:#204a87;font-weight:bold">function</span> <span style="color:#000;font-weight:bold">(</span><span style="color:#000">prob</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">weight</span><span style="color:#000;font-weight:bold">)</span> <span style="color:#000;font-weight:bold">{</span>
@@ -788,13 +795,6 @@ by how peaked the distribution is around its maximum.
   </button>
 </div>
 </div>
-<p>
-  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Expand for mathematical details
-  </a>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
 <p>
  We model the probability of a species’ extirpation in a particular area. For consistency with mathematical treatments, we present calculations with a random variable \(θ\)
  encoding the probability of presence in the range \([0, 1]\) and convert to \(1-θ\), the probability of extirpation when we summarise our results. 
