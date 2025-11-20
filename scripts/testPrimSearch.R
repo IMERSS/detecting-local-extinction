@@ -13,11 +13,11 @@ prim_sf$scaled_se = prim_sf$search_effort / prim_sf$area_prop
 
 eps <- 1e-6
 
-f_transform <- function(x, eps = 1e-6) log(0.4 + log(x + eps))
-f_inverse   <- function(y) exp(exp(y) - 0.4)
+f_transform <- function(x, eps = 1e-6) log(0.3 + log(x + eps))
+f_inverse   <- function(y) exp(exp(y) - 0.3)
 
-min_val <- min(prim_sf$scaled_se, na.rm = TRUE)
-max_val <- max(prim_sf$scaled_se, na.rm = TRUE)
+min_val <- min(c(prim_sf$search_effort, prim_sf$scaled_se), na.rm = TRUE)
+max_val <- max(c(prim_sf$search_effort, prim_sf$scaled_se), na.rm = TRUE)
 
 domain_trans <- f_transform(c(min_val, max_val))
 
@@ -25,6 +25,27 @@ pal <- colorNumeric(
   palette = "viridis",
   domain = domain_trans
 )
+
+m <- leaflet(data = prim_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addPolygons(
+    fillColor = ~pal(f_transform(search_effort)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = pal,
+    values = domain_trans,
+    labFormat = leaflet::labelFormat(
+      transform = function(y) f_inverse(y),
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort (ks)"
+  )
+
+m
 
 m <- leaflet(data = prim_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
@@ -59,15 +80,15 @@ eps <- 1e-6
 # Scale legend palette for legibility
 
 f_transform <- function(x, eps = 1e-6) {
-  log(-0.2 + log(x + eps))
+  log(1 + log(x + eps))
 }
 
 f_inverse <- function(y) {
-  exp(exp(y) + 0.2)
+  exp(exp(y) -1)
 }
 
-min_val <- min(cracon_sf$scaled_se, na.rm = TRUE)
-max_val <- max(cracon_sf$scaled_se, na.rm = TRUE)
+min_val <- min(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
+max_val <- max(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
 
 domain_trans <- f_transform(c(min_val, max_val))
 
@@ -75,6 +96,27 @@ pal <- colorNumeric(
   palette = "viridis",
   domain = domain_trans
 )
+
+m <- leaflet(data = cracon_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addPolygons(
+    fillColor = ~pal(f_transform(search_effort)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = pal,
+    values = domain_trans,
+    labFormat = leaflet::labelFormat(
+      transform = function(y) f_inverse(y),
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort in ks"
+  )
+
+m
 
 m <- leaflet(data = cracon_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%

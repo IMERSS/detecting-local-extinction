@@ -25,7 +25,7 @@ prim_accepted_sf &lt;- st_read(&#34;Analysis_outputs/Primula pauciflora_Solow_lo
 <meta itemprop="description" content="This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over both historical and potential habitat.
 prim_accepted_sf &lt;- st_read(&#34;Analysis_outputs/Primula pauciflora_Solow_low.shp&#34;, quiet=TRUE) # Filter for region # Convert from mean likelihood of presence to mean likelihood of extirpation prim_accepted_sf$mean_ep &lt;- 1 - prim_accepted_sf$mean pal &lt;- colorNumeric(palette = &#34;viridis&#34;, domain = range(c(0, prim_accepted_sf$mean_ep), na.rm = TRUE)) m &lt;- leaflet(data = prim_accepted_sf) %&gt;% # Add a Tiles layer to the map addProviderTiles(&#34;Esri."><meta itemprop="datePublished" content="2025-06-04T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2025-06-04T00:00:00+00:00" />
-<meta itemprop="wordCount" content="229">
+<meta itemprop="wordCount" content="200">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Example I"/>
 <meta name="twitter:description" content="This map plots this mean per-cell posterior extirpation likelihood for Primula pauciflora over both historical and potential habitat.
 prim_accepted_sf &lt;- st_read(&#34;Analysis_outputs/Primula pauciflora_Solow_low.shp&#34;, quiet=TRUE) # Filter for region # Convert from mean likelihood of presence to mean likelihood of extirpation prim_accepted_sf$mean_ep &lt;- 1 - prim_accepted_sf$mean pal &lt;- colorNumeric(palette = &#34;viridis&#34;, domain = range(c(0, prim_accepted_sf$mean_ep), na.rm = TRUE)) m &lt;- leaflet(data = prim_accepted_sf) %&gt;% # Add a Tiles layer to the map addProviderTiles(&#34;Esri."/>
@@ -87,13 +87,6 @@ prim_accepted_sf &lt;- st_read(&#34;Analysis_outputs/Primula pauciflora_Solow_lo
             class="nav-link active"
           >
             <span class="hx-text-center">Docs</span>
-          </a><a
-            title="Community"
-            href="../../../community/"
-            
-            class="nav-link hx-text-gray-600 hover:hx-text-gray-800 dark:hx-text-gray-400 dark:hover:hx-text-gray-200"
-          >
-            <span class="hx-text-center">Community</span>
           </a><div class="search-wrapper hx-relative">
     <div class="hx-relative hx-flex hx-items-center hx-text-gray-900 contrast-more:hx-text-gray-800 dark:hx-text-gray-300 contrast-more:dark:hx-text-gray-300">
         <input
@@ -442,13 +435,6 @@ prim_accepted_sf &lt;- st_read(&#34;Analysis_outputs/Primula pauciflora_Solow_lo
     href="../../../about/"
     
   >About
-    </a></li>
-          <li class=""><a
-    class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
-    href="../../../community/"
-    
-  >Community
     </a></li>
           <li class=""><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -802,7 +788,7 @@ and potential habitat.</p>
   </script>
 </div>
 <p>These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at [64.9%, 100.0%].</p>
-<p>Here is this posterior distribution graphed out - whilst the most probable extirpation value is 100% because of the folded nature of the beta distribution, this is a more dispersed distribution than that for historical habitat and the central estimate of extirpation probability is 83.7%.</p>
+<p>Here is this posterior distribution graphed out - the central estimate of extirpation probability is 83.7%.</p>
 <img src="../../../docs/extirpation_potential/example-i/index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
 
         </div>

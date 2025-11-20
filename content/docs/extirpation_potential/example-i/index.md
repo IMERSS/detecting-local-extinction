@@ -58,6 +58,6 @@ Pooling these distributions as before produces posterior regional statistics for
 
 These show the computed parameters of the posterior beta distribution for extirpation expressed in two different forms - the standard (alpha, beta) representation and (mu, var) as parameters for the central estimate for sighting probability and its dispersion. Confidence bands are placed for this at \[64.9%, 100.0%\].
 
-Here is this posterior distribution graphed out - whilst the most probable extirpation value is 100% because of the folded nature of the beta distribution, this is a more dispersed distribution than that for historical habitat and the central estimate of extirpation probability is 83.7%.
+Here is this posterior distribution graphed out - the central estimate of extirpation probability is 83.7%.
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />

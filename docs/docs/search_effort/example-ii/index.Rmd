@@ -29,11 +29,6 @@ cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_
 cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
 cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
 
-
-cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
-cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
-cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
-
 cracon_sf$scaled_se = cracon_sf$search_effort / cracon_sf$area_prop
 
 eps <- 1e-6
@@ -41,24 +36,27 @@ eps <- 1e-6
 # Scale legend palette for legibility
 
 f_transform <- function(x, eps = 1e-6) {
-  log(-0.2 + log(x + eps))
+  log(1 + log(x + eps))
 }
 
 f_inverse <- function(y) {
-  exp(exp(y) + 0.2)
+  exp(exp(y) -1)
 }
 
-min_val <- min(cracon_sf$scaled_se, na.rm = TRUE)
-max_val <- max(cracon_sf$scaled_se, na.rm = TRUE)
+min_val <- min(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
+max_val <- max(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
 
 domain_trans <- f_transform(c(min_val, max_val))
 
-pal <- colorNumeric(palette = "viridis", domain = domain_trans)
+pal <- colorNumeric(
+  palette = "viridis",
+  domain = domain_trans
+)
 
 m <- leaflet(data = cracon_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addPolygons(
-    fillColor = ~pal(f_transform(scaled_se)),
+    fillColor = ~pal(f_transform(search_effort)),
     fillOpacity = 0.8,
     color = "#BDBDC3",
     weight = 1
@@ -76,8 +74,35 @@ m <- leaflet(data = cracon_sf) %>%
 
 m
 
+```
+
+The gridded cells at the fringe of the range have only a small overlap with valid habitat and so should not have their search effort referred to the full cell size of 30x30m^2. Scaling the search effort per gridded cell to take account
+of this shows the search as being more complete in these areas:
+
+```{r}
+m <- leaflet(data = cracon_sf) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addPolygons(
+    fillColor = ~pal(f_transform(scaled_se)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = pal,
+    values = domain_trans,
+    labFormat = leaflet::labelFormat(
+      transform = function(y) f_inverse(y),
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort (ks)"
+  )
+
+m
 
 ```
+
 
 The table that this plot is generated from is in the AGM (accepted, grouped, merged) format, output by the 
 data pipeline which aggregates search trace data, grids it into cells and intersects it with habitat polygons. Here is the data covering
