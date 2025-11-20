@@ -27,7 +27,7 @@ menu:
         type: search
     - name: GitHub
       weight: 110
-      url: "https://github.com/IMERSS/biodiversity-change-protocol"
+      url: "https://github.com/IMERSS/detecting-local-extinction"
       params:
         icon: github
 
@@ -129,7 +129,7 @@ params:
   url_latest_version: https://example.com
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/IMERSS/biodiversity-change-protocol
+  github_repo: https://github.com/IMERSS/detecting-local-extinction
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""

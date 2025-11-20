@@ -10,11 +10,9 @@ imerssCover: true
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
-<a class="imerss-btn imerss-btn-lg imerss-btn-secondary me-3 mb-4" href="https://github.com/IMERSS/biodiversity-change-protocol">
+<a class="imerss-btn imerss-btn-lg imerss-btn-secondary me-3 mb-4" href="https://github.com/IMERSS/detecting-local-extinction">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
 </div>
 </div>
 </section>
-
-
