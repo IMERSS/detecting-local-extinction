@@ -77,7 +77,277 @@ It is a distribution on the interval \([0, 1]\) which allows us to quickly estim
 these probabilities and also summarise our confidence of these estimates, represented
 by how peaked the distribution is around its maximum.
 &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;beta.jpg&#34; alt=&#34;beta distribution&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;You can explore the different forms the beta distribution takes by adjusting the
+parameters using the sliders below. The initial parameters reflect the posterior
+distribution for extirpation that we will derive for &lt;i&gt;Primula pauciflora&lt;/i&gt; in all
+habitat in the &lt;a href=&#34;../../extirpation_potential/example-i/&#34;&gt;upcoming example&lt;/a&gt; 
+(with alpha and beta switched since we are considering probability of extirpation rather
+than presence).
+&lt;/p&gt;
+&lt;style&gt;
+    .beta-container {
+        font-family: -apple-system, BlinkMacSystemFont, &#34;Segoe UI&#34;, Roboto, &#34;Helvetica Neue&#34;, Arial, sans-serif;
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px;
+        background: #f9f9f9;
+    }
+    .beta-inner {
+        background: white;
+        border-radius: 8px;
+        padding: 30px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .beta-title {
+        color: #333;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .beta-subtitle {
+        color: #666;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .beta-controls {
+        margin-bottom: 30px;
+    }
+    .beta-slider-group {
+        margin-bottom: 25px;
+    }
+    .beta-label {
+        display: block;
+        margin-bottom: 8px;
+        color: #333;
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .beta-slider-container {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+    .beta-slider {
+        flex: 1;
+        height: 6px;
+        border-radius: 3px;
+        background: #ddd;
+        outline: none;
+        -webkit-appearance: none;
+    }
+    .beta-slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: #4285f4;
+        cursor: pointer;
+    }
+    .beta-slider::-moz-range-thumb {
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: #4285f4;
+        cursor: pointer;
+        border: none;
+    }
+    .beta-value-display {
+        min-width: 60px;
+        text-align: right;
+        font-family: system-ui;
+        font-size: 14px;
+        color: #333;
+    }
+    .beta-plot {
+        width: 100%;
+        height: 400px;
+    }
+    .beta-stats {
+        margin-top: 20px;
+        padding: 15px;
+        background: #f5f5f5;
+        border-radius: 6px;
+        font-size: 14px;
+    }
+    .beta-stat-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 8px;
+        font-family: system-ui;
+    }
+    .beta-stat-label {
+        font-weight: 500;
+        color: #555;
+    }
+    .beta-stat-value {
+        font-family: system-ui;
+        color: #333;
+    }
+&lt;/style&gt;
+&lt;div class=&#34;beta-container&#34;&gt;
+    &lt;div class=&#34;beta-inner&#34;&gt;
+        &lt;h1 class=&#34;beta-title&#34;&gt;Beta Distribution&lt;/h1&gt;
+        &lt;div class=&#34;beta-subtitle&#34;&gt;Probability Density Function (PDF) with α-β parametrization&lt;/div&gt;
+        &lt;div class=&#34;beta-controls&#34;&gt;
+            &lt;div class=&#34;beta-slider-group&#34;&gt;
+                &lt;label class=&#34;beta-label&#34; for=&#34;beta-alpha&#34;&gt;α (alpha):&lt;/label&gt;
+                &lt;div class=&#34;beta-slider-container&#34;&gt;
+                    &lt;input type=&#34;range&#34; class=&#34;beta-slider&#34; id=&#34;beta-alpha&#34; min=&#34;0.01&#34; max=&#34;10&#34; step=&#34;0.01&#34; value=&#34;5.79&#34;&gt;
+                    &lt;span class=&#34;beta-value-display&#34; id=&#34;beta-alpha-value&#34;&gt;5.79&lt;/span&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;beta-slider-group&#34;&gt;
+                &lt;label class=&#34;beta-label&#34; for=&#34;beta-beta&#34;&gt;β (beta):&lt;/label&gt;
+                &lt;div class=&#34;beta-slider-container&#34;&gt;
+                    &lt;input type=&#34;range&#34; class=&#34;beta-slider&#34; id=&#34;beta-beta&#34; min=&#34;0.01&#34; max=&#34;10&#34; step=&#34;0.01&#34; value=&#34;1.13&#34;&gt;
+                    &lt;span class=&#34;beta-value-display&#34; id=&#34;beta-beta-value&#34;&gt;1.13&lt;/span&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;beta-plot&#34; id=&#34;beta-plot&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;beta-stats&#34;&gt;
+            &lt;div class=&#34;beta-stat-row&#34;&gt;
+                &lt;span class=&#34;beta-stat-label&#34;&gt;Mean:&lt;/span&gt;
+                &lt;span class=&#34;beta-stat-value&#34; id=&#34;beta-mean&#34;&gt;-&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;beta-stat-row&#34;&gt;
+                &lt;span class=&#34;beta-stat-label&#34;&gt;Variance:&lt;/span&gt;
+                &lt;span class=&#34;beta-stat-value&#34; id=&#34;beta-variance&#34;&gt;-&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;beta-stat-row&#34;&gt;
+                &lt;span class=&#34;beta-stat-label&#34;&gt;Mode:&lt;/span&gt;
+                &lt;span class=&#34;beta-stat-value&#34; id=&#34;beta-mode&#34;&gt;-&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.26.0/plotly.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+    // Gamma function using Lanczos approximation
+    function gamma(z) {
+        const g = 7;
+        const C = [
+            0.99999999999980993,
+            676.5203681218851,
+            -1259.1392167224028,
+            771.32342877765313,
+            -176.61502916214059,
+            12.507343278686905,
+            -0.13857109526572012,
+            9.9843695780195716e-6,
+            1.5056327351493116e-7
+        ];
+        if (z &lt; 0.5) {
+            return Math.PI / (Math.sin(Math.PI * z) * gamma(1 - z));
+        }
+        z -= 1;
+        let x = C[0];
+        for (let i = 1; i &lt; g + 2; i++) {
+            x += C[i] / (z + i);
+        }
+        const t = z + g + 0.5;
+        return Math.sqrt(2 * Math.PI) * Math.pow(t, z + 0.5) * Math.exp(-t) * x;
+    }
+    // Beta function
+    function betaFunc(a, b) {
+        return gamma(a) * gamma(b) / gamma(a + b);
+    }
+    // Beta PDF
+    function betaPDF(x, alpha, beta) {
+        if (x &lt;= 0 || x &gt;= 1) return 0;
+        return Math.pow(x, alpha - 1) * Math.pow(1 - x, beta - 1) / betaFunc(alpha, beta);
+    }
+    // Calculate stats
+    function calculateStats(alpha, beta) {
+        const mean = alpha / (alpha + beta);
+        const variance = (alpha * beta) / (Math.pow(alpha + beta, 2) * (alpha + beta + 1));
+        let mode;
+        if (alpha &gt; 1 &amp;&amp; beta &gt; 1) {
+            mode = (alpha - 1) / (alpha + beta - 2);
+        } else if (alpha &lt;= 1 &amp;&amp; beta &lt;= 1) {
+            mode = &#34;undefined (U-shaped)&#34;;
+        } else if (alpha &lt; 1 || beta &lt; 1) {
+            mode = &#34;undefined&#34;;
+        } else {
+            mode = &#34;undefined&#34;;
+        }
+        return { mean, variance, mode };
+    }
+    // Update plot
+    function updatePlot() {
+        const alpha = parseFloat(document.getElementById(&#39;beta-alpha&#39;).value);
+        const beta = parseFloat(document.getElementById(&#39;beta-beta&#39;).value);
+        // Update value displays
+        document.getElementById(&#39;beta-alpha-value&#39;).textContent = alpha.toFixed(2);
+        document.getElementById(&#39;beta-beta-value&#39;).textContent = beta.toFixed(2);
+        // Generate data points
+        const x = [];
+        const y = [];
+        const numPoints = 200;
+        for (let i = 0; i &lt;= numPoints; i++) {
+            const xi = i / numPoints;
+            x.push(xi);
+            y.push(betaPDF(xi, alpha, beta));
+        }
+        // Create plot
+        const trace = {
+            x: x,
+            y: y,
+            type: &#39;scatter&#39;,
+            mode: &#39;lines&#39;,
+            line: {
+                color: &#39;#1f77b4&#39;,
+                width: 2
+            },
+            fill: &#39;tozeroy&#39;,
+            fillcolor: &#39;rgba(31, 119, 180, 0.2)&#39;
+        };
+        const layout = {
+            xaxis: {
+                title: &#39;θ&#39;,
+                range: [0, 1],
+                showgrid: true,
+                gridcolor: &#39;#e0e0e0&#39;,
+                zeroline: true,
+                zerolinecolor: &#39;#999&#39;,
+                tickmode: &#39;linear&#39;,
+                tick0: 0,
+                dtick: 0.2
+            },
+            yaxis: {
+                title: &#39;f(θ; α, β)&#39;,
+                showgrid: true,
+                gridcolor: &#39;#e0e0e0&#39;,
+                zeroline: true,
+                zerolinecolor: &#39;#999&#39;
+            },
+            margin: {
+                l: 60,
+                r: 30,
+                t: 20,
+                b: 50
+            },
+            plot_bgcolor: &#39;#fff&#39;,
+            paper_bgcolor: &#39;#fff&#39;,
+            showlegend: false
+        };
+        const config = {
+            responsive: true,
+            displayModeBar: false
+        };
+        Plotly.newPlot(&#39;beta-plot&#39;, [trace], layout, config);
+        // Update stats
+        const stats = calculateStats(alpha, beta);
+        document.getElementById(&#39;beta-mean&#39;).textContent = stats.mean.toFixed(3);
+        document.getElementById(&#39;beta-variance&#39;).textContent = stats.variance.toFixed(3);
+        document.getElementById(&#39;beta-mode&#39;).textContent = typeof stats.mode === &#39;number&#39; ? stats.mode.toFixed(3) : &#34;None&#34;;
+    }
+    // Event listeners
+    document.getElementById(&#39;beta-alpha&#39;).addEventListener(&#39;input&#39;, updatePlot);
+    document.getElementById(&#39;beta-beta&#39;).addEventListener(&#39;input&#39;, updatePlot);
+    // Initial plot
+    updatePlot();
+&lt;/script&gt;
 &lt;p&gt;
   &lt;a class=&#34;btn btn-primary&#34; data-bs-toggle=&#34;collapse&#34; href=&#34;#collapseExample&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseExample&#34;&gt;
     Expand for mathematical details
