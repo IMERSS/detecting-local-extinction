@@ -8,7 +8,7 @@ library(rstan)
 # gamma given data on successful species detection, producing results in Supplementary Materials
 # section 3.1.2
 
-source("Scripts/utils.R")
+source("scripts/utils.R")
 
 setwd(rprojroot::find_rstudio_root_file())
 
@@ -93,6 +93,15 @@ estimate_kernel <- function (recordfile) {
   
   wg("")
   
+  parts <- strsplit(recordfile, "_")[[1]]
+  thisTarget <- paste(parts[1], parts[2], sep = "_")
+  
+  decaydensity_df <- data.frame(
+    x = decaydensity$x,
+    y = decaydensity$y
+  )
+  timedWrite(decaydensity_df,
+             str_glue("Analysis_outputs/Intermediate/{thisTarget}_decay_density.csv"))
 }
 
 for (recordfile in recordfiles) {
