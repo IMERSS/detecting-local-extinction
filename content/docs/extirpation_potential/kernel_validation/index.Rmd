@@ -5,9 +5,15 @@ math: true
 weight: 3
 ---
 
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+knitr::opts_knit$set(render_markdown = FALSE)
+```
 
+```{r, echo=FALSE, include=FALSE}
+source("scripts/plotDecay.R")
 
-
+```
 
 For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.
 
@@ -17,10 +23,14 @@ value 0, where the x axis shows distance of the search event from its historical
 best fitted kernel value for the negative-exponential occurrence function which contributes to our prior weighting,
 which rounds to a value of 0.5 in inverse km units.
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="960" />
+```{r, message=FALSE, echo=FALSE, warning=FALSE, fig.width=10, fig.height=5}
+fitplot
+```
 
 <div class="para">The fitting process was achieved with the brms package (Bürkner, 2017) using Markov Chain Monte Carlo sampling in STAN. Our regression applies the Bernoulli distribution family to the target detection via a modelling function
 \(occupancy_i 〜 q .exp(-\gamma d_i) \) where \(\gamma\) is the kernel width, q scales the overall detection rate (not of interest to this analysis) and \(d_i\) is the distance from historical habitat of occupancy observation \(occupancy_i\). The following figure shows the full estimated posterior density for the kernel parameter \(\gamma\) which has a mode
 at 0.32 and a 95% highest posterior density (HPD) region between \([0.07, 1.39]\):</div>
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+densityplot
+```

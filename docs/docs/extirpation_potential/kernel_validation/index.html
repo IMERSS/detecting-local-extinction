@@ -22,8 +22,8 @@
 <meta itemprop="name" content="Kernel validation">
 <meta itemprop="description" content="Insights from metapopulation theory">
 
-<meta itemprop="wordCount" content="96">
-<meta itemprop="keywords" content="test,docs," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Kernel validation"/>
+<meta itemprop="wordCount" content="208">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Kernel validation"/>
 <meta name="twitter:description" content="Insights from metapopulation theory"/>
 
     <link rel="preload" href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -731,20 +731,17 @@
 
         <div class="content">
           <h1>Kernel validation</h1>
-          <p>For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections. This was done with the brms package (Bürkner, 2017) using Markov Chain Monte Carlo sampling in STAN. Our regression applies the Bernoulli distribution family to the target detection via a modelling function
-(occupancy_i 〜 q .exp( d_i) ) where  is the kernel width, q scales the overall detection rate (not of interest to this analysis) and di is the distance from historical habitat of occupancy observation (occupancy_i).</p>
-<div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
-
-<pre><code>## Calibrating</code></pre><div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
-  <button
-    class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
-    title="Copy code"
-  >
-    <div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4"></div>
-    <div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4"></div>
-  </button>
-</div>
-</div>
+          <p>For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.</p>
+<p>In the following graph, the black circles show the three successful detections of one of our target taxa,
+<em>Aquilegia formosa</em>,  plotted with value 1, together with the background of unsuccessful detections plotted with
+value 0, where the x axis shows distance of the search event from its historical habitat. The blue curve shows the
+best fitted kernel value for the negative-exponential occurrence function which contributes to our prior weighting,
+which rounds to a value of 0.5 in inverse km units.</p>
+<img src="../../../docs/extirpation_potential/kernel_validation/index_files/figure-html/unnamed-chunk-2-1.png" width="960" />
+<div class="para">The fitting process was achieved with the brms package (Bürkner, 2017) using Markov Chain Monte Carlo sampling in STAN. Our regression applies the Bernoulli distribution family to the target detection via a modelling function
+\(occupancy_i 〜 q .exp(-\gamma d_i) \) where \(\gamma\) is the kernel width, q scales the overall detection rate (not of interest to this analysis) and \(d_i\) is the distance from historical habitat of occupancy observation \(occupancy_i\). The following figure shows the full estimated posterior density for the kernel parameter \(\gamma\) which has a mode
+at 0.32 and a 95% highest posterior density (HPD) region between \([0.07, 1.39]\):</div>
+<img src="../../../docs/extirpation_potential/kernel_validation/index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
         </div>
         <div class="hx-mt-16"></div>
@@ -777,6 +774,30 @@
 
 <script defer src="../../../lib/flexsearch/flexsearch.bundle.min.e45e7eb129aae9f684e7f863bb7c1d612ea124b7068e12af80c58c62764a5379.js" integrity="sha256-5F5&#43;sSmq6faE5/hju3wdYS6hJLcGjhKvgMWMYnZKU3k="></script>
     <script defer src="../../../en.search.min.4e5531ae99b3b9b4f666c45de7e610b30ffd74396eadf875685be927b5efd899.js" integrity="sha256-TlUxrpmzubT2ZsRd5&#43;YQsw/9dDlurfh1aFvpJ7Xv2Jk="></script>
+<link type="text/css" rel="stylesheet" href="../../../lib/katex/katex.min.7e5db7914b97e596a36c1abb67ccc7f174f8bb71d38c9a88c55b262ed1737f97.css" integrity="sha256-fl23kUuX5ZajbBq7Z8zH8XT4u3HTjJqIxVsmLtFzf5c=" />
+  <script defer src="../../../lib/katex/katex.min.9f45307c5794ed247a0d095f3a62e52ef2215a67b2327203a7fd919959ae79d1.js" integrity="sha256-n0UwfFeU7SR6DQlfOmLlLvIhWmeyMnIDp/2RmVmuedE="></script>
+  <script defer src="../../../lib/katex/auto-render.min.7b57d427ac6270677daf8d8380ded2cc73336f9149a167b8e1fe0d6ef66604ae.js" integrity="sha256-e1fUJ6xicGd9r42DgN7SzHMzb5FJoWe44f4NbvZmBK4="></script>
+  <script defer src="../../../lib/katex/mhchem.min.f0ca03df194b8c3d6017ff455db6a0ef98857905663fa311a6cded788b15340b.js" integrity="sha256-8MoD3xlLjD1gF/9FXbag75iFeQVmP6MRps3teIsVNAs="></script>
+  <script>
+    
+    
+    document.addEventListener("DOMContentLoaded", function () {
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\(", right: "\\)", display: false },
+          { left: "\\begin{equation}", right: "\\end{equation}", display: true },
+          {left: "\\begin{align}", right: "\\end{align}", display: true},
+          {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+          {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+          {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          { left: "\\[", right: "\\]", display: true },
+        ],
+        throwOnError: false,
+      });
+    });
+  </script>
 
 
   </body>
