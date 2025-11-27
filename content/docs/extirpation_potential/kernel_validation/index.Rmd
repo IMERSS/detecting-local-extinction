@@ -15,6 +15,8 @@ source("scripts/plotDecay.R")
 
 ```
 
+To assess whether our dispersal kernels produce sensible predictions, we validate them for detected species; these comparisons provide a benchmark for interpreting kernel estimates in cases where no detections were made.
+
 For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.
 
 In the following graph, the black circles show the three successful detections of one of our target taxa,

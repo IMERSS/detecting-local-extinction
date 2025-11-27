@@ -15,14 +15,12 @@ source("R/site_globals.R")
 source("scripts/plotTraces.R")
 ```
 
-Search effort is assembled from two kinds of observation data - 
+Search effort is abstracted from two kinds of observation data: 
 
 * GPS traces collected from handheld GPS receivers carried by the observers
-* Traces inferred from iNaturalist observation data by interpolating tracks imputing travel at constant speed between successive
-observations made by each observer participating in a search effort event.
+* Traces inferred from iNaturalist observation data by interpolating tracks imputing travel at constant speed between successive observations made by each observer participating in a search event
 
-The following map shows blue markers for each iNaturalist observation made in Bellhouse Park by observers participating
-in this study, together with interpolated traces as white circles connecting them into traces:
+The following map shows blue markers for each iNaturalist observation made in Bellhouse Park by observers participating in this study, interpolated with white circles connecting them into traces:
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 bellhouseObsMap
@@ -39,23 +37,20 @@ for (parsedEffortId in effortWithObsIds) {
 }
 ```
 
-Collecting together all such interpolated traces together with raw traces collected by observers with
-dedicated GPS receivers produces the following combined trace map for the region:
+Gathering these interpolated traces together with GPS tracks produces the following combined trace map for the region:
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 allTracesMap
 ```
 
-Finally effort from all observers encoded in such traces is gridded with respect to the standard
-30x30 m cells chosen for the study, leading to the following search effort density:
+The effort encoded in these traces is then intersected with the
+30x30 m habitat cells chosen for the study, producing a grid of search effort density:
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE}
 bellhouseSearchMap
 ```
 
-
-Search effort is represented as a per-observer search time per gridded cell
-represented in ksec. Search effort is applied only to valid potential
-or historical habitat for the target taxon. Where the habitat model indicates
-that only part of a grid cell is valid habitat, the imputed search effort
+Search effort is represented as per-observer search time (in kiloseconds) per gridded cell. 
+Search effort applies only to valid potential or historical habitat for the target species. 
+Where habitat mapping only overlaps partially with the grid, the imputed search effort
 is scaled up proportionally.

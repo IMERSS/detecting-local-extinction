@@ -24,7 +24,7 @@ Statistical approaches to modeling biodiversity change are often paralyzed by li
 A practical approach to this difficult situation is to forego any advanced modeling practices *ab initio* and begin instead with a simple baseline analysis of historical *vs* contemporary sources of biodiversity data. This approach will generally depend on normalization of species occurrence data across multiple datasets, to support the comparison of historical and contemporary species records.
 
 {{% pageinfo %}}
-Normalization of biodiversity data is a thorny enough problem in its own right and not treated here. For this tutorial we assume that names are aligned and any ambiguity (synonymy, orthographic variants, *etc*.) is resolved between the data being compared.
+Normalization of biodiversity data is a thorny enough problem in its own right and not treated here. For this tutorial we assume that names are aligned and any ambiguity (synonymy, orthographic variants, *etc*.) is resolved between the datasets being compared.
 {{% /pageinfo %}}
 
 * Best practice is to adhere to [Darwin Core standards](https://dwc.tdwg.org) for species occurrence data.
