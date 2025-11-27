@@ -64,7 +64,7 @@ historical_sf <- (assign_cell_id(historical_sf, galgrid) %>% dplyr::mutate(OID =
 
 landClass <- mx_read("Analysis_inputs/Habitat_model/LandClass/land class apr04.shp")
 
-# Step 4: Polygons with feature attributes corresponding to land classifications describing the habitat of target species
+# Polygons with feature attributes corresponding to land classifications describing the habitat of target species
 landClass_Habitat <- landClass %>% dplyr::filter(CLASS == "CL" | CLASS == "HB" | CLASS == "WD") %>% dplyr::mutate(HPID = dplyr::row_number())
 st_crs(landClass_Habitat) <- "WGS84"
 

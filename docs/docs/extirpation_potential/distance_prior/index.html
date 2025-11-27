@@ -22,8 +22,8 @@
 <meta itemprop="name" content="Inverse distance prior">
 <meta itemprop="description" content="Insights from metapopulation theory">
 
-<meta itemprop="wordCount" content="203">
-<meta itemprop="keywords" content="test,docs," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Inverse distance prior"/>
+<meta itemprop="wordCount" content="204">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Inverse distance prior"/>
 <meta name="twitter:description" content="Insights from metapopulation theory"/>
 
     <link rel="preload" href="../../../css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -731,8 +731,16 @@
 
         <div class="content">
           <h1>Inverse distance prior</h1>
-          <p>Estimating the likelihood of a plant’s occurrence beyond the extent of its historical habitat presents a Wallacean dilemma, as species often exhibit restricted distributions despite the apparent availability of suitable habitat (Lomolino, Riddle and Brown., 2006). To address this dilemma, we applied the negative exponential distance weighting system widely used in metapopulation ecology to model patch-occupancy dynamics (Hanski, 1994; Hanski et al., 2017; Yeiser et al., 2021; Hanski &amp; Ovaskainen, 2002). This method was chosen for its analytical simplicity, based on the assumption that patch occupancy probabilities decrease with varying distance from historical source populations, depending on the rarity patterns of target plants.</p>
-<p>We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence (P_d = exp(-\gamma d) ) where d represents the distance of the patch from a historical record and (\gamma) represents the kernel value.</p>
+          <p>Estimating the likelihood of a plant’s occurrence beyond the range of its historical
+habitat presents a biogeographical problem, as species often exhibit restricted distributions
+despite the apparent availability of suitable habitat (Lomolino et al., 2006). To address this
+problem, we applied the negative exponential distance weighting system widely used in
+metapopulation ecology to model patch-occupancy dynamics (Hanski, 1991; Hanski, 1994;
+Hanski et al., 2017; Yeiser et al., 2021; Hanski &amp; Ovaskainen, 2002). This method was chosen for
+its analytical simplicity, based on the assumption that patch occupancy probabilities decrease
+with varying distances from historical source populations, depending on the rarity patterns of
+target plants.</p>
+<p>We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence $P_d = exp(-\gamma d) $ where d represents the distance of the patch from a historical record and $\gamma$ represents the kernel value.</p>
 <p><img src="distance_weight.jpg" alt="Illustration of different kernel distance weightings" loading="lazy" /></p>
 
         </div>
@@ -766,6 +774,30 @@
 
 <script defer src="../../../lib/flexsearch/flexsearch.bundle.min.e45e7eb129aae9f684e7f863bb7c1d612ea124b7068e12af80c58c62764a5379.js" integrity="sha256-5F5&#43;sSmq6faE5/hju3wdYS6hJLcGjhKvgMWMYnZKU3k="></script>
     <script defer src="../../../en.search.min.4e5531ae99b3b9b4f666c45de7e610b30ffd74396eadf875685be927b5efd899.js" integrity="sha256-TlUxrpmzubT2ZsRd5&#43;YQsw/9dDlurfh1aFvpJ7Xv2Jk="></script>
+<link type="text/css" rel="stylesheet" href="../../../lib/katex/katex.min.7e5db7914b97e596a36c1abb67ccc7f174f8bb71d38c9a88c55b262ed1737f97.css" integrity="sha256-fl23kUuX5ZajbBq7Z8zH8XT4u3HTjJqIxVsmLtFzf5c=" />
+  <script defer src="../../../lib/katex/katex.min.9f45307c5794ed247a0d095f3a62e52ef2215a67b2327203a7fd919959ae79d1.js" integrity="sha256-n0UwfFeU7SR6DQlfOmLlLvIhWmeyMnIDp/2RmVmuedE="></script>
+  <script defer src="../../../lib/katex/auto-render.min.7b57d427ac6270677daf8d8380ded2cc73336f9149a167b8e1fe0d6ef66604ae.js" integrity="sha256-e1fUJ6xicGd9r42DgN7SzHMzb5FJoWe44f4NbvZmBK4="></script>
+  <script defer src="../../../lib/katex/mhchem.min.f0ca03df194b8c3d6017ff455db6a0ef98857905663fa311a6cded788b15340b.js" integrity="sha256-8MoD3xlLjD1gF/9FXbag75iFeQVmP6MRps3teIsVNAs="></script>
+  <script>
+    
+    
+    document.addEventListener("DOMContentLoaded", function () {
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\(", right: "\\)", display: false },
+          { left: "\\begin{equation}", right: "\\end{equation}", display: true },
+          {left: "\\begin{align}", right: "\\end{align}", display: true},
+          {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+          {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+          {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          { left: "\\[", right: "\\]", display: true },
+        ],
+        throwOnError: false,
+      });
+    });
+  </script>
 
 
   </body>

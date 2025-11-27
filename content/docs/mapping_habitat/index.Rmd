@@ -43,7 +43,13 @@ using a variety of methods (*e.g.*, satellite, drone).
 
 The site classification data we have at hand takes the shape of polygons circumscribing 
 different ecosystem types or areas of land use. First, we select the site classifications 
-representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. 
+representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types.
+
+```{r eval=FALSE}
+# Polygons with feature attributes corresponding to land classifications describing the habitat of target species
+landClass_Habitat <- landClass %>% dplyr::filter(CLASS == "CL" | CLASS == "HB" | CLASS == "WD") %>% dplyr::mutate(HPID = dplyr::row_number())
+
+```
 
 ### Converting polygons to gridded representation of habitat
 

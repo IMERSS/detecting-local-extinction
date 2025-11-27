@@ -66,7 +66,7 @@ cat("Plagiobothrys tenellus was last observed in",
 
 <p>\(t_n = 1998\)<p>
 
-<p>Below, the interactive calculator ascribes these to values to Solow's extinction equation. The resulting Bayes factor, \(B(t)\), favours the null hypothesis that extinction has not occurred. We also report our prior probability of presence, \(PP(t)\), and \(EP(t) = 1 - PP(t)\), our prior probability of extinction—which feed into subsequent analyses. </p>
+<p>The interactive calculator below ascribes these to values to Solow's extinction equation. The resulting Bayes factor, \(B(t)\), favours the null hypothesis that extinction has not occurred. We also report our prior probability of presence, \(PP(t)\), and \(EP(t) = 1 - PP(t)\), our prior probability of extinction—which feed into subsequent analyses. </p>
 
 
 <div class="solow-container">

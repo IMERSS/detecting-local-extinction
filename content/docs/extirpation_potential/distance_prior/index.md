@@ -1,6 +1,7 @@
 ---
 title: Inverse distance prior
 description: Insights from metapopulation theory
+math: true
 weight: 1
 ---
 
@@ -14,7 +15,7 @@ its analytical simplicity, based on the assumption that patch occupancy probabil
 with varying distances from historical source populations, depending on the rarity patterns of
 target plants.
 
-We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence \(P_d = exp(-\gamma d) \) where d represents the distance of the patch from a historical record and \(\gamma\) represents the kernel value. 
+We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence $P_d = exp(-\gamma d) $ where d represents the distance of the patch from a historical record and $\gamma$ represents the kernel value. 
 
 ![Illustration of different kernel distance weightings](distance_weight.jpg)
 

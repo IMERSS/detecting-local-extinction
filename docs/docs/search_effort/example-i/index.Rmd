@@ -21,10 +21,9 @@ library(ggplot2)
 
 ## Historical habitat
 
-This map shows the accumulated search effort for Primula pauciflora over its historical habitat covering 9 grid cells
-in Bellhouse Park:
+This map shows the accumulated search effort for *Primula pauciflora* over its historical habitat covering 9 grid cells in Bellhouse Park:
 
-```{r}
+```{r searchhist, echo=FALSE}
 prim_agm <- read.csv("Analysis_outputs/Intermediate/Primula pauciflora_accepted_grouped_merged.csv")
 prim_historical <- prim_agm %>% dplyr::filter(assigned_community == "PP1")
 prim_sf = assign_cell_geometry_sf(prim_historical, galgrid)
@@ -65,13 +64,13 @@ m <- leaflet(data = prim_sf) %>%
   )
 
 m
-
+```
+```{r searchhist, eval=FALSE}
 ```
 
-Some of the gridded cells at the fringe of the range have only a small overlap with valid habitat and so should not have their search effort referred to the full cell size of 30x30m^2. Scaling the search effort per gridded cell to take account
-of this shows the search as being more complete in these areas:
+Some cells at the fringe of the habitat patch overlap only partially with valid habitat; within these cells, search effort should not scale to the full 30 × 30 m cell area. We therefore scale search effort in proportion to the area of habitat contained within each cell.
 
-```{r}
+```{r searchscale, echo=FALSE}
 m <- leaflet(data = prim_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addPolygons(
@@ -95,17 +94,16 @@ m
 
 ```
 
+```{r searchscale, eval=FALSE}
+```
 
-
-The table that this plot is generated from is in the AGM (accepted, grouped, merged) format, output by the 
-data pipeline which aggregates search trace data, grids it into cells and intersects it with habitat polygons. Here is the data covering
-the 9 Bellhouse Park cells:
+This plot is based on an AGM table (accepted, grouped, merged) produced by our workflow that aggregates the search-trace data, grids it into cells, and intersects those cells with the habitat polygons. Shown here is the subset of data for the nine Bellhouse Park cells:
 
 ```{r, message=FALSE, echo=FALSE}
 prim_historical_trunc <- prim_historical %>% trim_effortId
 paged_table(prim_historical_trunc)
 ```
-Here is a description of the columns in this table:
+Description of the columns in this table:
 
 | AGM Column | Description |
 | ---------- | ----------- |
@@ -119,27 +117,52 @@ Here is a description of the columns in this table:
 
 ## Potential habitat 
 
-This map shows the accumulated search effort for Primula pauciflora over both historical and potential habitat:
+This map shows accumulated search effort targeting *Primula pauciflora* throughout both historical and potential habitat:
 
-```{r}
+```{r searchall, echo=FALSE}
 prim_agm <- read.csv("Analysis_outputs/Intermediate/Primula pauciflora_accepted_grouped_merged.csv")
-prim_sf = assign_cell_geometry_sf(prim_agm, galgrid)
+prim_positive <- prim_agm %>% dplyr::filter(search_effort > 0)
+prim_sf = assign_cell_geometry_sf(prim_positive, galgrid)
 
-pal <- colorNumeric(palette = "viridis", domain = range(c(0, prim_sf$search_effort), na.rm = TRUE))
+eps <- 1e-6
+
+f_transform <- function(x, eps = 1e-6) log(x + eps)
+f_inverse   <- function(y) exp(y)
+
+min_val <- min(prim_sf$search_effort, na.rm = TRUE)
+max_val <- max(prim_sf$search_effort, na.rm = TRUE)
+
+domain_trans <- f_transform(c(min_val, max_val))
+
+pal <- colorNumeric(
+  palette = "viridis",
+  domain = domain_trans
+)
+
 m <- leaflet(data = prim_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
-  # Add the grid layer to the map
-  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
-              color = "#BDBDC3", weight = 1) %>%
-  # Add a legend
-  addLegend(pal = pal, values = c(0, max(prim_sf$search_effort, na.rm = TRUE)),
-            opacity = 0.8, title = "Accumulated Search Effort in ks")
+  addPolygons(
+    fillColor = ~pal(f_transform(search_effort)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = pal,
+    values = domain_trans,
+    labFormat = leaflet::labelFormat(
+      transform = function(y) f_inverse(y),
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort (ks)"
+  )
 
-# Print the map
 m
-
 ```
 
-See the treatment of [historical habitat](../../extirpation_historical/example-i) for explanation of
-the data format underlying this plot.
+```{r searchall, eval=FALSE}
+```
+
+See the vignette covering inference of extirpation in [historical habitat](../../extirpation_historical/example-i) for further explanation of the data format underlying this plot.
 

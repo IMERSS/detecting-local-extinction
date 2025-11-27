@@ -43,17 +43,22 @@ using a variety of methods (*e.g.*, satellite, drone).
 
 The site classification data we have at hand takes the shape of polygons circumscribing 
 different ecosystem types or areas of land use. First, we select the site classifications 
-representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types. 
-These are extracted as polygons, then converted to grid cells.
+representing suitable habitat for our targets: woodlands (WD), cliffs (CL), herbaceous (HB) habitat types.
+
+```{r eval=FALSE}
+# Polygons with feature attributes corresponding to land classifications describing the habitat of target species
+landClass_Habitat <- landClass %>% dplyr::filter(CLASS == "CL" | CLASS == "HB" | CLASS == "WD") %>% dplyr::mutate(HPID = dplyr::row_number())
+
+```
 
 ### Converting polygons to gridded representation of habitat
 
-Polygons representing habitat for target species is then represented as grid cells. 
+Polygons representing habitat for target species are then represented as grid cells. 
 For this methodology, a key consideration is to ensure that the grid scale corresponds 
 with the precision of features representing search effort (see next section).
 
 The map below shows green polygons representing habitat within Bellhouse Park, 
-as well as a gridded representation of the same habitat (30x30 m^2 cells).
+superimposed with a gridded representation of the same habitat (30x30 m^2 cells).
 Assuming _Primula pauciflora_ as our target taxon, we delineate the extent of its historical
 habitat based on the best available information (in this case, based on a reasonably accurate GPS
 coordinate, knowledge of its habitat type (vernal pools), and first-hand knowledge shared by the collector, Harvey Janszen). The accuracy of this information allows us to select 9 cells from our habitat map to represent the historical
@@ -63,7 +68,7 @@ habitat of _Primula_, shown in blue.
 historicalHabitat
 ```
 
-Expanding this grid to the entire island shows the grid for potential habitat:
+Expanding this grid to habitat features across the entire island, we produce the grid representing all potential habitat:
 
 ```{r echo=FALSE}
 potentialHabitat

@@ -24,8 +24,16 @@
       <description>
         
         
-        &lt;p&gt;Estimating the likelihood of a plant’s occurrence beyond the extent of its historical habitat presents a Wallacean dilemma, as species often exhibit restricted distributions despite the apparent availability of suitable habitat (Lomolino, Riddle and Brown., 2006). To address this dilemma, we applied the negative exponential distance weighting system widely used in metapopulation ecology to model patch-occupancy dynamics (Hanski, 1994; Hanski et al., 2017; Yeiser et al., 2021; Hanski &amp;amp; Ovaskainen, 2002). This method was chosen for its analytical simplicity, based on the assumption that patch occupancy probabilities decrease with varying distance from historical source populations, depending on the rarity patterns of target plants.&lt;/p&gt;
-&lt;p&gt;We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence (P_d = exp(-\gamma d) ) where d represents the distance of the patch from a historical record and (\gamma) represents the kernel value.&lt;/p&gt;
+        &lt;p&gt;Estimating the likelihood of a plant’s occurrence beyond the range of its historical
+habitat presents a biogeographical problem, as species often exhibit restricted distributions
+despite the apparent availability of suitable habitat (Lomolino et al., 2006). To address this
+problem, we applied the negative exponential distance weighting system widely used in
+metapopulation ecology to model patch-occupancy dynamics (Hanski, 1991; Hanski, 1994;
+Hanski et al., 2017; Yeiser et al., 2021; Hanski &amp;amp; Ovaskainen, 2002). This method was chosen for
+its analytical simplicity, based on the assumption that patch occupancy probabilities decrease
+with varying distances from historical source populations, depending on the rarity patterns of
+target plants.&lt;/p&gt;
+&lt;p&gt;We selected kernel values by linking them with rarity types (Kruckeberg and Rabinowitz, 1985; Crisfield et al., 2024) and then assigning typologies to target species. Kernel assignments were justified by comparing plotted distance decay rates with regional distribution patterns of target plants. Validation was also drawn from comparisons with the observed distance decay rates of detected targets relative to the position of first historical records (Supplementary Materials). This gives rise to a distance-based prior distribution for presence $P_d = exp(-\gamma d) $ where d represents the distance of the patch from a historical record and $\gamma$ represents the kernel value.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;distance_weight.jpg&#34; alt=&#34;Illustration of different kernel distance weightings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
@@ -40,19 +48,86 @@
       <description>
         
         
-        &lt;h2&gt;XXXX&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;xxxx&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#xxxx&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
-
-&lt;pre&gt;&lt;code&gt;## Calibrating&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
-    title=&#34;Copy code&#34;
-  &gt;
-    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+        &lt;p&gt;We assigned distance decay functions to target plants a priori based on our natural
+history knowledge of target plants, and their pattern of occurrence within the region.
+To do this, we considered occupancy as a fourth dimension of rarity, following Crisfield et
+al. (2024) in their adaptation of Rabinowitz rarity types (Kruckeburg &amp;amp; Rabinowitz, 1985).&lt;/p&gt;
+&lt;p&gt;In the Rabinowitz typology, species rarity is evaluated based on geographic range (large/small),
+habitat specificity (wide/narrow) and population size (dominant/non-dominant); occupancy is
+added by Crisfield et al. (2024) as a species’ frequency of occurrence in habitat patches within
+its range. We considered ‘geographic range’ regionally, as limited to within the Gulf and San
+Juan islands, ‘habitat specificity’ as limited to woodland and coastal meadow habitats,
+‘population size’ as abundance within habitat patches, and occupancy as the species&amp;rsquo; overall
+frequency of occurrence across habitat patches in the region.&lt;/p&gt;
+&lt;p&gt;Ratings, and their corresponding kernels, were assigned based on our experience
+observing target plants in the field and by reviewing their known regional distribution using
+herbarium and iNaturalist records. We assigned steep kernels to low occupancy species and
+shallow kernels to higher occupancy species, considering the other dimensions of rarity as well
+in this approach. The kernels assigned to undetected species were then compared with those
+inferred for detected species using our second approach.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Species&lt;/th&gt;
+&lt;th&gt;Rarity / Habitat Notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Crassula connata&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Very low occupancy. Typically found in localised patches within a habitat patch; absent from most islands; widely dispersed across the larger islands of Vancouver and San Juan.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Meconella oregana&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Very low occupancy. Absent from most islands; moderately distributed on the southern tip of Vancouver Island but only known from single localities on other islands where it is highly local within a patch when found.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Perideridia montana&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Low occupancy. Widely distributed on the southern tip of Vancouver Island, but idiosyncratic distribution on smaller islands; often locally abundant and widely distributed within habitat patches when found; sometimes restricted to a narrower microhabitat (swales) in drier sites.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Trifolium dichotomum&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Low occupancy. Found on a few islands where records are highly clustered; locally abundant to common in patches where found, not widely distributed within patches when found.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Aquilegia formosa&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Low occupancy. Mostly found on larger islands where populations are spatially clustered, though widely distributed; preference as deer forage may mask distribution.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Castilleja attenuata&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Low occupancy. Sparsely distributed on smaller islands but widely distributed on the southern tip of Vancouver Island.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Plagiobothrys tenellus&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Low occupancy. Sparsely distributed on larger islands; often locally abundant and widely distributed within habitat patches when found.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Platanthera unalascensis&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Moderate occupancy. Sparsely distributed on larger islands but widely distributed on the southern tip of Vancouver Island.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Lepidium virginicum&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Moderate occupancy. Fairly broadly distributed across islands and habitat patches within islands, though infrequently occurring.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Primula pauciflora&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Moderate occupancy. Found on a few widely scattered islands; localities highly clustered within islands, where it is often locally common and widely distributed within patches when found.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For example, &lt;em&gt;Crassula connata&lt;/em&gt; is known
+only from the Gulf and San Juan Islands in the region, where it is disjunct from its more
+geographically widespread range in California. Second, it has narrow habitat specificity within
+coastal meadow and woodland communities, occurring in compacted vernal pools in coastal
+rock outcrops and slopes. These microhabitats are typically localized to relatively small patches
+that are infrequently occurring in coastal meadow habitats. Third, given the species’ small size,
+they are often clustered in dense patches a few meters in diameter, so typically have extremely
+limited distribution within a larger coastal meadow patch. Thus, even while many hundreds of
+plants may be present, the species is typically non-dominant within the larger coastal meadow
+flora. Finally, it has a highly infrequent pattern of occupancy in the region. Given its infrequent,
+random distribution and the infrequent occurrence of its habitat—both within meadow
+habitats and across islands—we gave it a very low occupancy probability and assigned it a very
+steep kernel as our prior.&lt;/p&gt;
 
       </description>
     </item>
@@ -66,7 +141,8 @@
       <description>
         
         
-        &lt;p&gt;For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.&lt;/p&gt;
+        &lt;p&gt;To assess whether our dispersal kernels produce sensible predictions, we validate them for detected species; these comparisons provide a benchmark for interpreting kernel estimates in cases where no detections were made.&lt;/p&gt;
+&lt;p&gt;For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.&lt;/p&gt;
 &lt;p&gt;In the following graph, the black circles show the three successful detections of one of our target taxa,
 &lt;em&gt;Aquilegia formosa&lt;/em&gt;,  plotted with value 1, together with the background of unsuccessful detections plotted with
 value 0, where the x axis shows distance of the search event from its historical habitat. The blue curve shows the
