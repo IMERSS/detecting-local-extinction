@@ -83,7 +83,10 @@ cat("Of the native dicots and petaloid monocots unreported for more than twenty 
   </script>
 </div>
 
-From this resulting list, one might apply additional criteria to select a set of candidates for extinction risk assessment. This tutorial focuses on a subset of taxa we considered in our study: *Crassula connata*, *Meconella oregana*, *Plagiobothrys tenellus*, and *Primula pauciflora*.
+One might apply additional criteria to select a set of candidates for extinction risk assessment. This tutorial focuses on a subset of taxa we considered in our study: *Crassula connata*, *Meconella oregana*, *Plagiobothrys tenellus*, and *Primula pauciflora*.
+
+{{% imgproc plants Fill "2400x600" %}}
+{{% /imgproc %}}
 
 ## Other important criteria to consider:
 

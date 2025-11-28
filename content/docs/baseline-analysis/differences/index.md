@@ -15,7 +15,7 @@ weight: 3
 Differences between historical and contemporary biodiversity data could potentially indicate change in a system:
 
 * Historically reported species that have not been seen in the last 20--40 years are generally considered 'historical populations' whose persistence is considered questionable ([Nature Serve 2025](https://help.natureserve.org/biotics/Content/Record_Management/Element_Files/Element_Tracking/ETRACK_Definitions_of_Heritage_Conservation_Status_Ranks.htm?utm_source=chatgpt.com))
-* Conversely, species that suddenly appear in a biodiversity record may signal a recent dispersal, colonization or invasion event
+* Conversely, species that suddenly appear in a biodiversity record may signal a recent arrival or invasion event
 
 Here, we focus specifically on "species at large", *i.e.*, historically reported species that have gone undetected in recent decades.
 
