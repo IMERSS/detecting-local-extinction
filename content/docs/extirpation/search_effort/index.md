@@ -22,7 +22,7 @@ search conditions, the surveyor's efficacy, *etc*..
 This is not a simple geometric problem, or challenge of searching every $m^2$ of an area.
 Best practices for species inventory and rare species surveys recommend 
 the "intuitive search" as the most effective approach (Canada, Ministry of Environment and Climate Change Strategy, 2018), because species often occupy
-specific niches that are unevenly distributed across the landscape.
+narrow niches that are unevenly distributed across the landscape.
 
 Unless one has data to calculate detection probabilities, it is not possible to fit a fully probabilistic model 
 to solve this problem. Hence, we must resort to a heuristic: how much effort do we 

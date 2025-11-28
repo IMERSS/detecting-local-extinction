@@ -38,6 +38,11 @@ inferred for detected species using our second approach.
 | *Lepidium virginicum*     | Moderate occupancy. Fairly broadly distributed across islands and habitat patches within islands, though infrequently occurring. |
 | *Primula pauciflora*      | Moderate occupancy. Found on a few widely scattered islands; localities highly clustered within islands, where it is often locally common and widely distributed within patches when found. |
 
+{{% imgproc Crassula_connata Fill "2400x600" %}}
+Crassula connata (Image credit: Daniel
+Hetzel)
+{{% /imgproc %}}
+
 For example, *Crassula connata* is known
 only from the Gulf and San Juan Islands in the region, where it is disjunct from its more
 geographically widespread range in California. Second, it has narrow habitat specificity within
