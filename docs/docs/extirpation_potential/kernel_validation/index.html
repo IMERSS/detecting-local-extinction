@@ -22,7 +22,7 @@
 <meta itemprop="name" content="Kernel validation">
 <meta itemprop="description" content="Insights from metapopulation theory">
 
-<meta itemprop="wordCount" content="239">
+<meta itemprop="wordCount" content="589">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Kernel validation"/>
 <meta name="twitter:description" content="Insights from metapopulation theory"/>
 
@@ -735,10 +735,99 @@
 <p>For detected species, negative-exponential kernels were estimated empirically by regressing the distances of species detections from the position of initial records, against the background of unsuccessful detections.</p>
 <p>In the following graph, the black circles show the three successful detections of one of our target taxa,
 <em>Aquilegia formosa</em>,  plotted with value 1, together with the background of unsuccessful detections plotted with
-value 0, where the x axis shows distance of the search event from its historical habitat. The blue curve shows the
-best fitted kernel value for the negative-exponential occurrence function which contributes to our prior weighting,
-which rounds to a value of 0.5 in inverse km units.</p>
+value 0, where the x axis shows distance of the search event from its historical habitat. The blue curve shows the best fitted kernel value for the negative-exponential occurrence function which contributes to our prior weighting, which rounds to a value of 0.5 in inverse km units.</p>
 <img src="../../../docs/extirpation_potential/kernel_validation/index_files/figure-html/unnamed-chunk-2-1.png" width="960" />
+<p>The table below summarizes the occupancy patterns of target plants, which span a continuum from &lsquo;very low&rsquo; to &lsquo;moderate&rsquo; occupancy across the landscape. For those with detections, fitted negative-exponential kernels serve to validate the kernels assigned a priori and provide a benchmark for interpreting the kernels of undetected species.</p>
+<table>
+<thead>
+<tr>
+<th>Species</th>
+<th>Rarity type</th>
+<th>Kernel assigned</th>
+<th>Kernel inferred</th>
+<th>Best Fit (95% CI)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crassula connata</td>
+<td>Very low occupancy. Typically found in localised patches within a habitat patch; absent from most islands; widely dispersed across the larger islands of Vancouver and San Juan.</td>
+<td>10</td>
+<td>NA – undetected</td>
+<td></td>
+</tr>
+<tr>
+<td>Meconella oregana</td>
+<td>Very low occupancy. Absent from most islands; moderately distributed on the southern tip of Vancouver Island but only known from single localities on other islands where it is highly local within a patch.</td>
+<td>10</td>
+<td>NA – undetected</td>
+<td></td>
+</tr>
+<tr>
+<td>Perideridia montana</td>
+<td>Low occupancy. Widely distributed on the southern tip of Vancouver Island, but idiosyncratic distribution on smaller islands; often locally abundant and widely distributed within habitat patches.</td>
+<td>0.5</td>
+<td>1.03</td>
+<td>1.03 (0.19–2.28)</td>
+</tr>
+<tr>
+<td>Trifolium dichotomum</td>
+<td>Low occupancy. Found on a few islands where records are highly clustered; locally abundant to common in patches where found, not widely distributed within patches when found.</td>
+<td>0.5</td>
+<td>0.34</td>
+<td>0.34 (0.05–1.53)</td>
+</tr>
+<tr>
+<td>Aquilegia formosa</td>
+<td>Low occupancy. Mostly found on larger islands where populations are spatially clustered, though widely distributed; preference as deer forage may mask distribution.</td>
+<td>0.5</td>
+<td>0.28</td>
+<td>0.28 (0.07–1.31)</td>
+</tr>
+<tr>
+<td>Castilleja attenuata</td>
+<td>Low occupancy. Sparsely distributed on smaller islands but widely distributed on the southern tip of Vancouver Island.</td>
+<td>0.5</td>
+<td>0.25</td>
+<td>0.25 (0.08–0.71)</td>
+</tr>
+<tr>
+<td>Plagiobothrys tenellus</td>
+<td>Low occupancy. Sparsely distributed on larger islands; often locally abundant and widely distributed within habitat patches when found.</td>
+<td>0.5</td>
+<td>NA – undetected</td>
+<td></td>
+</tr>
+<tr>
+<td>Platanthera unalascensis</td>
+<td>Moderate occupancy. Sparsely distributed on larger Islands but widely distributed on the southern tip of Vancouver Island.</td>
+<td>0.1</td>
+<td>0.07</td>
+<td>0.07 (0.01–0.49)</td>
+</tr>
+<tr>
+<td>Lepidium virginicum</td>
+<td>Moderate occupancy. Fairly broadly distributed across islands and habitat patches within islands, though infrequently occurring.</td>
+<td>0.1</td>
+<td>0.18</td>
+<td>0.18 (0.03–0.61)</td>
+</tr>
+<tr>
+<td>Primula pauciflora</td>
+<td>Moderate occupancy. Found on a few widely scattered islands; localities highly clustered within islands, often locally common and widely distributed within patches when found.</td>
+<td>0.1</td>
+<td>NA – undetected</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Expand for mathematical details
+  </a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
 <div class="para">The fitting process was achieved with the brms package (Bürkner, 2017) using Markov Chain Monte Carlo sampling in STAN. Our regression applies the Bernoulli distribution family to the target detection via a modelling function
 \(occupancy_i 〜 q .exp(-\gamma d_i) \) where \(\gamma\) is the kernel width, q scales the overall detection rate (not of interest to this analysis) and \(d_i\) is the distance from historical habitat of occupancy observation \(occupancy_i\). The following figure shows the full estimated posterior density for the kernel parameter \(\gamma\) which has a mode
 at 0.32 and a 95% highest posterior density (HPD) region between \([0.07, 1.39]\):</div>

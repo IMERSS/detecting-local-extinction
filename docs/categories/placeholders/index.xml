@@ -39,7 +39,7 @@ search conditions, the surveyor&amp;rsquo;s efficacy, &lt;em&gt;etc&lt;/em&gt;..
 &lt;p&gt;This is not a simple geometric problem, or challenge of searching every $m^2$ of an area.
 Best practices for species inventory and rare species surveys recommend
 the &amp;ldquo;intuitive search&amp;rdquo; as the most effective approach (Canada, Ministry of Environment and Climate Change Strategy, 2018), because species often occupy
-specific niches that are unevenly distributed across the landscape.&lt;/p&gt;
+narrow niches that are unevenly distributed across the landscape.&lt;/p&gt;
 &lt;p&gt;Unless one has data to calculate detection probabilities, it is not possible to fit a fully probabilistic model
 to solve this problem. Hence, we must resort to a heuristic: how much effort do we
 need to exhaust in an area before we are satisfied that our search is complete?&lt;/p&gt;
@@ -93,7 +93,7 @@ study system or target organism.&lt;/p&gt;
     &lt;a href=&#34;#identifying-potential-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Differences between historical and contemporary biodiversity data could potentially indicate change in a system:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Historically reported species that have not been seen in the last 20&amp;ndash;40 years are generally considered &amp;lsquo;historical populations&amp;rsquo; whose persistence is considered questionable (&lt;a href=&#34;https://help.natureserve.org/biotics/Content/Record_Management/Element_Files/Element_Tracking/ETRACK_Definitions_of_Heritage_Conservation_Status_Ranks.htm?utm_source=chatgpt.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Serve 2025&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Conversely, species that suddenly appear in a biodiversity record may signal a recent dispersal, colonization or invasion event&lt;/li&gt;
+&lt;li&gt;Conversely, species that suddenly appear in a biodiversity record may signal a recent arrival or invasion event&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Here, we focus specifically on &amp;ldquo;species at large&amp;rdquo;, &lt;em&gt;i.e.&lt;/em&gt;, historically reported species that have gone undetected in recent decades.&lt;/p&gt;
 &lt;h3&gt;Summarize historical baseline data&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;summarize-historical-baseline-data&#34;&gt;&lt;/span&gt;

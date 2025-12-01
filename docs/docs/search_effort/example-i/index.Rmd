@@ -97,7 +97,7 @@ m
 ```{r searchscale, eval=FALSE}
 ```
 
-This plot is based on an AGM table (accepted, grouped, merged) produced by our workflow that aggregates the search-trace data, grids it into cells, and intersects those cells with the habitat polygons. Shown here is the subset of data for the nine Bellhouse Park cells:
+This plot is based on an AGM (accepted, grouped, merged) table produced by our workflow that aggregates the search-trace data, grids it into cells, and intersects those cells with the habitat polygons. Shown here is the subset of data for the nine Bellhouse Park cells:
 
 ```{r, message=FALSE, echo=FALSE}
 prim_historical_trunc <- prim_historical %>% trim_effortId
