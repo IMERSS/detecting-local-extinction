@@ -1,0 +1,98 @@
+.beta-container {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f9f9f9;
+}
+.beta-inner {
+    background: white;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.beta-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.beta-subtitle {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+.beta-controls {
+    margin-bottom: 30px;
+}
+.beta-slider-group {
+    margin-bottom: 25px;
+}
+.beta-label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+    font-weight: 500;
+    font-size: 14px;
+}
+.beta-slider-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.beta-slider {
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: #ddd;
+    outline: none;
+    -webkit-appearance: none;
+}
+.beta-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #4285f4;
+    cursor: pointer;
+}
+.beta-slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #4285f4;
+    cursor: pointer;
+    border: none;
+}
+.beta-value-display {
+    min-width: 60px;
+    text-align: right;
+    font-family: system-ui;
+    font-size: 14px;
+    color: #333;
+}
+.beta-plot {
+    width: 100%;
+    height: 400px;
+}
+.beta-stats {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f5f5f5;
+    border-radius: 6px;
+    font-size: 14px;
+}
+.beta-stat-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    font-family: system-ui;
+}
+.beta-stat-label {
+    font-weight: 500;
+    color: #555;
+}
+.beta-stat-value {
+    font-family: system-ui;
+    color: #333;
+}

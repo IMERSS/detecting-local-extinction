@@ -23,7 +23,7 @@ library(ggplot2)
 
 This map shows the accumulated search effort for *Crassula connata* over its historical habitat covering 6 grid cells in Bellhouse Park:
 
-```{r, echo=FALSE}
+```{r searchhist, echo=FALSE}
 cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
 cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
 cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
@@ -75,61 +75,12 @@ m
 
 ```
 
-```{r, eval=FALSE}
-cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
-cracon_historical <- cracon_agm %>% dplyr::filter(assigned_community == "CC1")
-cracon_sf = assign_cell_geometry_sf(cracon_historical, galgrid)
-
-cracon_sf$scaled_se = cracon_sf$search_effort / cracon_sf$area_prop
-
-eps <- 1e-6
-
-# Scale legend palette for legibility
-
-f_transform <- function(x, eps = 1e-6) {
-  log(1 + log(x + eps))
-}
-
-f_inverse <- function(y) {
-  exp(exp(y) -1)
-}
-
-min_val <- min(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
-max_val <- max(c(cracon_sf$search_effort, cracon_sf$scaled_se), na.rm = TRUE)
-
-domain_trans <- f_transform(c(min_val, max_val))
-
-pal <- colorNumeric(
-  palette = "viridis",
-  domain = domain_trans
-)
-
-m <- leaflet(data = cracon_sf) %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  addPolygons(
-    fillColor = ~pal(f_transform(search_effort)),
-    fillOpacity = 0.8,
-    color = "#BDBDC3",
-    weight = 1
-  ) %>%
-  addLegend(
-    pal = pal,
-    values = domain_trans,
-    labFormat = leaflet::labelFormat(
-      transform = function(y) f_inverse(y),
-      digits = 2
-    ),
-    opacity = 0.8,
-    title = "Accumulated Search Effort in ks"
-  )
-
-m
-
+```{r searchhist, eval=FALSE}
 ```
 
 Some cells at the fringe of the habitat patch overlap only partially with valid habitat; within these cells, search effort should not scale to the full 30 × 30 m cell area. We therefore scale search effort in proportion to the area of habitat contained within each cell.
 
-```{r, echo=FALSE}
+```{r searchscale, echo=FALSE}
 m <- leaflet(data = cracon_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addPolygons(
@@ -153,28 +104,7 @@ m
 
 ```
 
-```{r, eval=FALSE}
-m <- leaflet(data = cracon_sf) %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  addPolygons(
-    fillColor = ~pal(f_transform(scaled_se)),
-    fillOpacity = 0.8,
-    color = "#BDBDC3",
-    weight = 1
-  ) %>%
-  addLegend(
-    pal = pal,
-    values = domain_trans,
-    labFormat = leaflet::labelFormat(
-      transform = function(y) f_inverse(y),
-      digits = 2
-    ),
-    opacity = 0.8,
-    title = "Accumulated Search Effort (ks)"
-  )
-
-m
-
+```{r searchscale, eval=FALSE}
 ```
 
 This plot is based on an AGM (accepted, grouped, merged) table produced by our workflow that aggregates the search-trace data, grids it into cells, and intersects those cells with the habitat polygons. Shown here is the subset of data for the six Bellhouse Park cells:
@@ -190,41 +120,47 @@ This data format is explained in the [previous example](../example-i).
 
 This map shows accumulated search effort targeting *Crassula connata* throughout both historical and potential habitat:
 
-```{r, echo=FALSE}
+```{r searchall, echo=FALSE}
 cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
-cracon_sf = assign_cell_geometry_sf(cracon_agm, galgrid)
+cracon_positive <- cracon_agm %>% dplyr::filter(search_effort > 0)
+cracon_sf <- assign_cell_geometry_sf(cracon_positive, galgrid)
 
-pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf$search_effort), na.rm = TRUE))
+eps <- 1e-6
+
+f_transform <- function(x, eps = 1e-6) log(x + eps)
+f_inverse   <- function(y) exp(y)
+
+min_val <- min(cracon_sf$search_effort, na.rm = TRUE)
+max_val <- max(cracon_sf$search_effort, na.rm = TRUE)
+
+domain_trans <- f_transform(c(min_val, max_val))
+
+pal <- colorNumeric(
+  palette = "viridis",
+  domain = domain_trans
+)
+
 m <- leaflet(data = cracon_sf) %>%
   addProviderTiles("Esri.WorldImagery") %>%
-  # Add the grid layer to the map
-  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
-              color = "#BDBDC3", weight = 1) %>%
-  # Add a legend
-  addLegend(pal = pal, values = c(0, max(cracon_sf$search_effort, na.rm = TRUE)),
-            opacity = 0.8, title = "Accumulated Search Effort in ks")
+  addPolygons(
+    fillColor = ~pal(f_transform(search_effort)),
+    fillOpacity = 0.8,
+    color = "#BDBDC3",
+    weight = 1
+  ) %>%
+  addLegend(
+    pal = pal,
+    values = domain_trans,
+    labFormat = leaflet::labelFormat(
+      transform = function(y) f_inverse(y),
+      digits = 2
+    ),
+    opacity = 0.8,
+    title = "Accumulated Search Effort (ks)"
+  )
 
-# Print the map
 m
 
-```
-
-```{r, eval=FALSE}
-cracon_agm <- read.csv("Analysis_outputs/Intermediate/Crassula connata_accepted_grouped_merged.csv")
-cracon_sf = assign_cell_geometry_sf(cracon_agm, galgrid)
-
-pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_sf$search_effort), na.rm = TRUE))
-m <- leaflet(data = cracon_sf) %>%
-  addProviderTiles("Esri.WorldImagery") %>%
-  # Add the grid layer to the map
-  addPolygons(fillColor = ~pal(search_effort), fillOpacity = 0.8, 
-              color = "#BDBDC3", weight = 1) %>%
-  # Add a legend
-  addLegend(pal = pal, values = c(0, max(cracon_sf$search_effort, na.rm = TRUE)),
-            opacity = 0.8, title = "Accumulated Search Effort in ks")
-
-# Print the map
-m
 
 ```
 

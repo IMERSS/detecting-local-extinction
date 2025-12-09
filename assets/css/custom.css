@@ -277,6 +277,11 @@ div.para {
   margin-top: 10px;
 }
 
+/** A little more space above these */
+.html-widget {
+    margin-top: 0.7rem
+}
+
 /* Stolen for collapse */
 
 .collapse {
