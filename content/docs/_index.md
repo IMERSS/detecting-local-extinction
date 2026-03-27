@@ -14,7 +14,7 @@ the UN Convention on Biological Diversity.
 
 Here we present a protocol to address a subset of these problems, with a focus on inferring local extinction, or extirpation.
 
-This protocol is fully developed and implemented in the research article published in [*Plants, People, Planet*](https://www.imerss.org).
+This protocol is fully developed and implemented in the research article published in [*Plants, People, Planet*](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.70130).
 Through this documentation, we provide a walk-through of this framework, centering on a tutorial dataset.
 
 {{% imgproc protocol Fill "1430x1176" %}}

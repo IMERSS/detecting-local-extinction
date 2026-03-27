@@ -4,12 +4,19 @@ description: works cited
 weight: 9
 ---
 
+Canada, Ministry of Environment and Climate Change Strategy. (2018).
+Ecosystems branch. Inventory and Survey Methods for Rare Plants and
+Lichens Standards for Components of British Columbia's Biodiversity.
+[British Columbia. https://www2.gov.bc.ca/assets/gov/environment/
+natural-resource-stewardship/nr-laws-policy/risc/in
+
 Crisfield, V. E., Guillaume Blanchet, F., Raudsepp-Hearne, C., & Gravel, D.
 (2024). How and why species are rare: Towards an understanding of
 the ecological causes of rarity. Ecography, 2024(2), e07037. https://
 doi.org/10.1111/ecog.07037
 
-Gaston, K. J. (2010). Valuing common species. Ecologically common species play key roles in terrestrial and marine ecosystems, yet are also
+Gaston, K. J. (2010). Valuing common species. Ecologically common species play 
+key roles in terrestrial and marine ecosystems, yet are also
 the main victims of habitat loss, ecosystem degradation, and overexploitation. 
 Science, 327(5962), 154–155. https://doi.org/10.1126/science.1182818
 
