@@ -1,0 +1,74 @@
+---
+title: Rarity informed searches
+description: 
+math: true
+weight: 1
+---
+
+### Crassula
+
+```{r, warning=FALSE}
+cracon_accepted_sf <- st_read("Analysis_outputs/Crassula connata_Solow_low.shp", quiet=TRUE)
+# Filter for region
+# Convert from mean likelihood of presence to mean likelihood of extirpation
+cracon_accepted_sf$mean_ep <- 1 - cracon_accepted_sf$mean
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, cracon_accepted_sf$mean_ep), na.rm = TRUE))
+m <- leaflet(data = cracon_accepted_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(mean_ep), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(cracon_accepted_sf$mean_ep, na.rm = TRUE)),
+            opacity = 0.8, title = "Mean likelihood of extirpation")
+
+# Print the map
+m
+
+```
+
+### Primula
+
+```{r, warning=FALSE}
+prim_accepted_sf <- st_read("Analysis_outputs/Primula pauciflora_Solow_low.shp", quiet=TRUE)
+# Filter for region
+# Convert from mean likelihood of presence to mean likelihood of extirpation
+prim_accepted_sf$mean_ep <- 1 - prim_accepted_sf$mean
+
+pal <- colorNumeric(palette = "viridis", domain = range(c(0, prim_accepted_sf$mean_ep), na.rm = TRUE))
+m <- leaflet(data = prim_accepted_sf) %>%
+  # Add a Tiles layer to the map
+  addProviderTiles("Esri.WorldImagery") %>%
+  # Add the grid layer to the map
+  addPolygons(fillColor = ~pal(mean_ep), fillOpacity = 0.8, 
+              color = "#BDBDC3", weight = 1) %>%
+  # Add a legend
+  addLegend(pal = pal, values = c(0, max(prim_accepted_sf$mean_ep, na.rm = TRUE)),
+            opacity = 0.8, title = "Mean likelihood of extirpation")
+
+# Print the map
+m
+
+```
+
+| Species                   | Rarity / Habitat Notes |
+|---------------------------|-------------------------|
+| *Crassula connata*        | Very low occupancy. Typically found in localised patches within a habitat patch; absent from most islands; widely dispersed across the larger islands of Vancouver and San Juan. |
+| *Meconella oregana*       | Very low occupancy. Absent from most islands; moderately distributed on the southern tip of Vancouver Island but only known from single localities on other islands where it is highly local within a patch when found. |
+| *Perideridia montana*     | Low occupancy. Widely distributed on the southern tip of Vancouver Island, but idiosyncratic distribution on smaller islands; often locally abundant and widely distributed within habitat patches when found; sometimes restricted to a narrower microhabitat (swales) in drier sites. |
+| *Trifolium dichotomum*    | Low occupancy. Found on a few islands where records are highly clustered; locally abundant to common in patches where found, not widely distributed within patches when found. |
+| *Aquilegia formosa*       | Low occupancy. Mostly found on larger islands where populations are spatially clustered, though widely distributed; preference as deer forage may mask distribution. |
+| *Castilleja attenuata*    | Low occupancy. Sparsely distributed on smaller islands but widely distributed on the southern tip of Vancouver Island. |
+| *Plagiobothrys tenellus*  | Low occupancy. Sparsely distributed on larger islands; often locally abundant and widely distributed within habitat patches when found. |
+| *Platanthera unalascensis*| Moderate occupancy. Sparsely distributed on larger islands but widely distributed on the southern tip of Vancouver Island. |
+| *Lepidium virginicum*     | Moderate occupancy. Fairly broadly distributed across islands and habitat patches within islands, though infrequently occurring. |
+| *Primula pauciflora*      | Moderate occupancy. Found on a few widely scattered islands; localities highly clustered within islands, where it is often locally common and widely distributed within patches when found. |
+
+{{% imgproc Crassula_connata Fill "2400x600" %}}
+Crassula connata (Image credit: Daniel
+Hetzel)
+{{% /imgproc %}}
+
+XXXXX
