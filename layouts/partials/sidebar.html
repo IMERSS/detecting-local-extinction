@@ -22,8 +22,33 @@
     {{ partial "search.html" }}
   </div>
   <div class="hextra-scrollbar hx-overflow-y-auto hx-overflow-x-hidden hx-p-4 hx-grow md:hx-h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
+    <!-- IMERSS main menu on small screens, as on imerss.org (IMERSS/imerss-org layouts/partials/sidebar.html) -->
     <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
-      <!-- Nav -->
+      {{- range site.Menus.main -}}
+      {{- if .Parent -}}{{- continue -}}{{- end -}}
+      {{- /* Skip search/icon entries, and this site's own pages, which the tree below already lists */ -}}
+      {{- if or (eq .Params.type "search") .Params.icon .Page -}}{{- continue -}}{{- end -}}
+      {{- $active := eq $pageURL .URL -}}
+      {{- $itemChildren := .Children -}}
+      <li class="{{ if $active }}open{{ end }}">
+        {{- template "sidebar-item-link" (dict "context" nil "hasChildren" (gt (len $itemChildren) 0) "active" $active "title" .Name "link" .URL) -}}
+        {{- if $itemChildren -}}
+        <div class="ltr:hx-pr-0 hx-overflow-hidden">
+          <ul class='hx-relative hx-flex hx-flex-col hx-gap-1 before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] ltr:hx-ml-3 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-mr-3 rtl:hx-pr-3 rtl:before:hx-right-0 dark:before:hx-bg-neutral-800'>
+            {{- range $itemChildren -}}
+            {{- $childActive := eq $pageURL .URL -}}
+            <li class="hx-flex hx-flex-col {{ if $childActive }}open{{ end }}">
+              {{- template "sidebar-item-link" (dict "context" nil "hasChildren" false "active" $childActive "title" .Name "link" .URL) -}}
+            </li>
+            {{- end -}}
+          </ul>
+        </div>
+        {{- end -}}
+      </li>
+      {{- end -}}
+    </ul>
+    <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
+      <!-- Nav: this site's own pages -->
       {{ template "sidebar-main" (dict "context" site.Home "pageURL" $pageURL "page" $context "toc" true) -}}
       {{ template "sidebar-footer" }}
     </ul>
@@ -163,13 +188,11 @@
     {{ if $external }}target="_blank" rel="noreferrer"{{ end }}
   >
     {{- .title -}}
-    {{- with .context }}
-      {{- if or .RegularPages .Sections }}
-        <span class="hextra-sidebar-collapsible-button">
-          {{- template "sidebar-collapsible-button" -}}
-        </span>
-      {{- end }}
-    {{ end -}}
+    {{- if or .hasChildren (and .context (or .context.RegularPages .context.Sections)) }}
+      <span class="hextra-sidebar-collapsible-button">
+        {{- template "sidebar-collapsible-button" -}}
+      </span>
+    {{- end }}
   </a>
 {{- end -}}
 

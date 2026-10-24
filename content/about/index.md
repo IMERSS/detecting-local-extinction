@@ -1,7 +1,6 @@
 ---
 title: About IMERSS
 linkTitle: About
-menu: {main: {weight: 10}}
 ---
 
 ## Institute for Multidisciplinary Ecological Research in the Salish Sea

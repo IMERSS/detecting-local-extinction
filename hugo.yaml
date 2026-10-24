@@ -20,13 +20,55 @@ enableGitInfo: false
 # disableKinds: [taxonomy]
 
 menu:
+  # Mirrors the imerss.org main menu (IMERSS/imerss-org hugo.yaml), with links pointing
+  # to imerss.org. Keep the two in step when the imerss.org menu changes.
   main:
+    - identifier: home
+      name: Home
+      url: "https://imerss.org/"
+      weight: 1
+    - identifier: aboutus
+      name: "About Us"
+      url: "https://imerss.org/about/"
+      weight: 2
+    - identifier: team
+      name: "Our Team"
+      url: "https://imerss.org/team/"
+      parent: aboutus
+      weight: 1
+    - identifier: work
+      name: "Our Work"
+      url: "https://imerss.org/work/"
+      weight: 3
+    - identifier: contributions
+      name: "Contributions"
+      url: "https://imerss.org/contributions/"
+      parent: work
+      weight: 1
+    - identifier: media
+      name: "Media"
+      url: "https://imerss.org/media/"
+      parent: work
+      weight: 2
+    - identifier: atlas
+      name: "Atlas"
+      url: "https://imerss.github.io/salish-sea-biodiversity/"
+      weight: 4
+    - identifier: involved
+      name: "Get Involved"
+      url: "https://imerss.org/involved/"
+      weight: 5
+    - identifier: donate
+      name: Donate
+      url: "https://imerss.org/donate/"
+      weight: 6
+    # This site's own "Docs" entry (weight 7) comes from content/docs/_index.md
     - name: Search
-      weight: 100
+      weight: 8
       params:
         type: search
     - name: GitHub
-      weight: 110
+      weight: 9
       url: "https://github.com/IMERSS/detecting-local-extinction"
       params:
         icon: github
