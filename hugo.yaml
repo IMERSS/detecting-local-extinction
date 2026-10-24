@@ -16,8 +16,8 @@ publishDir: docs
 # Will give values to .Lastmod etc.
 enableGitInfo: false
 
-# Comment out to disable taxonomies in Docsy
-# disableKinds: [taxonomy]
+# The docs don't use tags or categories, so don't generate taxonomy listing pages
+disableKinds: [taxonomy, term]
 
 menu:
   # Mirrors the imerss.org main menu (IMERSS/imerss-org hugo.yaml), with links pointing
@@ -73,11 +73,6 @@ menu:
       params:
         icon: github
 
-# You can add your own taxonomies
-taxonomies:
-  tag: tags
-  category: categories
-
 # Highlighting config
 pygmentsCodeFences: true
 pygmentsUseClasses: false
@@ -86,10 +81,6 @@ pygmentsUseClassic: false
 # pygmentsOptions: "linenos=table"
 # See https://help.farbox.com/pygments.html
 pygmentsStyle: tango
-
-# Configure how URLs look like per section.
-permalinks:
-  blog: /:section/:year/:month/:day/:slug/
 
 # Image processing configuration.
 imaging:
@@ -125,7 +116,6 @@ markup:
 
 # Everything below this are Site Params
 
-# Comment out if you don't want the "print entire section" link enabled.
 outputs:
   section: [HTML, RSS]
 
@@ -137,73 +127,14 @@ params:
         - left: \(
           right: \)
           display: false
-  taxonomy:
-    # set taxonomyCloud = [] to hide taxonomy clouds
-    taxonomyCloud: [tags, categories]
-
-    # If used, must have same length as taxonomyCloud
-    taxonomyCloudTitle: [Tag Cloud, Categories]
-
-    # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-    taxonomyPageHeader: [tags, categories]
-
-  privacy_policy: https://policies.google.com/privacy
-
-  # First one is picked as the Twitter card image if not set on page.
-  # images: [images/project-illustration.png]
-
-  # Menu title if your navbar has a versions selector to access old versions of your site.
-  # This menu appears only if you have at least one [params.versions] set.
-  version_menu: Releases
-
-  # Flag used in the "version-banner" partial to decide whether to display a
-  # banner on every page indicating that this is an archived version of the docs.
-  # Set this flag to "true" if you want to display the banner.
-  archived_version: false
-
-  # The version number for the version of the docs represented in this doc set.
-  # Used in the "version-banner" partial to display a version number for the
-  # current doc set.
-  version: 0.0
-
-  # A link to latest version of the docs. Used in the "version-banner" partial to
-  # point people to the main doc site.
-  url_latest_version: https://example.com
-
-  # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/IMERSS/detecting-local-extinction
-
-  # Specify a value here if your content directory is not in your repo's root directory
-  # github_subdir: ""
-
-  # Uncomment this if your GitHub repo does not have "main" as the default branch,
-  # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: main
-
-  # Enable Lunr.js offline search
-  offlineSearch: false
-
-  # Enable syntax highlighting and copy buttons on code blocks with Prism
-  prism_syntax_highlighting: false
-
-  copyright:
-    authors: IMERSS | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2025
-
   navbar:
     logo:
       width: 35
       height: 30
 
-  # User interface configuration - note this is dead stuff carried over from docsy
-  ui:
-    # Set to true to disable breadcrumb navigation.
-    breadcrumb_disable: false
-    # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
-    navbar_logo: true
-    # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
-    navbar_translucent_over_cover_disable: false
-    # Enable to show the side bar menu in its compact state.
-    sidebar_menu_compact: false
-    # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-    sidebar_search_disable: false
+  # Footer matches imerss.org (IMERSS/imerss-org hugo.yaml); the copyright line is in i18n/en.yaml
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
