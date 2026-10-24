@@ -1,7 +1,6 @@
 ---
 title: Target selection criteria
 description: Honing focus on biodiversity change
-tags: [test, docs]
 weight: 4
 ---
 <link href="{{< blogdown/postref >}}index_files/pagedtable/css/pagedtable.css" rel="stylesheet" />

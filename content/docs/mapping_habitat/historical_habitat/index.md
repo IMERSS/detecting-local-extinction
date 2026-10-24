@@ -1,8 +1,6 @@
 ---
 title: Defining historical habitat patches
 description: Situating target species in the context of historical habitat patches
-categories: [Examples]
-tags: [test, docs]
 weight: 2
 ---
 
@@ -33,7 +31,7 @@ file.
 Firstly, a selection of manually chosen grid cells can be provided by correlating
 the historical population id with chosen grid cells ids in the ``cell_id`` column.
 These grid cells ids are computed using the overall project grid frame as managed
-by the utilties in [geomUtil.R](https://github.com/IMERSS/biodiversity-change-protocol/tree/main/scripts/geomUtil.R).
+by the utilities in [geomUtils.R](https://github.com/IMERSS/detecting-local-extinction/tree/main/scripts/geomUtils.R).
 
 Secondly, a coarse polygon may be delineated around the historical habitat and 
 stored in a GeoJSON file whose name is referenced in the ``filter_region`` column

@@ -5,7 +5,6 @@ math: true
 weight: 1
 ---
 
-XXXXXXX
 
 | Species                   | Rarity / Habitat Notes |
 |---------------------------|-------------------------|
@@ -25,4 +24,3 @@ Crassula connata (Image credit: Daniel
 Hetzel)
 {{% /imgproc %}}
 
-XXXXX

@@ -1,9 +1,7 @@
 ---
 title: Effective search effort
 description: Calculating the posterior distribution for one cell
-categories: [Examples, Placeholders]
 math: true
-tags: [test, docs]
 weight: 2
 ---
 

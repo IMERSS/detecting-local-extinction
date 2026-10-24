@@ -1,8 +1,6 @@
 ---
 title: Defining potential habitat patches
 description: Situating target species in the context of potential habitat
-categories: [Examples, Placeholders]
-tags: [test, docs]
 weight: 2
 ---
 
