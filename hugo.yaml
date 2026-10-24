@@ -61,8 +61,8 @@ menu:
     - identifier: donate
       name: Donate
       url: "https://imerss.org/donate/"
-      weight: 6
-    # This site's own "Docs" entry (weight 7) comes from content/docs/_index.md
+      weight: 7
+    # This site's own "Docs" entry (weight 6, before Donate) comes from content/docs/_index.md
     - name: Search
       weight: 8
       params:
