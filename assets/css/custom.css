@@ -338,3 +338,133 @@ div.para {
 .search-wrapper .excerpt {
     display: none;
 }
+
+
+    /* ── Hextra 0.9.x dropdown navbar menus ──────────────────────────── */
+
+.imerss-navbar-links {
+    display: flex;
+}
+
+@media (max-width: 860px) {
+    .imerss-navbar-links  {
+        display: none;
+    }
+}
+
+.hx-dropdown {
+    white-space: nowrap;
+}
+
+/* Chevron rotates when the dropdown is open */
+.hx-dropdown-chevron {
+    /* imerss.org gets this from its global svg display reset, which this site doesn't have */
+    display: inline;
+    vertical-align: revert;
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+}
+.hx-dropdown.is-open .hx-dropdown-chevron {
+    transform: rotate(180deg);
+}
+
+/* The floating panel */
+.hx-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 160px;
+    list-style: none;
+    margin: 0;
+    padding: 4px 0;
+    background: #30638e;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+    z-index: 50;
+    white-space: nowrap;
+}
+
+/* Dark mode panel */
+html.dark .hx-dropdown-menu {
+    background: #1a1a1a;
+    border-color: rgba(255, 255, 255, 0.10);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.40);
+}
+
+/* Show when open */
+.hx-dropdown.is-open .hx-dropdown-menu {
+    display: block;
+}
+
+/* Individual items */
+.hx-dropdown-item {
+    display: block;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+.hx-dropdown-item:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--bs-navbar-hover-color);
+}
+html.dark .hx-dropdown-item {
+    color: #9ca3af;          /* gray-400 */
+}
+html.dark .hx-dropdown-item:hover {
+    background: rgba(255, 255, 255, 0.07);
+    color: #f3f4f6;          /* gray-100 */
+}
+
+/* Active (current page) item */
+.hx-dropdown-item--active {
+    font-weight: 600;
+    color: var(--bs-navbar-active-color);
+}
+html.dark .hx-dropdown-item--active {
+    color: #f3f4f6;
+}
+
+/** Extra fix for mobile sidebar collapsible button **/
+
+.hextra-sidebar-collapsible-button svg {
+    overflow: visible;
+}
+
+.hamburger-menu {
+    display: flex;
+}
+
+/* make mobile hamburger menu work */
+.hextra-navbar-menu-toggle,
+.navbar-toggler {
+  display: flex !important;
+  z-index: 1050;
+}
+
+.hextra-sidebar-collapsible-button svg {
+  overflow: visible;
+}
+
+/* hide not-working hamburger menu on desktop */
+@media (min-width: 1025px) {
+  .hextra-navbar-menu-toggle,
+  .hamburger-menu,
+  .navbar-toggler {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .hextra-navbar-menu-toggle,
+  .hamburger-menu {
+    display: flex !important;
+    z-index: 1050;
+  }
+}
+
+

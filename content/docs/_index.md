@@ -1,7 +1,7 @@
 ---
 title: Advancing a protocol for the detection of species extirpation
 linkTitle: Docs
-menu: {main: {weight: 20}}
+menu: {main: {weight: 6}}
 ---
 
 {{% pageinfo %}}
